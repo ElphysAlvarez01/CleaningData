@@ -1,0 +1,1001 @@
+employee_id,Job Title,hire_date,employee_status,employee_type,Department,job_level,supervisor_status,union_affiliation,Location,age_group,Race/Ethnicity,Gender
+1,Media Manager III,12/14/2013,active,contract,Product Management,staff,Yes,Non-Uion,PA,56-65,Black,Male
+2,Associate Professor,8/9/2021,on leave,contract,Services,executive,Yes,Non-Uion,NY,18-25,Hispanic/Latino,Male
+3,Data Coordinator,4/16/2017,active,part-time,Sales,"",Yes,Non-Uion,CT,56-65,Black,Male
+4,Chemical Engineer,1/22/2009,on leave,contract,Services,"",No,Non-Uion,NJ,66+,,Female
+5,Internal Auditor,10/18/2016,active,contract,Accounting,management,No,Union,MA,46-55,Native American,Female
+6,General Manager,3/18/2020,active,part-time,Research and Development,executive,No,Non-Uion,NY,56-65,Native American,
+7,VP Accounting,10/3/2010,active,full-time,Human Resources,"",Yes,Non-Uion,MA,18-25,White,
+8,Physical Therapy Assistant,9/20/2003,on leave,contract,Engineering,management,No,Non-Uion,CT,18-25,,
+9,Civil Engineer,8/27/2012,active,contract,Product Management,management,No,Non-Uion,NY,36-45,Not Specified,Agender
+10,General Manager,1/27/1996,on leave,part-time,Product Management,executive,Yes,Union,NY,66+,White,Female
+11,Research Associate,5/24/2014,on leave,part-time,Product Management,"",Yes,Non-Uion,MA,66+,Native American,
+12,Physical Therapy Assistant,7/27/2016,on leave,part-time,Support,"",No,Non-Uion,NJ,46-55,Pacific Islander,
+13,Human Resources Manager,8/25/1984,active,full-time,Services,staff,Yes,Union,PA,18-25,"",Female
+14,Financial Advisor,12/16/2008,active,part-time,Product Management,"",Yes,Non-Uion,PA,46-55,Native American,Male
+15,Civil Engineer,5/17/2022,on leave,full-time,Accounting,staff,No,Non-Uion,CT,26-35,Asian,Male
+16,VP Sales,8/16/2004,on leave,contract,Training,management,No,Non-Uion,NJ,66+,Black,Male
+17,Account Executive,4/23/1996,on leave,full-time,Engineering,staff,Yes,Union,PA,36-45,Black,Female
+18,Biostatistician III,6/30/2022,active,full-time,Engineering,staff,Yes,Union,NJ,66+,,Female
+19,Research Nurse,12/7/2016,active,full-time,Services,management,Yes,Union,PA,56-65,Asian,Female
+20,Programmer II,8/31/1985,active,contract,Research and Development,management,No,Non-Uion,PA,26-35,Not Specified,
+21,Marketing Manager,5/28/2017,on leave,part-time,Training,staff,No,Non-Uion,NJ,36-45,Native American,Male
+22,Tax Accountant,11/7/1991,active,part-time,Product Management,executive,No,Union,PA,46-55,Not Specified,Female
+23,Technical Writer,7/21/1991,active,full-time,Training,management,No,Non-Uion,NY,26-35,Not Specified,
+24,Data Coordinator,1/8/2019,on leave,full-time,Legal,"",No,Union,MA,26-35,"",Genderfluid
+25,Web Developer IV,5/19/2015,active,full-time,Support,"",Yes,Union,MA,56-65,Pacific Islander,Female
+26,VP Sales,9/9/1999,active,full-time,Product Management,"",Yes,Non-Uion,NY,56-65,"",Female
+27,Design Engineer,5/27/2000,active,full-time,Legal,executive,No,Non-Uion,CT,26-35,"",Polygender
+28,Health Coach II,4/21/1994,on leave,contract,Business Development,"",Yes,Non-Uion,PA,26-35,Asian,Male
+29,Analyst Programmer,11/11/1999,active,full-time,Research and Development,"",Yes,Non-Uion,MA,66+,,Female
+30,Quality Engineer,4/5/2009,active,contract,Engineering,management,No,Union,NY,66+,Black,Male
+31,Automation Specialist I,7/29/2004,active,part-time,Training,"",Yes,Union,CT,36-45,,
+32,Account Executive,1/22/2016,active,full-time,Human Resources,"",Yes,Union,NY,36-45,Asian,
+33,Biostatistician III,2/9/2014,active,part-time,Research and Development,management,Yes,Non-Uion,MA,26-35,,Genderqueer
+34,Engineer I,5/21/2002,on leave,contract,Accounting,management,No,Union,NJ,46-55,Native American,Male
+35,VP Sales,1/17/1981,active,part-time,Training,staff,Yes,Union,CT,26-35,White,Male
+36,Senior Financial Analyst,9/6/1999,on leave,contract,Accounting,"",Yes,Union,NJ,18-25,,
+37,Research Nurse,7/30/2019,on leave,contract,Training,management,Yes,Union,MA,36-45,"",Polygender
+38,Computer Systems Analyst IV,6/19/2000,active,part-time,Marketing,staff,Yes,Non-Uion,CT,66+,White,Genderfluid
+39,Food Chemist,6/12/2023,active,part-time,Business Development,"",Yes,Non-Uion,CT,66+,Pacific Islander,Male
+40,Automation Specialist II,2/21/2004,on leave,contract,Marketing,"",Yes,Union,NJ,46-55,Black,Female
+41,Office Assistant III,9/11/2001,active,full-time,Research and Development,staff,No,Non-Uion,NY,18-25,,Female
+42,Account Coordinator,4/15/2001,on leave,full-time,Training,executive,No,Non-Uion,PA,26-35,White,Female
+43,Safety Technician IV,11/9/2006,active,contract,Engineering,management,Yes,Non-Uion,NY,26-35,,Male
+44,Teacher,12/23/2017,on leave,part-time,Research and Development,staff,No,Non-Uion,CT,26-35,Asian,Male
+45,Statistician II,1/10/2023,active,part-time,Business Development,"",No,Non-Uion,PA,18-25,Not Specified,Female
+46,Pharmacist,4/22/2018,on leave,part-time,Legal,executive,Yes,Union,MA,26-35,Pacific Islander,Female
+47,Recruiter,3/7/1988,active,contract,Human Resources,executive,No,Union,PA,36-45,"",Male
+48,Developer IV,12/14/1984,active,full-time,Research and Development,management,No,Union,CT,26-35,White,Male
+49,Nurse Practicioner,2/17/2024,on leave,contract,Human Resources,executive,No,Union,PA,46-55,"",Genderqueer
+50,Human Resources Manager,12/3/2009,active,contract,Product Management,staff,No,Union,MA,46-55,White,Male
+51,Paralegal,12/24/1997,active,contract,Services,management,Yes,Non-Uion,MA,56-65,Hispanic/Latino,Male
+52,Physical Therapy Assistant,4/7/2008,on leave,full-time,Engineering,executive,Yes,Union,NJ,26-35,White,
+53,Software Engineer IV,7/24/2000,active,contract,Accounting,"",No,Non-Uion,CT,26-35,Native American,Female
+54,Account Coordinator,11/3/1985,on leave,part-time,Marketing,"",Yes,Union,MA,18-25,,Male
+55,Food Chemist,5/6/2002,active,part-time,Engineering,executive,No,Non-Uion,NJ,26-35,Asian,Female
+56,Quality Engineer,2/15/2012,on leave,full-time,Engineering,executive,No,Non-Uion,NY,56-65,Native American,Male
+57,Operator,4/7/1985,active,contract,Product Management,"",No,Non-Uion,CT,66+,Pacific Islander,Male
+58,Web Developer III,1/5/2022,on leave,contract,Engineering,staff,No,Non-Uion,NY,66+,White,Female
+59,Nurse Practicioner,1/19/2010,active,part-time,Legal,management,No,Union,PA,66+,Asian,Male
+60,Biostatistician III,7/24/1981,on leave,part-time,Services,executive,No,Union,PA,36-45,,Female
+61,Dental Hygienist,9/29/2010,on leave,full-time,Services,management,Yes,Non-Uion,MA,26-35,,Male
+62,Help Desk Operator,10/7/2023,on leave,part-time,Human Resources,staff,Yes,Non-Uion,NJ,46-55,"",
+63,VP Accounting,5/29/2012,on leave,part-time,Sales,management,No,Union,NY,56-65,Pacific Islander,
+64,Paralegal,2/23/2000,on leave,contract,Research and Development,"",No,Union,NY,46-55,Hispanic/Latino,Male
+65,Assistant Manager,5/10/1981,active,part-time,Business Development,executive,No,Union,NY,26-35,,Male
+66,Junior Executive,8/7/2021,active,part-time,Business Development,"",No,Union,CT,26-35,Not Specified,Male
+67,Senior Sales Associate,8/6/2019,on leave,full-time,Marketing,staff,No,Non-Uion,MA,56-65,Not Specified,Male
+68,Marketing Assistant,3/17/2007,active,contract,Accounting,management,Yes,Union,NJ,66+,White,
+69,VP Quality Control,3/16/1989,on leave,full-time,Legal,staff,No,Union,NJ,26-35,Pacific Islander,Female
+70,Nurse Practicioner,3/16/1981,on leave,full-time,Legal,"",No,Union,NJ,56-65,,Female
+71,Office Assistant I,7/19/2010,active,part-time,Legal,executive,No,Non-Uion,CT,56-65,,Agender
+72,Biostatistician II,9/12/2017,on leave,part-time,Accounting,"",No,Non-Uion,CT,26-35,"",Female
+73,Structural Analysis Engineer,8/4/2023,active,contract,Training,staff,No,Non-Uion,CT,46-55,Pacific Islander,Male
+74,Developer I,10/28/2014,active,full-time,Human Resources,management,Yes,Union,PA,56-65,,
+75,Help Desk Operator,2/2/2011,active,part-time,Training,management,Yes,Non-Uion,CT,56-65,Asian,Male
+76,VP Marketing,11/22/1980,on leave,part-time,Engineering,management,No,Non-Uion,CT,56-65,White,Male
+77,Sales Representative,1/9/2015,active,full-time,Marketing,"",Yes,Non-Uion,NJ,56-65,Pacific Islander,
+78,Database Administrator I,2/17/2009,on leave,part-time,Services,staff,Yes,Non-Uion,NJ,36-45,Pacific Islander,Male
+79,Assistant Media Planner,3/4/1984,active,contract,Legal,management,No,Union,CT,26-35,Black,Male
+80,Research Nurse,2/12/2013,active,full-time,Engineering,executive,Yes,Union,NY,66+,Not Specified,Male
+81,Technical Writer,1/4/2013,active,contract,Research and Development,management,No,Non-Uion,NJ,26-35,White,Female
+82,Assistant Professor,2/2/2017,on leave,part-time,Sales,staff,Yes,Union,MA,36-45,,Male
+83,Nuclear Power Engineer,2/4/1990,active,contract,Services,"",No,Non-Uion,NJ,18-25,Asian,
+84,Registered Nurse,7/17/2022,on leave,full-time,Support,executive,Yes,Non-Uion,PA,56-65,Hispanic/Latino,Female
+85,Legal Assistant,10/21/1986,active,full-time,Engineering,"",Yes,Union,CT,18-25,,Female
+86,Physical Therapy Assistant,11/8/2023,active,contract,Human Resources,staff,Yes,Union,NJ,46-55,,Male
+87,Operator,3/28/1989,active,full-time,Marketing,management,Yes,Union,PA,56-65,Asian,Male
+88,Technical Writer,5/16/2013,active,full-time,Services,executive,No,Union,MA,56-65,White,Male
+89,Staff Accountant II,12/15/1993,on leave,full-time,Research and Development,"",Yes,Non-Uion,NJ,18-25,Hispanic/Latino,Female
+90,Senior Financial Analyst,5/31/2009,on leave,part-time,Services,management,Yes,Non-Uion,MA,36-45,,Female
+91,VP Sales,3/24/2010,on leave,full-time,Human Resources,staff,Yes,Non-Uion,NJ,36-45,"",Female
+92,Chief Design Engineer,12/4/2021,on leave,contract,Product Management,"",Yes,Non-Uion,NJ,56-65,,Female
+93,Account Coordinator,6/3/1981,on leave,contract,Legal,staff,No,Non-Uion,PA,18-25,Native American,Male
+94,Senior Cost Accountant,7/25/2004,on leave,part-time,Product Management,"",Yes,Union,MA,56-65,Pacific Islander,Female
+95,Staff Accountant I,5/28/1992,on leave,full-time,Sales,"",Yes,Union,NY,18-25,Hispanic/Latino,Female
+96,Technical Writer,8/17/2013,active,full-time,Marketing,"",No,Union,PA,46-55,,Bigender
+97,Marketing Manager,8/4/2005,on leave,part-time,Product Management,management,No,Non-Uion,MA,26-35,,Female
+98,Social Worker,2/25/1993,active,part-time,Product Management,"",No,Union,NY,26-35,White,
+99,Chief Design Engineer,6/23/2014,on leave,part-time,Services,executive,No,Non-Uion,NJ,46-55,Pacific Islander,Female
+100,Registered Nurse,4/17/2020,active,full-time,Support,management,No,Non-Uion,PA,56-65,Hispanic/Latino,Male
+101,Media Manager III,8/8/2007,on leave,part-time,Product Management,executive,No,Non-Uion,NY,18-25,Black,Female
+102,Structural Engineer,5/8/2005,active,contract,Research and Development,management,Yes,Union,NY,36-45,Not Specified,Female
+103,Computer Systems Analyst II,5/20/2015,on leave,part-time,Research and Development,staff,Yes,Union,PA,56-65,Pacific Islander,Female
+104,Account Coordinator,11/22/2004,on leave,part-time,Research and Development,staff,No,Union,NY,56-65,Asian,Male
+105,Database Administrator IV,11/21/2006,on leave,part-time,Business Development,management,Yes,Non-Uion,CT,46-55,Asian,Female
+106,Assistant Professor,6/10/1998,on leave,full-time,Marketing,staff,Yes,Non-Uion,NJ,46-55,Black,Male
+107,Internal Auditor,3/16/1984,on leave,part-time,Business Development,executive,No,Non-Uion,NY,56-65,"",Female
+108,Pharmacist,2/28/2017,active,full-time,Services,"",No,Union,PA,46-55,Native American,Female
+109,Web Developer I,12/21/1982,on leave,contract,Support,"",No,Union,NY,36-45,"",Female
+110,Structural Analysis Engineer,2/2/2016,active,full-time,Support,executive,No,Union,PA,36-45,,Male
+111,Geological Engineer,1/18/1983,active,contract,Accounting,staff,No,Non-Uion,NY,36-45,,Male
+112,Office Assistant IV,4/22/2011,on leave,part-time,Accounting,staff,Yes,Non-Uion,CT,36-45,Not Specified,Male
+113,Product Engineer,1/10/2002,active,part-time,Accounting,"",No,Non-Uion,CT,18-25,Hispanic/Latino,Female
+114,Product Engineer,4/25/1989,on leave,contract,Marketing,management,No,Non-Uion,CT,26-35,Asian,Male
+115,Assistant Media Planner,11/28/1988,on leave,full-time,Research and Development,staff,Yes,Non-Uion,NJ,18-25,Black,Male
+116,Software Consultant,8/10/2017,active,part-time,Training,executive,No,Non-Uion,NJ,46-55,Not Specified,Male
+117,Speech Pathologist,8/4/2008,on leave,full-time,Accounting,staff,No,Union,MA,66+,Pacific Islander,Female
+118,Assistant Professor,7/25/1983,active,full-time,Legal,staff,Yes,Union,NY,26-35,Black,Female
+119,Staff Accountant I,1/7/2013,active,contract,Research and Development,management,Yes,Non-Uion,PA,46-55,,Genderfluid
+120,Chemical Engineer,2/28/1999,on leave,contract,Training,"",Yes,Non-Uion,NY,46-55,Pacific Islander,Female
+121,Health Coach I,8/26/2023,active,full-time,Support,"",No,Non-Uion,PA,46-55,White,Male
+122,Design Engineer,6/30/2022,on leave,part-time,Business Development,management,Yes,Non-Uion,CT,56-65,Asian,Female
+123,Programmer II,1/24/1990,active,full-time,Accounting,management,No,Union,CT,46-55,White,Genderfluid
+124,Financial Analyst,12/3/1981,on leave,part-time,Business Development,"",Yes,Non-Uion,PA,46-55,Pacific Islander,Female
+125,Web Designer IV,4/17/1992,active,part-time,Marketing,"",Yes,Non-Uion,NY,66+,Not Specified,
+126,Marketing Manager,4/27/1991,on leave,contract,Services,staff,No,Non-Uion,NY,36-45,"",Female
+127,Internal Auditor,7/17/1982,on leave,contract,Support,management,Yes,Union,MA,56-65,Not Specified,Male
+128,Executive Secretary,11/11/2021,active,full-time,Engineering,executive,No,Non-Uion,NJ,36-45,,
+129,Analyst Programmer,9/9/1990,on leave,contract,Product Management,executive,Yes,Union,NJ,36-45,Native American,Male
+130,Editor,1/23/1994,active,part-time,Support,executive,Yes,Non-Uion,CT,18-25,Hispanic/Latino,Female
+131,Design Engineer,1/11/2017,on leave,full-time,Human Resources,"",No,Non-Uion,NY,18-25,White,Male
+132,Quality Engineer,6/29/2018,active,part-time,Legal,executive,No,Non-Uion,PA,66+,"",Male
+133,Account Coordinator,9/4/2010,on leave,contract,Sales,management,No,Union,NY,56-65,Not Specified,Female
+134,Physical Therapy Assistant,9/19/1985,on leave,full-time,Accounting,management,Yes,Non-Uion,PA,36-45,Native American,Male
+135,Legal Assistant,3/9/2018,on leave,contract,Sales,executive,Yes,Union,PA,26-35,Hispanic/Latino,Male
+136,VP Accounting,12/20/1980,on leave,contract,Services,"",Yes,Non-Uion,PA,66+,Pacific Islander,Female
+137,Design Engineer,12/8/1987,on leave,contract,Accounting,executive,No,Non-Uion,NY,66+,,Male
+138,Social Worker,8/12/1983,on leave,part-time,Legal,"",Yes,Union,PA,18-25,Black,Male
+139,Engineer IV,11/25/2020,active,contract,Business Development,"",No,Union,PA,66+,Pacific Islander,Male
+140,Recruiter,5/5/1980,active,part-time,Services,executive,No,Union,PA,18-25,Native American,Male
+141,Environmental Specialist,8/28/1999,on leave,part-time,Human Resources,management,No,Non-Uion,MA,66+,Asian,Male
+142,VP Quality Control,9/14/2000,active,part-time,Marketing,management,No,Non-Uion,NJ,46-55,White,Male
+143,Human Resources Assistant II,5/10/1983,active,contract,Research and Development,staff,No,Union,NJ,18-25,Hispanic/Latino,Male
+144,Developer III,10/29/1997,on leave,contract,Legal,"",No,Union,MA,66+,Native American,
+145,Automation Specialist I,1/31/1980,active,full-time,Support,"",Yes,Non-Uion,NJ,18-25,Black,Male
+146,Information Systems Manager,4/29/2010,on leave,contract,Training,executive,Yes,Non-Uion,PA,46-55,Not Specified,Male
+147,Assistant Manager,8/15/2013,on leave,part-time,Marketing,executive,Yes,Union,MA,56-65,"",Female
+148,VP Marketing,4/27/1987,on leave,part-time,Business Development,staff,No,Union,NJ,46-55,,Male
+149,Software Consultant,2/17/1986,active,full-time,Research and Development,executive,No,Union,PA,36-45,Black,Female
+150,GIS Technical Architect,6/2/2007,active,part-time,Accounting,management,Yes,Union,PA,66+,Not Specified,Male
+151,Business Systems Development Analyst,5/18/1998,on leave,full-time,Legal,"",No,Union,PA,26-35,Hispanic/Latino,Male
+152,Desktop Support Technician,2/21/2017,active,full-time,Human Resources,staff,Yes,Union,NY,36-45,Pacific Islander,Genderfluid
+153,VP Accounting,8/2/1988,active,contract,Engineering,"",No,Non-Uion,CT,26-35,,
+154,Administrative Officer,12/8/1988,active,part-time,Training,executive,Yes,Non-Uion,NJ,36-45,Asian,Male
+155,Engineer IV,11/14/1983,on leave,contract,Engineering,management,No,Union,CT,56-65,,Female
+156,Account Coordinator,1/16/1983,active,full-time,Services,staff,Yes,Non-Uion,CT,26-35,"",Male
+157,Occupational Therapist,6/27/1999,on leave,full-time,Accounting,executive,Yes,Union,MA,26-35,Black,Male
+158,Geological Engineer,3/6/1988,on leave,full-time,Support,executive,No,Non-Uion,NJ,66+,Hispanic/Latino,Polygender
+159,Research Nurse,2/15/1991,on leave,full-time,Legal,"",Yes,Union,NJ,56-65,Native American,Female
+160,Registered Nurse,6/6/2001,active,part-time,Engineering,executive,Yes,Non-Uion,NY,26-35,,Female
+161,Environmental Tech,10/25/1985,on leave,contract,Sales,staff,Yes,Non-Uion,NJ,66+,"",Male
+162,Accountant IV,9/28/2011,active,part-time,Sales,"",Yes,Union,NY,18-25,"",Male
+163,Human Resources Manager,3/16/1984,active,part-time,Services,executive,No,Union,NJ,66+,"",Female
+164,Statistician II,2/9/2023,on leave,full-time,Research and Development,staff,No,Non-Uion,NJ,36-45,,Male
+165,VP Product Management,1/28/2022,on leave,contract,Accounting,"",Yes,Non-Uion,CT,36-45,Hispanic/Latino,
+166,Help Desk Operator,5/23/1985,on leave,full-time,Sales,"",Yes,Union,CT,56-65,Pacific Islander,Bigender
+167,Technical Writer,7/2/1985,on leave,contract,Business Development,staff,Yes,Non-Uion,NJ,18-25,Black,Bigender
+168,Occupational Therapist,9/18/1981,active,contract,Research and Development,staff,No,Union,MA,46-55,Hispanic/Latino,Agender
+169,Human Resources Manager,9/8/2023,active,part-time,Accounting,staff,Yes,Non-Uion,CT,26-35,Black,Female
+170,Design Engineer,5/23/2006,on leave,part-time,Sales,staff,No,Union,PA,66+,"",Male
+171,Web Developer IV,8/3/2012,on leave,contract,Support,staff,Yes,Non-Uion,PA,18-25,Black,Male
+172,Administrative Assistant I,4/26/1995,active,contract,Training,"",Yes,Union,NY,18-25,,Male
+173,Payment Adjustment Coordinator,2/12/2007,active,full-time,Training,"",Yes,Non-Uion,MA,18-25,Native American,
+174,Dental Hygienist,12/6/2008,active,contract,Product Management,management,No,Union,CT,66+,Pacific Islander,Male
+175,Operator,7/25/1999,on leave,contract,Training,staff,Yes,Union,NJ,26-35,Native American,Female
+176,Senior Developer,4/22/2012,active,full-time,Services,management,No,Union,CT,26-35,Hispanic/Latino,Male
+177,Health Coach I,1/26/1983,active,contract,Research and Development,management,Yes,Union,NY,36-45,Black,Male
+178,Database Administrator III,9/12/2015,on leave,part-time,Business Development,"",Yes,Non-Uion,NJ,56-65,"",Female
+179,Help Desk Operator,6/28/2000,on leave,full-time,Legal,staff,No,Non-Uion,CT,36-45,"",Male
+180,Quality Control Specialist,2/6/2016,on leave,part-time,Accounting,staff,Yes,Non-Uion,CT,66+,Black,Male
+181,Community Outreach Specialist,8/24/2012,active,part-time,Services,executive,Yes,Union,NJ,66+,White,Female
+182,Sales Associate,1/8/2021,active,part-time,Legal,management,Yes,Union,NJ,36-45,Not Specified,Female
+183,Help Desk Operator,9/15/2000,active,contract,Training,staff,Yes,Non-Uion,MA,46-55,,Female
+184,Biostatistician II,3/18/1994,active,contract,Legal,executive,No,Non-Uion,MA,66+,White,
+185,Help Desk Operator,4/5/2021,on leave,full-time,Business Development,executive,No,Union,NJ,66+,Hispanic/Latino,Male
+186,Nurse,5/21/2011,on leave,full-time,Product Management,management,No,Union,NY,56-65,Not Specified,
+187,Administrative Officer,10/7/1985,active,full-time,Legal,staff,Yes,Non-Uion,MA,36-45,Native American,Female
+188,Associate Professor,5/8/2000,on leave,contract,Training,staff,No,Union,NY,56-65,Not Specified,Female
+189,Editor,3/1/2019,on leave,full-time,Engineering,management,Yes,Union,NY,18-25,Not Specified,Male
+190,Financial Analyst,6/17/2022,on leave,part-time,Sales,"",Yes,Non-Uion,CT,56-65,Native American,Male
+191,Tax Accountant,3/15/2020,on leave,full-time,Product Management,"",Yes,Union,NY,46-55,Not Specified,Male
+192,Office Assistant I,1/18/1998,active,part-time,Engineering,management,Yes,Union,PA,46-55,Asian,Male
+193,Editor,9/4/1985,on leave,contract,Sales,management,No,Non-Uion,MA,18-25,Black,Female
+194,Editor,10/3/1980,on leave,full-time,Research and Development,executive,Yes,Non-Uion,PA,26-35,Pacific Islander,Female
+195,Community Outreach Specialist,8/3/2007,on leave,contract,Support,executive,No,Non-Uion,NY,56-65,Not Specified,
+196,Sales Representative,7/14/1986,on leave,part-time,Training,staff,Yes,Non-Uion,NY,46-55,Not Specified,Male
+197,Occupational Therapist,2/24/2007,active,contract,Engineering,executive,No,Union,CT,18-25,Not Specified,Female
+198,Programmer I,6/20/1991,active,part-time,Product Management,executive,Yes,Non-Uion,MA,26-35,White,Male
+199,Operator,1/7/1999,on leave,part-time,Support,executive,No,Union,CT,26-35,Hispanic/Latino,Male
+200,Occupational Therapist,10/26/2004,active,contract,Support,"",Yes,Union,NJ,56-65,Hispanic/Latino,Female
+201,VP Product Management,9/10/2014,active,part-time,Sales,"",No,Non-Uion,NJ,26-35,Black,Female
+202,Business Systems Development Analyst,7/22/1994,on leave,full-time,Product Management,executive,No,Union,CT,56-65,,Male
+203,VP Product Management,7/10/1989,on leave,part-time,Business Development,"",No,Union,NY,66+,Asian,Female
+204,Software Consultant,3/6/1982,active,part-time,Marketing,executive,No,Non-Uion,CT,46-55,,Female
+205,Nuclear Power Engineer,1/16/1987,on leave,contract,Research and Development,executive,No,Non-Uion,PA,36-45,White,Female
+206,Programmer Analyst IV,8/3/2016,active,part-time,Marketing,management,Yes,Non-Uion,NJ,18-25,,Polygender
+207,Budget/Accounting Analyst III,7/24/2009,on leave,part-time,Human Resources,staff,No,Union,CT,66+,Not Specified,Female
+208,Automation Specialist I,9/21/1984,active,contract,Legal,executive,No,Union,CT,46-55,Asian,Male
+209,Programmer III,11/29/2021,active,part-time,Engineering,staff,Yes,Union,MA,18-25,"",Female
+210,Office Assistant III,11/8/2016,on leave,part-time,Marketing,"",No,Union,NJ,36-45,Black,Male
+211,Design Engineer,5/19/1992,on leave,contract,Engineering,management,Yes,Union,MA,66+,Hispanic/Latino,Male
+212,Senior Cost Accountant,11/6/2011,active,part-time,Services,executive,No,Non-Uion,NJ,36-45,,
+213,Paralegal,1/14/1985,active,contract,Business Development,management,No,Non-Uion,MA,46-55,White,Female
+214,Editor,2/26/1991,active,contract,Human Resources,"",Yes,Union,CT,66+,Pacific Islander,
+215,Data Coordinator,9/6/1988,active,contract,Product Management,executive,Yes,Union,NJ,26-35,Not Specified,Female
+216,Account Coordinator,4/25/1986,active,full-time,Legal,"",Yes,Union,CT,26-35,Native American,Male
+217,Administrative Assistant IV,6/11/1984,on leave,part-time,Marketing,executive,Yes,Non-Uion,MA,46-55,"",Female
+218,Software Test Engineer III,5/21/2013,active,full-time,Business Development,management,No,Non-Uion,MA,56-65,,Male
+219,Engineer IV,5/31/1983,on leave,full-time,Training,management,No,Union,MA,66+,,Polygender
+220,Biostatistician I,8/29/2012,active,contract,Legal,"",No,Union,MA,36-45,Native American,Non-binary
+221,Information Systems Manager,3/12/2024,on leave,contract,Product Management,"",No,Non-Uion,PA,36-45,Native American,Female
+222,Tax Accountant,7/11/1993,active,full-time,Services,"",No,Union,NJ,26-35,Pacific Islander,Female
+223,Senior Quality Engineer,5/29/1996,on leave,full-time,Support,"",No,Union,NY,26-35,"",
+224,Cost Accountant,7/11/1995,active,part-time,Business Development,executive,Yes,Union,CT,66+,Asian,Female
+225,Biostatistician II,6/13/2008,active,part-time,Training,management,No,Union,MA,26-35,Black,Male
+226,Associate Professor,5/6/1985,active,full-time,Accounting,executive,No,Union,CT,26-35,Asian,Female
+227,Clinical Specialist,8/4/2016,on leave,part-time,Research and Development,executive,Yes,Union,PA,46-55,Native American,Male
+228,Research Assistant III,10/9/2010,active,part-time,Training,staff,No,Non-Uion,NY,66+,Native American,Male
+229,Executive Secretary,8/28/2006,on leave,part-time,Support,executive,No,Non-Uion,PA,66+,"",Male
+230,Account Coordinator,2/22/2004,active,contract,Sales,management,Yes,Non-Uion,NY,56-65,Hispanic/Latino,Male
+231,Sales Associate,5/9/1993,on leave,contract,Marketing,executive,Yes,Non-Uion,PA,26-35,Not Specified,Female
+232,Chief Design Engineer,1/8/1989,on leave,part-time,Sales,management,No,Non-Uion,CT,36-45,Native American,
+233,Developer I,2/25/1989,active,part-time,Product Management,executive,No,Union,MA,36-45,Not Specified,Male
+234,Pharmacist,4/27/2016,on leave,full-time,Business Development,executive,No,Union,PA,56-65,Pacific Islander,
+235,Senior Quality Engineer,10/1/2019,on leave,contract,Engineering,management,Yes,Non-Uion,NY,46-55,Pacific Islander,Female
+236,Cost Accountant,3/31/1981,on leave,contract,Product Management,management,Yes,Union,PA,46-55,Black,Genderfluid
+237,Operator,3/21/1986,active,contract,Legal,staff,No,Union,NJ,36-45,"",Female
+238,Geological Engineer,1/4/2015,on leave,full-time,Research and Development,"",No,Non-Uion,NJ,56-65,Asian,Female
+239,Health Coach I,2/12/1984,on leave,part-time,Legal,"",No,Non-Uion,NY,46-55,,Male
+240,Marketing Assistant,12/31/2005,on leave,contract,Legal,staff,Yes,Union,CT,18-25,White,Female
+241,Safety Technician I,6/2/1994,active,part-time,Accounting,executive,Yes,Union,PA,18-25,White,Male
+242,Professor,4/28/2000,active,part-time,Services,"",No,Union,NJ,56-65,Asian,Non-binary
+243,Research Associate,9/5/2015,active,part-time,Business Development,management,Yes,Union,NJ,56-65,Native American,Male
+244,Sales Associate,5/8/1995,active,part-time,Services,staff,No,Union,MA,36-45,"",Male
+245,Associate Professor,1/29/2003,on leave,part-time,Sales,executive,No,Non-Uion,NY,56-65,Not Specified,Female
+246,Health Coach IV,12/6/2005,active,contract,Product Management,staff,Yes,Union,CT,66+,Not Specified,Female
+247,Nuclear Power Engineer,11/13/2011,active,full-time,Accounting,staff,Yes,Non-Uion,CT,36-45,Black,
+248,VP Accounting,3/21/1994,active,full-time,Engineering,executive,Yes,Union,PA,36-45,Not Specified,Male
+249,Executive Secretary,9/17/1993,on leave,part-time,Business Development,executive,No,Non-Uion,NY,56-65,"",
+250,Engineer II,2/22/2003,active,contract,Research and Development,management,No,Union,NY,56-65,Black,Female
+251,Marketing Manager,11/22/1996,active,contract,Human Resources,"",Yes,Union,NJ,18-25,Black,Female
+252,Associate Professor,10/3/2021,active,part-time,Engineering,management,Yes,Union,NJ,46-55,Pacific Islander,Female
+253,Geologist IV,12/7/1982,on leave,part-time,Sales,staff,No,Non-Uion,CT,18-25,Native American,Male
+254,Nuclear Power Engineer,2/14/2001,on leave,part-time,Training,"",Yes,Union,NY,56-65,White,
+255,Web Designer IV,9/11/2019,on leave,part-time,Accounting,management,No,Non-Uion,MA,36-45,Native American,Female
+256,Geological Engineer,6/26/2023,active,contract,Services,"",No,Union,PA,66+,Asian,Female
+257,Structural Engineer,1/20/1987,active,part-time,Research and Development,executive,No,Non-Uion,MA,18-25,,Female
+258,Payment Adjustment Coordinator,7/12/2017,on leave,part-time,Engineering,management,No,Union,MA,18-25,,Female
+259,Director of Sales,8/19/2001,on leave,full-time,Human Resources,executive,Yes,Union,NJ,56-65,Asian,Male
+260,Systems Administrator III,3/7/2006,on leave,part-time,Sales,"",Yes,Union,NY,56-65,Not Specified,Female
+261,Help Desk Technician,9/18/2021,active,full-time,Marketing,"",Yes,Non-Uion,NY,18-25,White,
+262,Database Administrator IV,8/10/1989,on leave,contract,Product Management,staff,Yes,Union,NJ,56-65,Black,
+263,Human Resources Manager,10/15/2004,on leave,contract,Accounting,"",No,Non-Uion,CT,46-55,Native American,Male
+264,Web Designer II,9/21/2009,active,part-time,Legal,management,No,Union,PA,66+,Black,Bigender
+265,Staff Accountant IV,4/20/1984,on leave,full-time,Sales,"",No,Non-Uion,MA,36-45,Black,Female
+266,Statistician III,11/30/2017,on leave,contract,Research and Development,staff,No,Non-Uion,MA,26-35,Black,Male
+267,Information Systems Manager,2/18/2001,active,part-time,Marketing,staff,Yes,Union,CT,36-45,Native American,Female
+268,Staff Accountant III,11/6/2011,active,part-time,Engineering,"",No,Non-Uion,CT,56-65,,Polygender
+269,Sales Associate,9/6/1987,active,full-time,Legal,staff,No,Non-Uion,NJ,66+,,Female
+270,Programmer III,11/4/1996,active,full-time,Sales,executive,Yes,Non-Uion,CT,18-25,Not Specified,Male
+271,Accounting Assistant III,3/21/2004,on leave,contract,Business Development,executive,Yes,Union,NJ,36-45,,
+272,Accounting Assistant II,7/16/1981,active,full-time,Human Resources,management,Yes,Non-Uion,NY,18-25,Not Specified,Male
+273,GIS Technical Architect,9/5/2023,on leave,part-time,Support,staff,No,Union,NJ,56-65,White,Female
+274,Computer Systems Analyst IV,6/11/1995,on leave,full-time,Marketing,executive,No,Union,NJ,18-25,White,Male
+275,Administrative Officer,4/19/1994,on leave,part-time,Support,management,No,Non-Uion,MA,36-45,White,Female
+276,Safety Technician II,4/11/1988,active,full-time,Accounting,staff,No,Non-Uion,CT,46-55,Pacific Islander,Female
+277,Mechanical Systems Engineer,1/14/2013,active,full-time,Product Management,"",No,Union,PA,36-45,Pacific Islander,Polygender
+278,VP Product Management,10/31/2021,active,full-time,Support,executive,No,Non-Uion,PA,46-55,Not Specified,Male
+279,Assistant Media Planner,7/21/2009,on leave,full-time,Research and Development,"",No,Non-Uion,NJ,36-45,Black,Male
+280,Staff Scientist,11/18/1985,on leave,part-time,Training,management,No,Non-Uion,NJ,56-65,Native American,Female
+281,Physical Therapy Assistant,10/6/1997,active,contract,Services,"",No,Non-Uion,MA,36-45,Native American,Female
+282,Compensation Analyst,3/21/2012,active,contract,Services,executive,Yes,Union,NY,46-55,Pacific Islander,Male
+283,Physical Therapy Assistant,9/2/1985,active,full-time,Marketing,management,Yes,Union,PA,46-55,Native American,Female
+284,Financial Analyst,10/24/1996,on leave,full-time,Services,staff,Yes,Union,CT,26-35,Pacific Islander,
+285,Account Representative II,8/18/1997,on leave,full-time,Research and Development,"",No,Non-Uion,MA,46-55,White,Female
+286,Nurse Practicioner,4/15/1989,active,full-time,Services,management,Yes,Union,PA,36-45,Hispanic/Latino,Female
+287,Health Coach IV,12/9/1989,active,contract,Engineering,"",No,Non-Uion,NJ,46-55,Asian,Male
+288,Clinical Specialist,4/26/2020,active,part-time,Marketing,executive,No,Non-Uion,MA,36-45,,Female
+289,Office Assistant III,6/13/1992,active,contract,Training,executive,Yes,Non-Uion,CT,56-65,Not Specified,Male
+290,Operator,11/24/1996,active,contract,Business Development,executive,Yes,Non-Uion,CT,46-55,Pacific Islander,
+291,Marketing Assistant,12/31/2020,active,contract,Human Resources,executive,Yes,Union,NY,36-45,"",Male
+292,VP Quality Control,5/28/2017,active,contract,Sales,management,Yes,Union,MA,18-25,Hispanic/Latino,Agender
+293,Safety Technician I,3/4/1998,active,full-time,Research and Development,executive,No,Union,NJ,36-45,Black,Female
+294,Software Test Engineer II,3/11/2024,active,contract,Human Resources,staff,No,Non-Uion,CT,66+,,Female
+295,Data Coordinator,9/27/2019,active,part-time,Training,staff,No,Non-Uion,MA,66+,Not Specified,Female
+296,VP Accounting,10/8/2018,active,part-time,Business Development,"",No,Non-Uion,NJ,36-45,"",Male
+297,Operator,9/11/1999,on leave,contract,Human Resources,management,No,Non-Uion,CT,36-45,Hispanic/Latino,Male
+298,Office Assistant III,6/18/2012,active,part-time,Accounting,staff,No,Union,NJ,56-65,Black,Female
+299,Editor,6/18/1988,on leave,contract,Marketing,management,No,Union,NY,36-45,,Female
+300,Teacher,9/18/2001,active,full-time,Support,"",Yes,Union,PA,66+,White,Genderfluid
+301,Internal Auditor,12/9/2022,active,contract,Engineering,"",Yes,Union,NY,26-35,Pacific Islander,Non-binary
+302,Environmental Tech,10/19/1995,on leave,part-time,Accounting,staff,No,Union,NJ,66+,Hispanic/Latino,Agender
+303,Geological Engineer,3/9/1985,on leave,full-time,Business Development,staff,No,Union,MA,66+,Native American,Female
+304,Structural Analysis Engineer,2/15/2017,on leave,full-time,Support,"",No,Union,NY,36-45,,Male
+305,Recruiter,12/20/1992,active,full-time,Support,"",No,Union,MA,66+,White,Male
+306,Clinical Specialist,3/28/2010,active,part-time,Research and Development,management,No,Union,NJ,46-55,Native American,Male
+307,Food Chemist,9/1/1996,on leave,full-time,Business Development,executive,Yes,Union,CT,56-65,White,Male
+308,Project Manager,11/15/2019,active,part-time,Marketing,management,Yes,Non-Uion,NJ,46-55,Pacific Islander,Male
+309,Computer Systems Analyst I,12/17/2015,active,part-time,Accounting,staff,No,Union,CT,18-25,Pacific Islander,Female
+310,Human Resources Manager,8/11/1999,on leave,full-time,Product Management,"",Yes,Union,CT,56-65,Black,Male
+311,Information Systems Manager,8/10/2020,on leave,part-time,Research and Development,"",No,Union,PA,36-45,White,Female
+312,Dental Hygienist,11/7/2009,on leave,contract,Human Resources,executive,No,Non-Uion,CT,18-25,Not Specified,Female
+313,Geologist I,9/22/1989,active,part-time,Marketing,executive,No,Union,NJ,18-25,Not Specified,Male
+314,Product Engineer,5/2/2023,on leave,part-time,Research and Development,"",No,Union,PA,56-65,,Female
+315,Electrical Engineer,1/1/2021,on leave,part-time,Training,staff,Yes,Union,NJ,36-45,Pacific Islander,
+316,Clinical Specialist,2/19/2005,on leave,full-time,Accounting,"",No,Union,NY,18-25,"",Male
+317,Media Manager III,3/29/1998,active,full-time,Sales,management,Yes,Union,NY,66+,Pacific Islander,Male
+318,Quality Engineer,3/11/1997,active,contract,Sales,management,Yes,Non-Uion,NY,26-35,White,Male
+319,Human Resources Manager,3/25/1998,on leave,part-time,Legal,management,No,Union,MA,66+,,Female
+320,Dental Hygienist,11/20/2013,on leave,full-time,Human Resources,staff,No,Non-Uion,NJ,36-45,"",Male
+321,GIS Technical Architect,11/12/1998,active,part-time,Services,management,No,Union,PA,66+,Native American,Female
+322,Teacher,12/11/1995,on leave,contract,Services,staff,No,Union,PA,18-25,Hispanic/Latino,Male
+323,Nurse,11/27/2020,active,part-time,Business Development,executive,Yes,Non-Uion,NY,56-65,Black,Female
+324,Analyst Programmer,7/19/2000,active,contract,Sales,executive,No,Non-Uion,NJ,26-35,Pacific Islander,Male
+325,Automation Specialist II,6/27/2009,on leave,full-time,Legal,executive,No,Union,NY,18-25,Black,Female
+326,Operator,1/8/2012,on leave,contract,Engineering,management,Yes,Non-Uion,NJ,26-35,,Female
+327,Research Nurse,10/10/1991,on leave,contract,Legal,executive,Yes,Union,PA,56-65,Asian,Female
+328,Compensation Analyst,6/9/2003,on leave,contract,Engineering,executive,No,Non-Uion,PA,46-55,Black,Male
+329,Web Designer III,10/28/1983,active,contract,Product Management,"",No,Union,NJ,66+,Hispanic/Latino,Female
+330,Administrative Assistant IV,2/27/2022,on leave,part-time,Support,"",No,Non-Uion,MA,56-65,Hispanic/Latino,
+331,Cost Accountant,2/11/1990,active,full-time,Human Resources,staff,No,Union,MA,18-25,Native American,
+332,Administrative Assistant I,7/10/1999,active,part-time,Human Resources,staff,No,Union,PA,46-55,Asian,Male
+333,Nurse Practicioner,7/4/1985,on leave,contract,Accounting,staff,Yes,Union,CT,46-55,Hispanic/Latino,Female
+334,Cost Accountant,9/7/1984,active,contract,Services,management,Yes,Non-Uion,PA,18-25,Not Specified,Male
+335,Research Nurse,1/10/1998,on leave,contract,Services,staff,Yes,Non-Uion,CT,36-45,Not Specified,Female
+336,Mechanical Systems Engineer,11/30/1994,active,contract,Legal,management,Yes,Non-Uion,NJ,26-35,White,
+337,Civil Engineer,12/6/2022,on leave,contract,Marketing,staff,No,Non-Uion,NJ,46-55,Black,Female
+338,Professor,10/27/2019,active,part-time,Marketing,management,Yes,Non-Uion,NJ,56-65,,Male
+339,Geologist II,1/19/2007,active,part-time,Human Resources,"",No,Non-Uion,PA,18-25,,
+340,Assistant Media Planner,4/30/2012,active,contract,Human Resources,"",Yes,Union,NY,66+,"",Male
+341,Legal Assistant,1/15/1999,active,part-time,Training,management,Yes,Non-Uion,NY,18-25,Native American,Genderqueer
+342,Quality Engineer,1/29/1997,active,full-time,Training,staff,No,Union,MA,36-45,Hispanic/Latino,Polygender
+343,Business Systems Development Analyst,3/4/2010,on leave,contract,Human Resources,management,No,Union,NY,46-55,Pacific Islander,Female
+344,Librarian,1/23/1987,on leave,part-time,Business Development,"",No,Non-Uion,CT,46-55,Pacific Islander,Male
+345,Software Test Engineer I,7/31/1980,active,full-time,Services,staff,Yes,Union,NJ,26-35,Not Specified,Female
+346,Automation Specialist III,5/29/1998,on leave,full-time,Training,"",No,Non-Uion,MA,36-45,Not Specified,Male
+347,Electrical Engineer,9/1/2016,on leave,full-time,Product Management,staff,Yes,Union,MA,36-45,Black,Genderqueer
+348,Nurse Practicioner,12/4/1984,on leave,full-time,Accounting,management,No,Union,CT,46-55,Native American,Female
+349,Engineer I,3/15/2001,active,part-time,Sales,"",No,Non-Uion,PA,36-45,Asian,Male
+350,Human Resources Assistant III,4/22/1993,on leave,part-time,Support,staff,No,Non-Uion,MA,66+,Not Specified,
+351,Nurse Practicioner,8/18/2007,on leave,part-time,Engineering,executive,No,Non-Uion,MA,66+,"",Female
+352,Tax Accountant,5/25/2007,active,full-time,Legal,management,No,Union,NJ,36-45,Pacific Islander,Male
+353,Associate Professor,10/16/2013,active,part-time,Product Management,"",Yes,Non-Uion,CT,46-55,"",
+354,Marketing Assistant,7/2/2005,active,contract,Product Management,staff,Yes,Non-Uion,MA,56-65,Pacific Islander,
+355,Geological Engineer,5/11/2002,on leave,contract,Product Management,executive,No,Union,CT,66+,Pacific Islander,Female
+356,Media Manager I,6/15/2013,active,contract,Sales,staff,Yes,Union,NY,26-35,Asian,Female
+357,Human Resources Manager,7/21/1983,on leave,full-time,Accounting,management,No,Non-Uion,PA,66+,Not Specified,Female
+358,Chemical Engineer,11/12/2020,active,contract,Product Management,executive,Yes,Union,PA,66+,Hispanic/Latino,Female
+359,Desktop Support Technician,6/29/2005,on leave,part-time,Sales,executive,Yes,Union,CT,46-55,Hispanic/Latino,Male
+360,Safety Technician I,1/21/2013,on leave,full-time,Research and Development,"",Yes,Union,NY,46-55,Not Specified,Male
+361,Programmer Analyst II,8/27/2017,active,full-time,Legal,management,Yes,Union,MA,66+,Native American,Male
+362,Statistician II,1/9/2002,active,contract,Human Resources,"",No,Non-Uion,PA,26-35,"",Male
+363,Actuary,1/2/2007,on leave,contract,Engineering,"",No,Union,NJ,36-45,"",Female
+364,Account Representative III,10/5/2010,on leave,part-time,Support,staff,No,Non-Uion,NY,66+,Black,Male
+365,Programmer Analyst IV,9/30/1994,active,full-time,Training,"",Yes,Union,MA,66+,Not Specified,Female
+366,Environmental Specialist,5/13/2011,on leave,part-time,Legal,management,Yes,Union,NJ,56-65,Pacific Islander,Male
+367,Financial Advisor,1/26/2006,active,contract,Marketing,"",No,Union,CT,46-55,Native American,Male
+368,Junior Executive,1/16/2019,on leave,contract,Support,executive,No,Non-Uion,NJ,46-55,Native American,Agender
+369,Financial Advisor,9/16/2000,active,contract,Human Resources,executive,No,Non-Uion,NJ,18-25,,Male
+370,Programmer II,12/23/2004,on leave,full-time,Product Management,management,Yes,Union,PA,46-55,Pacific Islander,Female
+371,Food Chemist,5/20/1982,on leave,contract,Research and Development,staff,Yes,Union,NY,66+,Hispanic/Latino,Male
+372,Account Coordinator,2/5/1991,active,contract,Accounting,"",No,Non-Uion,NY,18-25,White,Female
+373,Payment Adjustment Coordinator,10/30/2001,active,full-time,Support,staff,Yes,Non-Uion,NY,26-35,Black,Male
+374,Nurse,3/3/2018,active,contract,Training,staff,Yes,Union,PA,36-45,Pacific Islander,Female
+375,Engineer IV,9/14/1989,on leave,part-time,Research and Development,executive,Yes,Union,NJ,18-25,,
+376,Financial Advisor,4/15/2007,on leave,part-time,Marketing,executive,No,Non-Uion,NJ,66+,Pacific Islander,
+377,Professor,3/27/1990,active,full-time,Services,"",Yes,Non-Uion,NY,36-45,Native American,Male
+378,VP Quality Control,7/17/1983,active,full-time,Training,"",Yes,Union,CT,26-35,Black,Female
+379,Marketing Manager,8/11/2009,active,part-time,Support,"",Yes,Non-Uion,CT,46-55,"",Male
+380,Product Engineer,12/1/2001,active,contract,Legal,executive,No,Non-Uion,MA,56-65,,Male
+381,Assistant Professor,5/31/1984,on leave,part-time,Research and Development,staff,Yes,Union,MA,26-35,,Male
+382,Professor,10/8/2016,active,full-time,Product Management,management,No,Non-Uion,PA,36-45,Black,Female
+383,Human Resources Manager,6/9/2004,on leave,contract,Training,executive,Yes,Union,NJ,66+,Not Specified,
+384,Nurse Practicioner,3/18/1982,active,contract,Product Management,"",Yes,Union,MA,36-45,Native American,Male
+385,Analyst Programmer,3/8/2000,on leave,full-time,Training,management,No,Non-Uion,NY,26-35,,Male
+386,Junior Executive,9/20/1999,active,full-time,Support,"",No,Union,NY,46-55,Not Specified,Male
+387,Systems Administrator II,11/2/2000,active,contract,Legal,management,No,Non-Uion,MA,26-35,Pacific Islander,Female
+388,General Manager,5/24/2014,on leave,part-time,Accounting,staff,No,Non-Uion,NJ,18-25,"",Male
+389,Desktop Support Technician,11/10/1991,on leave,contract,Services,staff,Yes,Non-Uion,NY,46-55,,Female
+390,Structural Analysis Engineer,3/25/1987,active,part-time,Services,management,No,Union,NY,26-35,,Male
+391,Actuary,9/12/1998,on leave,part-time,Accounting,staff,No,Union,NY,66+,Native American,Female
+392,Account Coordinator,11/8/2010,on leave,part-time,Services,staff,No,Non-Uion,MA,46-55,,Male
+393,Civil Engineer,9/19/2000,active,part-time,Support,management,No,Non-Uion,NJ,46-55,Black,Polygender
+394,Editor,1/9/1985,active,part-time,Engineering,staff,No,Union,NY,18-25,Black,Female
+395,Environmental Specialist,1/19/1990,on leave,contract,Training,executive,Yes,Non-Uion,NY,46-55,White,Female
+396,Programmer Analyst III,9/17/2013,on leave,full-time,Product Management,staff,Yes,Non-Uion,MA,18-25,Hispanic/Latino,Male
+397,VP Accounting,6/13/2014,on leave,contract,Marketing,staff,Yes,Union,PA,26-35,Hispanic/Latino,Female
+398,Mechanical Systems Engineer,9/28/1995,active,part-time,Accounting,management,Yes,Union,PA,56-65,Native American,Male
+399,Assistant Manager,1/2/2004,active,contract,Business Development,"",No,Non-Uion,PA,18-25,Hispanic/Latino,Female
+400,Statistician II,3/11/1991,on leave,contract,Training,executive,Yes,Non-Uion,NJ,66+,Pacific Islander,Non-binary
+401,Human Resources Manager,7/9/2019,active,full-time,Legal,management,No,Non-Uion,PA,18-25,Black,Female
+402,Project Manager,5/24/2009,on leave,part-time,Accounting,"",No,Non-Uion,NY,18-25,Native American,Male
+403,Senior Editor,3/31/1996,on leave,part-time,Product Management,management,Yes,Union,PA,26-35,,
+404,Registered Nurse,8/29/1995,active,part-time,Human Resources,executive,No,Non-Uion,CT,46-55,Native American,Male
+405,Software Engineer IV,12/21/2000,active,contract,Training,staff,No,Non-Uion,MA,18-25,Black,Male
+406,Programmer Analyst II,7/30/2001,on leave,contract,Research and Development,management,No,Non-Uion,PA,56-65,Pacific Islander,Male
+407,Speech Pathologist,12/29/2010,active,part-time,Accounting,executive,No,Non-Uion,CT,26-35,White,Female
+408,Engineer III,2/3/2020,active,full-time,Product Management,management,No,Non-Uion,NY,56-65,Black,Male
+409,Director of Sales,3/19/1993,on leave,part-time,Services,executive,No,Union,NJ,66+,,Female
+410,Quality Engineer,8/8/1982,on leave,part-time,Services,staff,Yes,Union,PA,26-35,"",Female
+411,Registered Nurse,10/9/2005,on leave,full-time,Human Resources,"",No,Union,CT,66+,,
+412,Computer Systems Analyst III,12/17/1999,on leave,contract,Legal,executive,Yes,Union,NY,36-45,Pacific Islander,Male
+413,Civil Engineer,3/18/1991,on leave,full-time,Accounting,management,Yes,Union,NJ,56-65,White,Female
+414,Automation Specialist I,9/24/2015,active,contract,Legal,"",No,Non-Uion,CT,56-65,Pacific Islander,Female
+415,Project Manager,2/13/2022,active,contract,Sales,executive,Yes,Union,NJ,66+,Black,Female
+416,Structural Engineer,4/8/2018,on leave,full-time,Research and Development,staff,No,Union,MA,66+,Native American,Female
+417,Staff Scientist,2/3/2007,on leave,contract,Accounting,staff,Yes,Non-Uion,PA,26-35,Pacific Islander,Female
+418,Research Assistant IV,2/7/2011,on leave,full-time,Marketing,"",No,Non-Uion,PA,18-25,Black,Female
+419,Mechanical Systems Engineer,1/5/2015,active,part-time,Product Management,staff,No,Union,PA,26-35,Black,
+420,Office Assistant II,2/5/2001,active,full-time,Business Development,staff,No,Non-Uion,CT,56-65,"",
+421,Health Coach I,4/23/2019,on leave,full-time,Accounting,management,Yes,Union,PA,46-55,Native American,Female
+422,Accountant I,7/30/2014,active,full-time,Engineering,executive,Yes,Non-Uion,MA,18-25,Not Specified,Female
+423,Operator,1/14/2017,on leave,contract,Marketing,management,No,Non-Uion,CT,66+,Asian,Female
+424,Structural Engineer,4/24/2000,active,full-time,Services,"",Yes,Union,NJ,66+,Not Specified,
+425,Software Engineer IV,12/6/2007,active,full-time,Human Resources,"",No,Non-Uion,MA,46-55,Hispanic/Latino,Male
+426,Senior Cost Accountant,9/2/1993,on leave,full-time,Support,management,No,Non-Uion,CT,66+,Native American,Female
+427,Budget/Accounting Analyst I,3/10/2016,active,contract,Business Development,staff,Yes,Non-Uion,NY,36-45,Pacific Islander,Genderfluid
+428,Financial Advisor,2/20/1992,on leave,part-time,Training,executive,No,Non-Uion,MA,46-55,Black,Genderfluid
+429,Mechanical Systems Engineer,11/13/2017,on leave,part-time,Engineering,management,Yes,Union,MA,66+,White,Female
+430,Budget/Accounting Analyst I,7/10/1980,on leave,part-time,Services,management,Yes,Union,MA,36-45,Asian,Female
+431,Staff Scientist,5/10/2011,on leave,part-time,Services,"",No,Non-Uion,NY,18-25,Hispanic/Latino,Male
+432,Account Executive,5/29/2014,active,full-time,Sales,management,Yes,Union,PA,56-65,Hispanic/Latino,Male
+433,Analyst Programmer,1/26/1983,on leave,part-time,Sales,executive,No,Non-Uion,PA,18-25,Black,Male
+434,Sales Representative,11/6/2023,on leave,part-time,Product Management,"",Yes,Non-Uion,PA,66+,"",Male
+435,Community Outreach Specialist,1/12/2010,active,full-time,Legal,management,Yes,Union,CT,66+,White,Female
+436,Administrative Assistant III,4/16/2003,active,part-time,Marketing,management,No,Non-Uion,MA,18-25,Native American,Female
+437,Project Manager,2/14/1990,active,part-time,Business Development,"",Yes,Non-Uion,NY,36-45,,
+438,Software Engineer IV,7/16/2005,active,full-time,Legal,"",Yes,Union,NY,36-45,White,Female
+439,Senior Developer,3/16/2008,on leave,part-time,Training,staff,No,Non-Uion,PA,46-55,,Female
+440,Marketing Assistant,11/6/2017,on leave,part-time,Training,executive,No,Union,CT,26-35,Asian,
+441,Staff Scientist,3/14/2004,active,part-time,Accounting,"",No,Union,NY,26-35,"",
+442,Nurse Practicioner,10/26/1987,active,contract,Marketing,staff,Yes,Non-Uion,NY,18-25,,Male
+443,Staff Scientist,3/31/2008,active,part-time,Sales,staff,Yes,Union,NY,56-65,"",Male
+444,Financial Advisor,3/25/1992,on leave,full-time,Training,management,Yes,Non-Uion,MA,56-65,Pacific Islander,Male
+445,Editor,4/1/1989,active,part-time,Accounting,staff,Yes,Non-Uion,MA,56-65,,Male
+446,Web Developer IV,11/3/2003,active,full-time,Sales,executive,No,Non-Uion,NJ,56-65,Black,
+447,Food Chemist,11/8/1982,active,contract,Services,staff,No,Non-Uion,NJ,26-35,Hispanic/Latino,Female
+448,Systems Administrator I,8/31/2017,active,full-time,Research and Development,management,No,Non-Uion,PA,36-45,Pacific Islander,Male
+449,Senior Developer,2/3/1991,on leave,full-time,Research and Development,management,No,Non-Uion,PA,26-35,Native American,Polygender
+450,Compensation Analyst,11/19/2002,on leave,contract,Engineering,staff,No,Union,NJ,26-35,White,Polygender
+451,Geological Engineer,8/21/1981,on leave,part-time,Legal,management,No,Union,CT,18-25,Native American,Male
+452,Speech Pathologist,10/6/2019,active,contract,Support,"",No,Union,CT,36-45,Black,Non-binary
+453,Sales Associate,9/22/2005,active,full-time,Sales,staff,No,Union,NJ,18-25,Asian,Genderfluid
+454,Account Executive,1/4/1999,active,part-time,Business Development,"",No,Non-Uion,NJ,46-55,Pacific Islander,
+455,Assistant Media Planner,4/18/2018,active,full-time,Marketing,staff,Yes,Non-Uion,PA,26-35,Pacific Islander,Female
+456,Programmer IV,12/17/2006,active,contract,Sales,executive,No,Non-Uion,PA,18-25,Not Specified,Female
+457,Paralegal,5/14/2003,on leave,part-time,Services,"",No,Non-Uion,NY,36-45,Native American,Male
+458,Safety Technician IV,10/1/2023,on leave,full-time,Support,"",No,Union,CT,26-35,Pacific Islander,Female
+459,Operator,11/18/2006,on leave,full-time,Product Management,"",Yes,Union,PA,66+,Black,Male
+460,Geologist II,8/21/2015,active,part-time,Human Resources,"",No,Non-Uion,PA,66+,Native American,Female
+461,Biostatistician I,11/11/2018,on leave,part-time,Sales,management,No,Non-Uion,NJ,56-65,Asian,Female
+462,Health Coach II,6/20/2017,active,contract,Product Management,management,No,Non-Uion,PA,66+,,Male
+463,Speech Pathologist,4/12/1989,active,contract,Sales,executive,No,Union,NY,66+,,Female
+464,Database Administrator III,9/7/2002,active,full-time,Marketing,staff,No,Union,NJ,56-65,"",Female
+465,Mechanical Systems Engineer,1/12/2010,on leave,full-time,Human Resources,executive,No,Non-Uion,MA,18-25,"",Male
+466,Director of Sales,12/18/2017,active,full-time,Sales,management,Yes,Non-Uion,MA,26-35,Native American,Female
+467,Speech Pathologist,7/7/2015,on leave,part-time,Business Development,management,No,Non-Uion,MA,66+,Black,Male
+468,Chemical Engineer,1/27/1989,on leave,contract,Human Resources,management,No,Non-Uion,NY,26-35,White,Male
+469,Research Nurse,9/2/2019,on leave,part-time,Business Development,executive,Yes,Non-Uion,NJ,46-55,Black,Agender
+470,Data Coordinator,6/12/2003,on leave,contract,Services,management,No,Union,NY,56-65,"",Female
+471,Compensation Analyst,4/2/1982,active,part-time,Support,staff,No,Union,CT,36-45,"",Female
+472,General Manager,2/20/1988,active,part-time,Business Development,executive,Yes,Non-Uion,CT,26-35,Black,Female
+473,Human Resources Assistant II,10/1/1998,on leave,full-time,Services,management,No,Non-Uion,NJ,66+,Asian,Male
+474,Librarian,10/3/2019,active,full-time,Engineering,executive,Yes,Union,CT,26-35,Hispanic/Latino,Male
+475,Office Assistant II,6/10/2023,active,contract,Training,management,No,Union,PA,46-55,Asian,Genderfluid
+476,Civil Engineer,3/3/2012,on leave,contract,Marketing,staff,No,Union,NJ,46-55,White,Male
+477,VP Accounting,3/8/1988,on leave,contract,Sales,"",No,Non-Uion,PA,26-35,"",Non-binary
+478,Occupational Therapist,1/29/1981,active,full-time,Training,"",Yes,Union,NY,36-45,White,Male
+479,Research Associate,10/13/1991,active,full-time,Accounting,management,Yes,Union,NY,18-25,Native American,Female
+480,Chemical Engineer,12/7/1995,active,part-time,Marketing,executive,Yes,Non-Uion,MA,36-45,White,Male
+481,Help Desk Technician,7/22/2000,on leave,part-time,Research and Development,executive,Yes,Non-Uion,NJ,66+,Native American,Male
+482,Civil Engineer,5/29/1987,active,full-time,Training,executive,No,Union,PA,26-35,,Female
+483,Administrative Officer,7/10/2020,on leave,full-time,Human Resources,"",No,Union,PA,46-55,White,Male
+484,Internal Auditor,11/13/1987,on leave,full-time,Research and Development,"",Yes,Non-Uion,MA,26-35,Not Specified,Male
+485,Technical Writer,11/15/2003,on leave,part-time,Marketing,management,No,Non-Uion,CT,36-45,Hispanic/Latino,Female
+486,Mechanical Systems Engineer,8/1/2009,active,full-time,Engineering,executive,Yes,Union,NY,26-35,"",Female
+487,Nurse Practicioner,4/2/2017,on leave,contract,Support,executive,Yes,Union,NY,56-65,,Female
+488,Account Executive,1/9/2002,active,part-time,Legal,management,Yes,Union,PA,36-45,,Female
+489,Senior Editor,10/26/1997,on leave,contract,Research and Development,management,Yes,Non-Uion,PA,46-55,Black,Female
+490,Pharmacist,8/18/2023,active,part-time,Training,"",Yes,Union,PA,18-25,Black,Male
+491,Software Test Engineer IV,6/1/1982,on leave,contract,Training,management,Yes,Union,NY,18-25,White,Male
+492,Graphic Designer,2/12/2010,active,full-time,Accounting,executive,No,Union,PA,46-55,,Male
+493,Structural Analysis Engineer,1/11/2017,active,contract,Legal,executive,Yes,Union,NY,66+,,Male
+494,Occupational Therapist,10/17/1989,active,contract,Training,management,Yes,Non-Uion,NY,36-45,Hispanic/Latino,Male
+495,VP Sales,3/29/1999,on leave,part-time,Accounting,staff,Yes,Union,CT,56-65,Not Specified,Male
+496,Web Developer III,1/7/2005,active,contract,Legal,"",No,Union,NY,56-65,Asian,
+497,Software Engineer IV,6/22/2013,on leave,full-time,Sales,executive,No,Non-Uion,CT,26-35,Not Specified,Female
+498,Account Representative I,4/10/2024,on leave,contract,Engineering,executive,No,Non-Uion,PA,36-45,,Male
+499,Recruiting Manager,9/7/2007,active,contract,Sales,staff,No,Non-Uion,CT,18-25,Pacific Islander,Male
+500,Executive Secretary,8/8/2023,active,full-time,Support,executive,Yes,Union,PA,36-45,Asian,Female
+501,Recruiting Manager,11/5/2023,on leave,part-time,Marketing,"",No,Union,MA,66+,,Female
+502,Technical Writer,8/27/1982,active,full-time,Sales,management,Yes,Non-Uion,PA,66+,,Male
+503,Assistant Professor,7/31/2020,active,full-time,Human Resources,management,Yes,Union,NJ,18-25,Native American,Female
+504,VP Accounting,9/26/2013,active,contract,Product Management,management,Yes,Union,NY,18-25,Not Specified,Male
+505,Teacher,11/26/1995,on leave,full-time,Human Resources,"",No,Non-Uion,CT,26-35,Black,Female
+506,Marketing Assistant,1/29/2024,active,contract,Training,executive,Yes,Union,MA,36-45,White,Male
+507,Geologist I,6/23/1986,on leave,full-time,Accounting,executive,No,Union,NJ,46-55,White,Female
+508,Research Assistant IV,2/15/2003,on leave,contract,Business Development,executive,Yes,Union,NY,26-35,Native American,Female
+509,Marketing Manager,2/28/2008,on leave,full-time,Product Management,staff,No,Union,PA,66+,,Female
+510,Analyst Programmer,3/7/2017,on leave,full-time,Services,"",No,Union,MA,66+,"",Male
+511,Food Chemist,10/31/1987,active,contract,Support,executive,No,Union,CT,18-25,Hispanic/Latino,
+512,VP Sales,6/29/1981,active,contract,Sales,staff,Yes,Union,PA,26-35,Hispanic/Latino,Female
+513,Help Desk Operator,11/4/2018,on leave,contract,Support,"",Yes,Union,NJ,66+,Black,Genderqueer
+514,Director of Sales,6/24/1984,active,contract,Research and Development,executive,No,Non-Uion,MA,66+,Asian,Female
+515,Sales Representative,3/25/2000,active,part-time,Training,staff,Yes,Union,NJ,18-25,White,Male
+516,Nurse,3/28/1992,active,full-time,Human Resources,"",No,Union,MA,26-35,Hispanic/Latino,Male
+517,Dental Hygienist,10/9/1984,on leave,part-time,Business Development,management,Yes,Non-Uion,PA,36-45,Pacific Islander,Female
+518,Analyst Programmer,4/3/1991,on leave,full-time,Human Resources,staff,No,Non-Uion,CT,36-45,White,Female
+519,Cost Accountant,9/14/2001,active,contract,Support,"",No,Union,NY,18-25,White,Female
+520,VP Accounting,1/4/2021,on leave,full-time,Accounting,"",No,Union,PA,26-35,Pacific Islander,
+521,Graphic Designer,7/20/2016,active,contract,Services,"",No,Union,MA,26-35,,
+522,Staff Scientist,5/31/2004,on leave,part-time,Business Development,management,No,Non-Uion,CT,18-25,,Female
+523,Senior Financial Analyst,8/26/1981,on leave,part-time,Services,staff,No,Union,NJ,26-35,Hispanic/Latino,Male
+524,Senior Cost Accountant,1/7/2014,on leave,part-time,Services,staff,Yes,Non-Uion,NJ,36-45,Native American,Polygender
+525,Business Systems Development Analyst,3/26/1995,on leave,part-time,Legal,executive,Yes,Union,NY,26-35,Black,Male
+526,Recruiter,9/12/2003,active,full-time,Marketing,executive,Yes,Non-Uion,CT,26-35,"",Female
+527,Legal Assistant,2/21/2002,active,contract,Engineering,executive,No,Non-Uion,NJ,66+,,Agender
+528,GIS Technical Architect,7/22/2004,active,full-time,Sales,executive,Yes,Union,NY,36-45,Black,Male
+529,Paralegal,2/13/2005,active,part-time,Support,executive,No,Non-Uion,PA,46-55,Not Specified,Female
+530,Assistant Manager,6/27/2006,on leave,part-time,Human Resources,executive,Yes,Non-Uion,CT,66+,White,Male
+531,Help Desk Operator,7/19/2012,on leave,full-time,Services,staff,No,Union,NY,66+,Hispanic/Latino,Female
+532,Operator,11/12/2011,active,contract,Accounting,executive,No,Non-Uion,NJ,18-25,Not Specified,Male
+533,Budget/Accounting Analyst I,10/12/2009,active,contract,Training,staff,No,Non-Uion,MA,46-55,Native American,
+534,Nurse Practicioner,6/17/1998,active,part-time,Legal,"",Yes,Non-Uion,NJ,18-25,Native American,
+535,Civil Engineer,8/26/1987,on leave,contract,Services,management,No,Non-Uion,PA,36-45,,Male
+536,VP Accounting,3/1/2013,on leave,contract,Legal,management,Yes,Non-Uion,PA,56-65,Not Specified,Female
+537,Associate Professor,2/25/2015,active,part-time,Human Resources,"",Yes,Union,PA,66+,Black,Female
+538,Environmental Tech,7/21/1991,active,full-time,Marketing,"",Yes,Non-Uion,NJ,46-55,Hispanic/Latino,Male
+539,Media Manager I,8/27/2010,active,part-time,Research and Development,"",Yes,Non-Uion,MA,26-35,Hispanic/Latino,Female
+540,Web Developer I,4/7/1998,active,part-time,Support,executive,Yes,Union,MA,36-45,Asian,Female
+541,Operator,10/3/2001,on leave,full-time,Engineering,"",No,Union,NY,46-55,"",Female
+542,Database Administrator IV,7/1/1993,active,full-time,Training,staff,No,Union,NY,36-45,Hispanic/Latino,Male
+543,Nurse,6/17/2002,on leave,contract,Human Resources,staff,Yes,Union,NJ,56-65,Pacific Islander,Female
+544,Speech Pathologist,8/11/1992,on leave,contract,Marketing,"",Yes,Union,PA,56-65,Black,Male
+545,Editor,8/23/1988,on leave,part-time,Services,staff,No,Union,NY,36-45,Not Specified,Non-binary
+546,Safety Technician III,7/10/1980,active,full-time,Marketing,executive,Yes,Union,CT,56-65,Pacific Islander,
+547,Librarian,6/26/1984,on leave,contract,Accounting,"",No,Union,PA,56-65,,
+548,Product Engineer,2/26/2014,active,full-time,Business Development,staff,No,Non-Uion,CT,46-55,Pacific Islander,Female
+549,Desktop Support Technician,10/19/2021,active,part-time,Services,staff,No,Union,NY,26-35,Pacific Islander,Female
+550,Account Executive,8/25/1999,on leave,full-time,Services,executive,No,Union,NJ,26-35,,Male
+551,Assistant Manager,10/31/1990,active,full-time,Services,executive,Yes,Non-Uion,MA,18-25,"",Male
+552,Human Resources Assistant III,1/25/1995,active,part-time,Research and Development,executive,No,Union,NJ,46-55,"",Bigender
+553,Programmer Analyst III,11/6/2007,on leave,part-time,Research and Development,management,Yes,Non-Uion,PA,26-35,Native American,Female
+554,Social Worker,4/22/1993,on leave,full-time,Legal,"",No,Non-Uion,NY,36-45,Asian,Female
+555,VP Accounting,5/9/2003,active,full-time,Services,"",No,Non-Uion,NY,26-35,,Male
+556,Media Manager IV,6/16/2013,active,part-time,Business Development,"",Yes,Union,MA,36-45,Not Specified,Agender
+557,VP Accounting,6/11/2001,on leave,full-time,Legal,"",No,Non-Uion,MA,18-25,Native American,Female
+558,Computer Systems Analyst IV,9/6/1981,active,contract,Legal,executive,Yes,Union,CT,46-55,"",Female
+559,Account Representative IV,11/4/2018,active,contract,Training,executive,Yes,Non-Uion,MA,56-65,Hispanic/Latino,Male
+560,Biostatistician II,8/10/1997,active,full-time,Business Development,executive,No,Non-Uion,MA,66+,Hispanic/Latino,Male
+561,Developer I,4/5/2017,on leave,full-time,Services,management,No,Non-Uion,CT,46-55,"",Male
+562,Financial Analyst,8/29/2023,on leave,contract,Business Development,management,Yes,Union,MA,56-65,,Male
+563,Graphic Designer,8/17/2015,on leave,part-time,Product Management,management,No,Non-Uion,MA,18-25,Hispanic/Latino,
+564,Design Engineer,1/20/2017,active,part-time,Training,staff,Yes,Non-Uion,NY,56-65,Black,Female
+565,Director of Sales,2/10/1990,on leave,part-time,Marketing,staff,Yes,Non-Uion,NJ,18-25,Hispanic/Latino,Bigender
+566,Account Executive,8/27/1996,active,contract,Business Development,management,Yes,Non-Uion,CT,66+,"",
+567,Help Desk Operator,10/29/2011,on leave,contract,Product Management,staff,Yes,Union,MA,18-25,White,Male
+568,Help Desk Technician,11/4/1982,active,part-time,Support,"",Yes,Union,NJ,26-35,Not Specified,
+569,Internal Auditor,5/31/2006,on leave,part-time,Services,"",Yes,Union,NY,26-35,,
+570,Geological Engineer,4/1/2016,on leave,full-time,Engineering,"",No,Union,CT,36-45,Hispanic/Latino,Female
+571,Mechanical Systems Engineer,8/2/1993,on leave,full-time,Support,executive,Yes,Non-Uion,PA,46-55,Asian,Male
+572,Sales Representative,8/18/1991,active,full-time,Product Management,staff,Yes,Union,MA,66+,Native American,
+573,Biostatistician IV,3/16/2008,on leave,full-time,Product Management,executive,No,Union,PA,36-45,Asian,Female
+574,Assistant Media Planner,1/21/1983,on leave,full-time,Marketing,management,Yes,Union,NJ,26-35,Black,
+575,Office Assistant IV,9/16/2014,on leave,part-time,Legal,management,Yes,Non-Uion,NJ,36-45,Black,Male
+576,Quality Engineer,9/2/2007,active,full-time,Training,executive,No,Union,NY,36-45,Pacific Islander,Male
+577,Safety Technician IV,8/6/1987,active,part-time,Product Management,staff,No,Non-Uion,CT,36-45,Black,
+578,Media Manager I,9/25/1985,on leave,full-time,Business Development,management,Yes,Union,NJ,18-25,,Male
+579,Desktop Support Technician,10/17/1990,on leave,part-time,Marketing,staff,Yes,Union,CT,46-55,"",Male
+580,Engineer II,8/3/1990,active,contract,Training,executive,Yes,Non-Uion,NY,26-35,"",Male
+581,Biostatistician IV,5/9/2018,active,part-time,Human Resources,management,No,Union,PA,36-45,Native American,
+582,Computer Systems Analyst IV,1/18/2020,on leave,contract,Product Management,management,No,Union,PA,56-65,Pacific Islander,Male
+583,Administrative Assistant III,4/17/2013,active,full-time,Support,executive,Yes,Union,CT,36-45,"",Female
+584,Environmental Tech,2/3/1989,on leave,part-time,Marketing,staff,No,Non-Uion,NJ,66+,Not Specified,Female
+585,Statistician III,6/22/2010,active,contract,Accounting,staff,Yes,Non-Uion,PA,56-65,Pacific Islander,Male
+586,Web Developer I,8/26/1994,on leave,contract,Marketing,executive,Yes,Union,PA,66+,Not Specified,
+587,VP Accounting,2/15/1985,on leave,contract,Engineering,"",No,Non-Uion,CT,26-35,,Male
+588,Research Nurse,8/29/2023,on leave,part-time,Marketing,"",Yes,Union,PA,18-25,,Female
+589,Accounting Assistant I,12/30/1986,on leave,contract,Services,management,Yes,Union,NJ,36-45,White,Female
+590,Civil Engineer,9/30/2007,active,contract,Sales,management,No,Non-Uion,MA,66+,Pacific Islander,Genderqueer
+591,Biostatistician II,11/6/1982,on leave,contract,Accounting,staff,No,Non-Uion,CT,26-35,Native American,Female
+592,Dental Hygienist,1/16/1989,on leave,contract,Engineering,management,No,Union,PA,18-25,,Male
+593,Marketing Assistant,8/19/2018,on leave,full-time,Business Development,staff,No,Union,NY,66+,"",Male
+594,Accounting Assistant I,5/13/1993,on leave,contract,Support,management,Yes,Union,NY,26-35,Pacific Islander,Male
+595,Marketing Assistant,9/26/2000,on leave,full-time,Research and Development,staff,Yes,Union,NJ,56-65,Pacific Islander,Female
+596,Programmer Analyst I,1/29/1990,active,contract,Product Management,staff,Yes,Non-Uion,NJ,26-35,Black,
+597,Sales Associate,8/4/1994,active,contract,Legal,management,No,Union,NY,36-45,Native American,Female
+598,GIS Technical Architect,10/24/2021,active,contract,Services,"",Yes,Union,NY,26-35,,Male
+599,Quality Control Specialist,7/8/2015,active,contract,Research and Development,"",No,Union,CT,36-45,Hispanic/Latino,
+600,VP Marketing,6/23/1985,active,full-time,Sales,executive,No,Non-Uion,PA,56-65,White,Female
+601,Operator,4/14/2007,on leave,part-time,Marketing,management,No,Non-Uion,CT,36-45,Not Specified,Female
+602,Structural Analysis Engineer,7/22/2020,active,full-time,Product Management,executive,Yes,Non-Uion,CT,46-55,Pacific Islander,
+603,Business Systems Development Analyst,5/21/2010,on leave,full-time,Legal,staff,No,Non-Uion,CT,56-65,Not Specified,Female
+604,VP Accounting,1/8/2013,on leave,contract,Human Resources,executive,Yes,Non-Uion,NY,46-55,Black,Female
+605,Senior Sales Associate,11/12/1981,on leave,full-time,Services,"",No,Union,CT,56-65,"",Female
+606,Payment Adjustment Coordinator,7/25/2006,on leave,part-time,Human Resources,executive,Yes,Non-Uion,MA,66+,Pacific Islander,Female
+607,Environmental Specialist,2/17/2003,on leave,part-time,Accounting,"",Yes,Union,CT,26-35,Asian,Male
+608,Food Chemist,1/7/2007,active,full-time,Business Development,staff,Yes,Union,MA,36-45,Native American,Male
+609,Nurse Practicioner,6/4/2003,on leave,contract,Services,executive,Yes,Union,MA,18-25,Native American,Male
+610,Graphic Designer,12/1/2022,active,full-time,Engineering,"",Yes,Non-Uion,NY,26-35,White,Female
+611,Payment Adjustment Coordinator,2/7/2011,on leave,full-time,Training,management,No,Union,PA,46-55,Not Specified,Female
+612,Financial Advisor,5/10/1982,on leave,part-time,Research and Development,management,Yes,Union,MA,36-45,Hispanic/Latino,
+613,Structural Engineer,12/12/1998,on leave,contract,Legal,staff,No,Non-Uion,PA,36-45,"",Female
+614,Actuary,9/19/2003,active,full-time,Training,executive,No,Union,MA,66+,,Male
+615,Sales Representative,6/5/1984,active,contract,Services,"",No,Non-Uion,NJ,66+,Hispanic/Latino,Female
+616,Compensation Analyst,10/7/2000,on leave,part-time,Engineering,executive,Yes,Non-Uion,CT,26-35,Black,Male
+617,Chief Design Engineer,11/6/2017,on leave,full-time,Accounting,"",No,Non-Uion,MA,36-45,Not Specified,Male
+618,GIS Technical Architect,6/18/1991,active,full-time,Marketing,executive,Yes,Non-Uion,NJ,56-65,White,
+619,Community Outreach Specialist,10/15/1999,on leave,contract,Product Management,staff,No,Non-Uion,CT,36-45,"",Female
+620,Help Desk Operator,1/5/1998,on leave,contract,Business Development,staff,Yes,Non-Uion,PA,66+,Pacific Islander,Female
+621,Environmental Tech,7/25/2012,on leave,contract,Sales,"",No,Union,MA,18-25,,Male
+622,Safety Technician II,5/6/2004,active,part-time,Training,management,No,Union,MA,56-65,White,Female
+623,Assistant Professor,4/3/1995,active,part-time,Training,staff,Yes,Non-Uion,PA,18-25,Black,Female
+624,Environmental Specialist,8/8/1989,on leave,part-time,Engineering,executive,No,Non-Uion,CT,36-45,Pacific Islander,Female
+625,Account Coordinator,10/15/2021,active,part-time,Services,executive,No,Union,PA,46-55,"",
+626,Software Consultant,1/26/2023,active,full-time,Sales,"",Yes,Union,PA,36-45,,
+627,Safety Technician III,10/7/2006,active,full-time,Research and Development,"",Yes,Non-Uion,PA,56-65,"",Female
+628,Sales Representative,4/16/2013,on leave,contract,Engineering,"",Yes,Non-Uion,PA,56-65,Black,Female
+629,Senior Quality Engineer,6/24/2021,active,full-time,Research and Development,management,Yes,Union,CT,66+,"",Male
+630,Automation Specialist I,7/1/2004,on leave,part-time,Support,staff,No,Non-Uion,MA,66+,White,Female
+631,VP Quality Control,9/14/2011,active,contract,Legal,"",No,Non-Uion,NY,18-25,Not Specified,Male
+632,Professor,9/17/2007,on leave,full-time,Legal,"",No,Union,PA,18-25,Hispanic/Latino,
+633,Computer Systems Analyst III,10/11/1990,on leave,part-time,Legal,management,Yes,Non-Uion,NY,26-35,Hispanic/Latino,Female
+634,Registered Nurse,3/9/2007,on leave,full-time,Support,"",No,Non-Uion,NJ,18-25,Native American,
+635,Associate Professor,11/17/2016,on leave,full-time,Support,"",Yes,Non-Uion,NJ,18-25,,Male
+636,Research Nurse,8/5/1996,active,contract,Human Resources,management,Yes,Non-Uion,NJ,66+,White,Female
+637,VP Sales,12/12/1985,on leave,contract,Sales,"",No,Union,PA,66+,Black,Female
+638,Senior Editor,12/12/1986,active,full-time,Accounting,management,No,Non-Uion,MA,36-45,Not Specified,Female
+639,Marketing Assistant,10/17/1991,on leave,part-time,Product Management,"",No,Union,PA,66+,Not Specified,Male
+640,Account Representative IV,12/31/2016,on leave,full-time,Training,management,No,Non-Uion,CT,46-55,Pacific Islander,
+641,Office Assistant III,6/3/1995,active,part-time,Product Management,"",No,Non-Uion,CT,56-65,Native American,Female
+642,Biostatistician I,7/5/1996,active,part-time,Research and Development,staff,Yes,Union,MA,46-55,Hispanic/Latino,Male
+643,Computer Systems Analyst III,4/7/1988,on leave,full-time,Accounting,staff,Yes,Non-Uion,PA,18-25,Native American,Female
+644,Biostatistician I,3/5/2001,on leave,contract,Support,"",Yes,Non-Uion,NY,18-25,Native American,Genderfluid
+645,Mechanical Systems Engineer,5/7/2002,on leave,part-time,Sales,"",Yes,Non-Uion,PA,56-65,Black,Female
+646,Health Coach IV,6/11/2020,on leave,full-time,Business Development,management,No,Non-Uion,MA,46-55,White,Polygender
+647,Compensation Analyst,4/14/1988,on leave,part-time,Engineering,"",Yes,Non-Uion,NJ,66+,,
+648,Tax Accountant,6/16/2013,active,contract,Accounting,executive,Yes,Union,NJ,66+,White,Female
+649,Legal Assistant,6/19/2007,active,contract,Support,management,No,Union,PA,36-45,Black,
+650,Financial Advisor,7/5/1983,on leave,full-time,Human Resources,"",Yes,Non-Uion,PA,56-65,Asian,Male
+651,VP Accounting,3/5/2011,active,part-time,Research and Development,staff,No,Union,CT,66+,Not Specified,
+652,Senior Cost Accountant,3/6/1994,on leave,full-time,Support,management,No,Non-Uion,NY,18-25,Not Specified,Female
+653,Food Chemist,10/16/1992,active,full-time,Support,staff,Yes,Union,MA,26-35,Native American,
+654,Accounting Assistant III,12/22/1980,active,full-time,Services,executive,No,Union,NJ,56-65,,Male
+655,Operator,5/29/1980,active,full-time,Product Management,management,Yes,Non-Uion,NJ,66+,Black,Male
+656,Research Assistant IV,1/5/1985,active,contract,Legal,management,Yes,Non-Uion,NY,36-45,Not Specified,Female
+657,Health Coach I,3/2/2008,on leave,part-time,Support,management,Yes,Union,NJ,26-35,Hispanic/Latino,Male
+658,General Manager,9/20/2013,active,full-time,Product Management,staff,Yes,Union,PA,66+,"",Female
+659,Nurse Practicioner,8/24/1993,on leave,full-time,Product Management,staff,No,Non-Uion,PA,26-35,Native American,
+660,Accounting Assistant II,9/13/2019,on leave,full-time,Business Development,management,Yes,Union,CT,18-25,,Female
+661,Junior Executive,10/12/1986,on leave,full-time,Engineering,"",No,Union,PA,26-35,White,Female
+662,Account Coordinator,12/24/2004,active,part-time,Engineering,management,No,Non-Uion,PA,46-55,"",Female
+663,Budget/Accounting Analyst III,3/19/2000,on leave,full-time,Engineering,"",No,Non-Uion,MA,36-45,Pacific Islander,Female
+664,Sales Representative,1/6/1982,on leave,contract,Training,management,No,Non-Uion,CT,66+,Not Specified,Male
+665,VP Marketing,7/16/2010,on leave,full-time,Product Management,"",Yes,Union,NJ,26-35,,Female
+666,Marketing Manager,2/11/2009,on leave,part-time,Human Resources,staff,Yes,Non-Uion,NY,66+,White,Female
+667,Cost Accountant,4/2/1992,active,full-time,Legal,"",No,Non-Uion,PA,66+,Not Specified,Female
+668,Senior Quality Engineer,4/12/1995,active,contract,Sales,executive,No,Non-Uion,NJ,18-25,Pacific Islander,Male
+669,Community Outreach Specialist,10/27/1988,on leave,part-time,Human Resources,executive,Yes,Union,NY,56-65,,Male
+670,Director of Sales,10/13/1984,on leave,full-time,Sales,executive,No,Non-Uion,PA,66+,Pacific Islander,Male
+671,Actuary,7/14/2021,active,full-time,Marketing,staff,Yes,Union,CT,46-55,White,Female
+672,Project Manager,3/31/1989,on leave,full-time,Business Development,"",Yes,Non-Uion,PA,56-65,Hispanic/Latino,Non-binary
+673,Marketing Assistant,2/18/2006,active,part-time,Legal,staff,Yes,Union,NY,26-35,Native American,Female
+674,Human Resources Manager,1/11/2017,active,full-time,Product Management,executive,Yes,Non-Uion,MA,36-45,Hispanic/Latino,Female
+675,Junior Executive,9/7/2022,active,full-time,Support,"",No,Non-Uion,NY,36-45,Native American,Agender
+676,Programmer IV,6/16/2011,active,part-time,Sales,management,No,Non-Uion,CT,36-45,"",Male
+677,Paralegal,4/11/1999,active,contract,Accounting,"",Yes,Union,NJ,26-35,Native American,Female
+678,Recruiting Manager,10/4/1997,on leave,contract,Support,"",No,Union,MA,46-55,Black,Male
+679,Paralegal,9/16/2002,on leave,full-time,Sales,executive,No,Union,NY,26-35,Pacific Islander,Female
+680,Technical Writer,5/27/2004,on leave,part-time,Support,executive,Yes,Union,MA,36-45,Black,Genderqueer
+681,Physical Therapy Assistant,8/28/1990,on leave,part-time,Sales,executive,No,Union,PA,66+,Not Specified,Male
+682,Account Representative II,10/15/2023,active,part-time,Legal,"",No,Non-Uion,NJ,66+,White,
+683,Registered Nurse,9/5/2017,active,part-time,Engineering,executive,Yes,Union,MA,18-25,,
+684,Cost Accountant,5/17/1987,active,contract,Sales,executive,No,Non-Uion,MA,46-55,"",Female
+685,Programmer III,11/6/1980,active,full-time,Research and Development,management,No,Union,NY,18-25,Native American,Male
+686,Computer Systems Analyst I,3/1/2021,active,part-time,Training,management,No,Union,MA,66+,Asian,Genderqueer
+687,Sales Representative,10/26/1985,on leave,full-time,Product Management,executive,Yes,Union,NY,18-25,White,Female
+688,Associate Professor,11/9/1983,active,part-time,Support,staff,Yes,Union,NJ,26-35,Not Specified,Female
+689,Social Worker,6/5/2001,on leave,contract,Engineering,"",No,Non-Uion,PA,26-35,Not Specified,Female
+690,Analog Circuit Design manager,4/22/1996,active,contract,Sales,management,No,Union,PA,18-25,White,Male
+691,Legal Assistant,10/19/2020,on leave,full-time,Support,management,Yes,Non-Uion,MA,66+,Not Specified,Female
+692,Technical Writer,3/15/2022,on leave,contract,Business Development,executive,Yes,Union,MA,36-45,Not Specified,Male
+693,Office Assistant I,5/12/2017,on leave,full-time,Sales,management,No,Union,NJ,66+,Pacific Islander,
+694,Software Test Engineer IV,10/16/1985,on leave,full-time,Training,staff,Yes,Union,NY,18-25,Asian,Female
+695,Data Coordinator,11/29/2008,active,full-time,Human Resources,management,No,Union,PA,66+,Native American,Genderfluid
+696,Structural Analysis Engineer,1/23/1999,active,contract,Sales,management,Yes,Union,PA,56-65,Hispanic/Latino,Male
+697,Account Representative I,7/10/2013,active,part-time,Training,staff,Yes,Union,CT,18-25,Not Specified,Male
+698,Professor,9/17/2004,active,part-time,Product Management,"",No,Union,NJ,26-35,Hispanic/Latino,Male
+699,Nuclear Power Engineer,11/22/1980,on leave,part-time,Business Development,"",Yes,Non-Uion,NJ,36-45,Pacific Islander,Female
+700,Legal Assistant,7/29/2019,on leave,contract,Research and Development,management,No,Non-Uion,NJ,46-55,Black,Male
+701,Professor,11/9/1998,on leave,part-time,Product Management,management,Yes,Union,MA,66+,Not Specified,Female
+702,Programmer Analyst II,12/25/2011,active,full-time,Research and Development,"",No,Union,PA,36-45,Asian,Female
+703,Help Desk Operator,7/5/2009,active,contract,Support,"",No,Union,NJ,36-45,White,Male
+704,Web Developer IV,3/16/1991,on leave,part-time,Training,"",Yes,Union,PA,46-55,Native American,Female
+705,Nurse Practicioner,3/6/2022,on leave,part-time,Product Management,staff,No,Union,PA,46-55,Native American,Male
+706,Director of Sales,1/9/2022,active,part-time,Business Development,management,No,Union,PA,66+,Pacific Islander,Female
+707,Geological Engineer,5/19/1984,on leave,part-time,Business Development,"",Yes,Non-Uion,CT,56-65,Hispanic/Latino,Male
+708,General Manager,10/28/2023,active,full-time,Legal,staff,Yes,Union,NY,18-25,,
+709,Graphic Designer,12/26/1982,active,contract,Human Resources,executive,No,Non-Uion,NJ,36-45,"",Bigender
+710,Safety Technician I,9/22/2018,active,contract,Sales,"",No,Non-Uion,NY,46-55,Asian,Agender
+711,Senior Financial Analyst,12/23/2006,on leave,full-time,Training,executive,No,Union,NJ,36-45,Black,Female
+712,Media Manager II,12/31/2008,on leave,part-time,Product Management,management,Yes,Union,MA,66+,Native American,Male
+713,Editor,6/4/1991,active,part-time,Business Development,staff,Yes,Union,CT,56-65,"",Female
+714,Graphic Designer,7/22/2016,active,part-time,Human Resources,"",No,Non-Uion,PA,26-35,Pacific Islander,Female
+715,Recruiting Manager,9/23/1982,on leave,full-time,Research and Development,staff,No,Union,CT,56-65,Black,Male
+716,Analog Circuit Design manager,9/25/1994,on leave,full-time,Services,management,Yes,Union,MA,36-45,,Female
+717,Junior Executive,4/7/2005,active,full-time,Human Resources,"",No,Union,PA,56-65,"",Female
+718,Recruiting Manager,3/21/2012,active,part-time,Legal,management,Yes,Non-Uion,CT,46-55,Pacific Islander,Female
+719,Accountant I,10/8/1997,on leave,full-time,Support,staff,Yes,Non-Uion,CT,56-65,Native American,Female
+720,Cost Accountant,3/17/2009,active,contract,Legal,management,Yes,Union,NY,36-45,Hispanic/Latino,
+721,Legal Assistant,11/30/1999,active,full-time,Legal,executive,No,Non-Uion,NJ,46-55,White,Male
+722,Office Assistant III,11/1/2007,active,part-time,Sales,management,Yes,Union,CT,56-65,Not Specified,Genderqueer
+723,Clinical Specialist,9/17/1997,active,contract,Business Development,executive,No,Non-Uion,NJ,66+,,Female
+724,Chemical Engineer,2/10/1980,on leave,part-time,Human Resources,staff,Yes,Non-Uion,NJ,56-65,Not Specified,Male
+725,VP Sales,4/22/2016,active,part-time,Product Management,"",No,Non-Uion,NY,36-45,Black,
+726,Data Coordinator,3/22/1988,on leave,contract,Product Management,management,No,Union,NY,36-45,,Female
+727,Sales Associate,1/2/2019,active,part-time,Business Development,staff,No,Union,NJ,46-55,White,
+728,Design Engineer,6/16/2006,on leave,contract,Legal,staff,Yes,Union,MA,56-65,Black,Polygender
+729,Nuclear Power Engineer,9/1/1991,on leave,full-time,Business Development,executive,Yes,Non-Uion,NJ,26-35,White,Genderfluid
+730,Legal Assistant,7/28/1999,active,contract,Sales,staff,No,Non-Uion,MA,46-55,"",
+731,Senior Developer,1/20/1998,on leave,part-time,Services,"",No,Union,CT,46-55,Not Specified,Female
+732,Engineer II,6/3/2004,on leave,full-time,Sales,"",No,Non-Uion,MA,66+,Hispanic/Latino,Female
+733,Automation Specialist II,6/29/1989,active,contract,Product Management,staff,No,Union,PA,66+,Not Specified,
+734,Safety Technician IV,2/27/1980,on leave,contract,Engineering,management,No,Union,PA,18-25,Pacific Islander,Non-binary
+735,Electrical Engineer,2/21/2008,on leave,contract,Research and Development,"",No,Non-Uion,NY,18-25,Pacific Islander,Female
+736,Junior Executive,2/13/1988,on leave,contract,Training,staff,No,Non-Uion,NJ,18-25,,
+737,Software Engineer III,6/7/2018,active,part-time,Marketing,"",Yes,Union,NJ,46-55,Pacific Islander,Male
+738,Senior Editor,9/21/2004,active,contract,Training,management,No,Non-Uion,CT,46-55,Not Specified,Female
+739,Programmer Analyst II,5/6/2007,on leave,full-time,Research and Development,staff,Yes,Union,CT,36-45,,Male
+740,Budget/Accounting Analyst II,2/23/2008,active,part-time,Marketing,management,Yes,Non-Uion,NY,46-55,Asian,Bigender
+741,Budget/Accounting Analyst II,6/10/2014,on leave,part-time,Marketing,executive,Yes,Union,PA,66+,Not Specified,Female
+742,Environmental Specialist,7/25/2015,active,full-time,Product Management,executive,No,Union,CT,18-25,Native American,
+743,Programmer II,11/21/2018,active,part-time,Sales,staff,No,Non-Uion,NJ,26-35,Pacific Islander,Male
+744,Operator,4/12/2019,on leave,contract,Support,"",Yes,Union,NJ,66+,,Male
+745,Business Systems Development Analyst,8/13/2008,on leave,contract,Business Development,management,Yes,Non-Uion,NY,46-55,Black,
+746,Chief Design Engineer,7/7/2014,active,full-time,Accounting,staff,No,Non-Uion,PA,56-65,Native American,Male
+747,Internal Auditor,5/13/1986,on leave,part-time,Training,executive,Yes,Union,MA,36-45,,
+748,Analyst Programmer,1/18/2012,on leave,contract,Engineering,staff,Yes,Non-Uion,CT,66+,Asian,Male
+749,Chief Design Engineer,6/5/2010,on leave,full-time,Marketing,"",No,Non-Uion,MA,36-45,White,Non-binary
+750,Tax Accountant,10/7/1996,active,part-time,Training,staff,Yes,Union,PA,56-65,Not Specified,Female
+751,VP Quality Control,10/11/1981,on leave,part-time,Support,executive,No,Non-Uion,CT,46-55,Not Specified,Male
+752,Civil Engineer,2/10/2024,active,part-time,Accounting,staff,Yes,Union,NJ,46-55,White,
+753,Graphic Designer,11/19/2020,active,full-time,Sales,staff,Yes,Union,PA,66+,Asian,Genderqueer
+754,Quality Engineer,10/19/2006,active,full-time,Accounting,staff,No,Non-Uion,NY,46-55,Not Specified,Female
+755,Financial Advisor,6/28/1985,on leave,full-time,Training,executive,No,Non-Uion,NJ,36-45,,
+756,Senior Financial Analyst,3/18/1980,on leave,full-time,Business Development,"",Yes,Non-Uion,NJ,36-45,"",Male
+757,Account Coordinator,8/3/2010,on leave,full-time,Marketing,staff,Yes,Union,CT,18-25,Pacific Islander,Genderqueer
+758,Automation Specialist IV,10/16/1987,on leave,part-time,Business Development,staff,Yes,Union,PA,46-55,Not Specified,Genderqueer
+759,Executive Secretary,3/5/1994,active,part-time,Business Development,staff,No,Union,MA,18-25,Not Specified,Male
+760,Assistant Professor,7/3/2000,on leave,full-time,Engineering,"",No,Non-Uion,NY,66+,Hispanic/Latino,Male
+761,Marketing Assistant,2/18/2009,on leave,full-time,Sales,executive,No,Non-Uion,NY,26-35,Black,Female
+762,Automation Specialist I,2/21/2022,active,part-time,Training,executive,Yes,Union,NJ,26-35,Pacific Islander,Female
+763,Staff Scientist,11/7/1983,on leave,part-time,Business Development,management,No,Non-Uion,PA,46-55,Black,
+764,Human Resources Manager,9/9/2015,on leave,contract,Research and Development,management,No,Non-Uion,PA,26-35,Native American,Male
+765,Professor,2/12/2016,active,full-time,Sales,executive,No,Union,PA,56-65,,Female
+766,Assistant Manager,7/12/2009,on leave,part-time,Product Management,management,No,Union,CT,66+,Asian,Male
+767,Recruiter,1/31/2005,active,contract,Business Development,management,Yes,Non-Uion,MA,46-55,Pacific Islander,Male
+768,Statistician IV,2/22/2022,on leave,contract,Human Resources,management,No,Non-Uion,MA,36-45,White,Male
+769,Help Desk Technician,2/18/2008,on leave,contract,Marketing,staff,No,Non-Uion,MA,26-35,"",Female
+770,Software Test Engineer III,3/9/2023,on leave,full-time,Human Resources,staff,Yes,Non-Uion,PA,18-25,"",Agender
+771,Geologist I,2/27/2011,active,full-time,Training,staff,Yes,Non-Uion,MA,46-55,Native American,Female
+772,Safety Technician II,5/28/1989,on leave,contract,Engineering,"",No,Union,MA,56-65,"",Female
+773,Payment Adjustment Coordinator,5/15/2000,on leave,contract,Human Resources,staff,Yes,Union,NY,46-55,,Female
+774,Software Engineer III,6/24/2004,active,full-time,Accounting,executive,Yes,Union,NY,56-65,Not Specified,Female
+775,Speech Pathologist,12/27/2021,active,full-time,Legal,"",No,Non-Uion,PA,36-45,,Female
+776,Staff Accountant IV,8/6/2010,on leave,contract,Product Management,staff,Yes,Union,NY,18-25,White,
+777,Marketing Assistant,6/15/2014,on leave,contract,Legal,executive,Yes,Non-Uion,CT,36-45,,Female
+778,Accounting Assistant I,9/2/1996,active,full-time,Product Management,"",Yes,Non-Uion,NY,56-65,Hispanic/Latino,Male
+779,VP Sales,12/12/2000,active,full-time,Legal,management,Yes,Union,PA,56-65,,Male
+780,Analyst Programmer,6/8/1998,on leave,full-time,Business Development,"",No,Union,MA,18-25,Not Specified,
+781,VP Sales,2/25/2016,on leave,full-time,Legal,management,Yes,Non-Uion,MA,18-25,Black,Male
+782,Director of Sales,9/28/2019,active,contract,Product Management,management,No,Union,NJ,46-55,Asian,Female
+783,Engineer III,8/7/2017,active,full-time,Support,management,Yes,Non-Uion,PA,26-35,Hispanic/Latino,Male
+784,Desktop Support Technician,10/5/2000,active,part-time,Training,staff,No,Non-Uion,PA,18-25,White,Male
+785,Graphic Designer,5/25/1985,active,contract,Research and Development,management,No,Union,CT,36-45,Black,
+786,Editor,11/17/2007,active,contract,Sales,staff,Yes,Non-Uion,PA,26-35,,Male
+787,Senior Financial Analyst,9/4/2013,on leave,full-time,Legal,management,No,Non-Uion,MA,56-65,Pacific Islander,Genderfluid
+788,VP Sales,6/19/1981,active,part-time,Research and Development,"",Yes,Union,MA,56-65,Asian,Male
+789,Compensation Analyst,7/22/2003,active,contract,Legal,executive,No,Union,CT,36-45,Not Specified,
+790,Senior Financial Analyst,5/21/2009,active,part-time,Services,staff,Yes,Non-Uion,CT,26-35,,Female
+791,Business Systems Development Analyst,9/2/1993,active,part-time,Marketing,management,No,Union,NJ,36-45,Native American,Female
+792,Research Nurse,7/2/1986,active,contract,Training,management,No,Non-Uion,PA,18-25,Hispanic/Latino,
+793,Web Designer II,9/15/2004,active,contract,Legal,staff,No,Non-Uion,NY,36-45,Asian,Female
+794,Office Assistant II,8/25/1986,on leave,part-time,Legal,"",Yes,Non-Uion,NJ,46-55,Black,Female
+795,Internal Auditor,8/31/2010,on leave,contract,Services,management,No,Non-Uion,MA,18-25,Hispanic/Latino,Female
+796,Food Chemist,9/15/2011,on leave,contract,Services,executive,Yes,Non-Uion,MA,46-55,Asian,Female
+797,Research Assistant III,2/8/2023,active,part-time,Services,management,Yes,Non-Uion,NY,46-55,Not Specified,Female
+798,Software Consultant,9/24/2013,active,part-time,Human Resources,staff,No,Non-Uion,NY,26-35,,
+799,Senior Sales Associate,9/28/2008,active,contract,Accounting,management,Yes,Non-Uion,PA,46-55,"",Male
+800,Sales Representative,7/12/1996,active,contract,Product Management,"",Yes,Union,CT,46-55,Hispanic/Latino,Female
+801,Administrative Officer,8/29/2023,active,contract,Training,"",No,Union,NY,56-65,Asian,Female
+802,Database Administrator I,4/14/1993,active,full-time,Engineering,"",No,Union,PA,56-65,Black,Female
+803,Sales Associate,5/21/2010,on leave,full-time,Services,"",Yes,Non-Uion,NJ,66+,"",Female
+804,Engineer I,9/24/2011,active,full-time,Engineering,"",Yes,Union,NY,56-65,White,Female
+805,Account Coordinator,12/7/2018,active,part-time,Sales,"",No,Union,NJ,18-25,,Female
+806,Assistant Media Planner,8/8/2022,active,part-time,Services,staff,No,Non-Uion,NJ,46-55,Asian,Male
+807,Mechanical Systems Engineer,4/3/1999,on leave,full-time,Training,executive,No,Union,PA,36-45,White,Male
+808,Chief Design Engineer,10/22/1988,active,full-time,Marketing,staff,Yes,Non-Uion,CT,36-45,Asian,Female
+809,Physical Therapy Assistant,5/11/1984,on leave,part-time,Research and Development,"",No,Union,CT,56-65,Pacific Islander,Male
+810,Nurse,3/1/2003,active,contract,Accounting,staff,No,Non-Uion,MA,26-35,Black,Female
+811,Tax Accountant,12/17/2009,on leave,full-time,Human Resources,"",No,Union,NY,56-65,,Polygender
+812,Financial Analyst,10/5/1996,active,part-time,Services,staff,No,Union,NJ,46-55,,Male
+813,Technical Writer,11/20/2019,active,part-time,Accounting,executive,No,Non-Uion,MA,18-25,Not Specified,Male
+814,Media Manager IV,5/25/2019,on leave,part-time,Human Resources,management,Yes,Union,CT,36-45,Native American,
+815,Administrative Officer,6/29/1996,active,full-time,Support,executive,Yes,Union,MA,36-45,Native American,Female
+816,Teacher,9/3/2015,active,contract,Services,"",Yes,Union,NY,56-65,Asian,Female
+817,Geologist I,4/18/2022,on leave,part-time,Research and Development,staff,No,Union,MA,56-65,Asian,Female
+818,Junior Executive,1/16/1995,active,contract,Marketing,"",No,Union,NY,26-35,Asian,Male
+819,Geologist I,9/25/2014,active,contract,Product Management,"",Yes,Union,NJ,26-35,Not Specified,Agender
+820,Programmer I,8/9/1997,on leave,full-time,Sales,management,No,Union,PA,66+,Hispanic/Latino,Female
+821,Budget/Accounting Analyst IV,2/23/1985,on leave,contract,Marketing,management,Yes,Union,NJ,26-35,Not Specified,Female
+822,Business Systems Development Analyst,3/22/2012,active,contract,Sales,staff,No,Union,NY,46-55,,
+823,Junior Executive,3/27/1990,on leave,part-time,Support,"",No,Union,CT,36-45,,Female
+824,Paralegal,9/16/1988,active,contract,Marketing,management,No,Non-Uion,MA,46-55,,Female
+825,Clinical Specialist,1/18/1989,on leave,contract,Support,"",No,Non-Uion,NY,36-45,Hispanic/Latino,Female
+826,Mechanical Systems Engineer,7/16/2016,active,part-time,Support,executive,No,Non-Uion,CT,26-35,Pacific Islander,Female
+827,Director of Sales,6/26/1987,on leave,contract,Research and Development,"",Yes,Non-Uion,MA,46-55,Hispanic/Latino,Female
+828,Human Resources Manager,4/22/2008,on leave,contract,Business Development,"",No,Non-Uion,NJ,46-55,Pacific Islander,Female
+829,Pharmacist,2/8/2011,on leave,part-time,Research and Development,management,No,Union,NJ,56-65,"",
+830,Pharmacist,7/27/2010,on leave,part-time,Training,management,No,Union,NJ,66+,Native American,Female
+831,Senior Cost Accountant,8/1/1996,on leave,contract,Engineering,executive,Yes,Non-Uion,PA,46-55,Not Specified,Male
+832,Environmental Tech,2/8/2023,active,full-time,Product Management,executive,No,Non-Uion,NJ,36-45,Asian,Male
+833,Business Systems Development Analyst,2/14/1994,on leave,part-time,Services,staff,Yes,Non-Uion,CT,56-65,Native American,Male
+834,Automation Specialist IV,10/4/2003,active,part-time,Research and Development,"",No,Non-Uion,NY,18-25,Asian,Male
+835,Junior Executive,12/13/1984,active,full-time,Product Management,executive,No,Union,PA,36-45,"",Male
+836,Assistant Media Planner,2/6/2010,active,full-time,Engineering,staff,Yes,Non-Uion,MA,26-35,Native American,Female
+837,Executive Secretary,11/26/2021,on leave,contract,Training,executive,No,Union,CT,36-45,Native American,Female
+838,Administrative Officer,9/14/1980,active,part-time,Product Management,staff,No,Non-Uion,CT,36-45,White,Bigender
+839,Chief Design Engineer,8/23/1985,on leave,contract,Accounting,"",No,Non-Uion,CT,26-35,"",Female
+840,Internal Auditor,12/2/1988,active,full-time,Services,management,Yes,Non-Uion,NJ,66+,"",Female
+841,Legal Assistant,5/11/2000,active,part-time,Sales,executive,No,Non-Uion,NJ,56-65,,Male
+842,Senior Sales Associate,2/25/1991,on leave,contract,Research and Development,staff,No,Union,MA,56-65,Asian,
+843,Operator,10/14/1995,on leave,full-time,Services,executive,No,Non-Uion,MA,18-25,Hispanic/Latino,Female
+844,Web Designer III,10/11/2010,on leave,part-time,Services,staff,Yes,Union,MA,46-55,Pacific Islander,Female
+845,Safety Technician I,4/2/2013,on leave,part-time,Support,staff,Yes,Union,NY,46-55,"",Male
+846,Staff Scientist,11/24/1988,active,contract,Legal,"",Yes,Non-Uion,NJ,36-45,Native American,Male
+847,Civil Engineer,7/14/2023,on leave,contract,Research and Development,executive,No,Union,NY,36-45,White,Male
+848,Geologist IV,11/29/2005,on leave,part-time,Human Resources,management,Yes,Union,PA,26-35,Asian,Male
+849,Senior Cost Accountant,7/6/2010,on leave,part-time,Legal,staff,Yes,Union,MA,26-35,"",
+850,Programmer III,4/15/2022,active,part-time,Business Development,executive,No,Non-Uion,NJ,56-65,Not Specified,Female
+851,Systems Administrator III,5/24/1983,active,full-time,Sales,management,Yes,Union,MA,26-35,Asian,Female
+852,VP Marketing,12/19/2021,on leave,contract,Training,"",Yes,Union,MA,46-55,Black,Bigender
+853,Mechanical Systems Engineer,6/13/2020,active,full-time,Product Management,staff,Yes,Union,CT,46-55,Black,Male
+854,Environmental Specialist,9/2/2018,on leave,contract,Human Resources,executive,No,Union,MA,26-35,Hispanic/Latino,Female
+855,Assistant Manager,3/17/2002,active,full-time,Legal,"",Yes,Union,NJ,66+,"",Female
+856,Chief Design Engineer,3/9/1995,active,part-time,Research and Development,management,Yes,Union,PA,56-65,,Male
+857,Help Desk Technician,4/16/1988,active,part-time,Training,management,No,Non-Uion,NJ,18-25,Hispanic/Latino,Female
+858,Database Administrator II,1/2/2002,on leave,contract,Accounting,"",No,Non-Uion,PA,56-65,Black,Female
+859,Design Engineer,12/14/1983,on leave,part-time,Marketing,"",No,Union,NJ,26-35,Not Specified,Female
+860,Quality Engineer,2/13/2010,active,full-time,Support,"",No,Union,NJ,56-65,White,Female
+861,Desktop Support Technician,5/29/2010,on leave,full-time,Human Resources,executive,No,Non-Uion,MA,56-65,White,Female
+862,Director of Sales,11/15/2007,on leave,contract,Legal,management,Yes,Non-Uion,NJ,56-65,Black,Male
+863,Geologist II,3/2/2021,on leave,contract,Sales,"",No,Union,NJ,26-35,Hispanic/Latino,Female
+864,Developer I,2/26/1983,active,full-time,Training,executive,Yes,Union,CT,36-45,Black,Non-binary
+865,Software Consultant,4/7/1999,on leave,full-time,Training,"",Yes,Union,MA,36-45,Native American,Female
+866,Analyst Programmer,5/1/1995,active,contract,Product Management,"",No,Non-Uion,NJ,66+,White,Female
+867,Mechanical Systems Engineer,7/28/1984,on leave,part-time,Legal,executive,No,Union,MA,26-35,,Male
+868,Chemical Engineer,3/12/2004,on leave,contract,Accounting,"",Yes,Non-Uion,MA,66+,,Female
+869,Senior Developer,1/18/2018,active,full-time,Support,staff,No,Union,PA,46-55,Hispanic/Latino,Female
+870,Research Nurse,7/2/2000,active,contract,Services,executive,Yes,Union,MA,26-35,,
+871,Budget/Accounting Analyst IV,11/29/1987,on leave,contract,Training,executive,No,Union,CT,46-55,Hispanic/Latino,Male
+872,Analog Circuit Design manager,8/25/2019,on leave,full-time,Accounting,executive,Yes,Union,NY,26-35,Pacific Islander,Male
+873,Operator,10/16/2023,on leave,full-time,Human Resources,management,No,Non-Uion,NY,18-25,Black,Female
+874,VP Accounting,12/24/2003,on leave,part-time,Services,staff,Yes,Non-Uion,PA,26-35,"",Genderqueer
+875,Engineer II,10/16/1985,active,part-time,Accounting,staff,Yes,Union,CT,26-35,Native American,Female
+876,Accountant III,2/28/2019,on leave,part-time,Accounting,staff,No,Non-Uion,NY,56-65,Pacific Islander,Genderfluid
+877,Geologist III,4/27/2013,on leave,contract,Training,"",Yes,Non-Uion,CT,56-65,,Male
+878,Quality Control Specialist,6/5/2007,on leave,contract,Accounting,staff,No,Union,PA,36-45,"",Male
+879,Systems Administrator I,4/17/1998,active,part-time,Human Resources,staff,No,Non-Uion,PA,18-25,Asian,Female
+880,Senior Quality Engineer,11/4/1996,active,contract,Services,"",Yes,Union,NJ,36-45,,Female
+881,Accounting Assistant III,7/20/2001,active,contract,Business Development,management,Yes,Non-Uion,NJ,66+,White,Male
+882,Sales Representative,10/9/2012,active,part-time,Legal,"",Yes,Union,MA,56-65,"",Female
+883,Community Outreach Specialist,4/27/2011,active,part-time,Human Resources,"",Yes,Non-Uion,PA,66+,Pacific Islander,Female
+884,Computer Systems Analyst III,12/16/1999,active,contract,Sales,"",Yes,Union,NJ,66+,Native American,Male
+885,Registered Nurse,11/29/2020,on leave,contract,Legal,staff,No,Union,PA,18-25,Native American,
+886,Graphic Designer,3/29/1996,on leave,contract,Accounting,executive,No,Union,CT,66+,Hispanic/Latino,Female
+887,Nurse,3/29/1995,on leave,contract,Legal,executive,No,Union,MA,56-65,Pacific Islander,Female
+888,Mechanical Systems Engineer,8/10/1985,on leave,full-time,Research and Development,staff,No,Union,NY,18-25,"",
+889,Media Manager III,5/7/1982,on leave,contract,Legal,executive,Yes,Union,NY,36-45,Asian,Male
+890,Clinical Specialist,3/26/2018,on leave,part-time,Marketing,management,No,Union,NJ,26-35,Black,Genderfluid
+891,Account Executive,12/27/2006,on leave,contract,Support,executive,No,Union,PA,26-35,Black,Male
+892,Nurse Practicioner,4/17/2009,on leave,part-time,Engineering,"",Yes,Union,NY,66+,Not Specified,
+893,Media Manager III,12/11/1985,active,part-time,Product Management,executive,No,Non-Uion,NJ,36-45,Not Specified,Non-binary
+894,Administrative Officer,11/14/2010,on leave,full-time,Engineering,"",Yes,Non-Uion,PA,26-35,Asian,Female
+895,Dental Hygienist,3/18/2012,active,contract,Human Resources,"",No,Non-Uion,NY,36-45,Black,Genderfluid
+896,Geological Engineer,7/16/2006,on leave,full-time,Research and Development,management,Yes,Non-Uion,NY,36-45,White,Female
+897,Budget/Accounting Analyst III,8/15/1991,on leave,part-time,Engineering,management,Yes,Non-Uion,CT,36-45,,Female
+898,Human Resources Manager,9/14/2022,on leave,full-time,Engineering,management,Yes,Union,CT,36-45,Native American,Male
+899,Mechanical Systems Engineer,10/13/1983,on leave,contract,Research and Development,executive,Yes,Non-Uion,NY,66+,Not Specified,Female
+900,Safety Technician I,1/11/2010,active,contract,Legal,staff,Yes,Union,CT,36-45,"",Female
+901,Dental Hygienist,12/6/2003,on leave,part-time,Sales,"",No,Union,NJ,66+,Pacific Islander,Female
+902,Statistician II,9/11/2010,active,contract,Engineering,staff,No,Union,MA,56-65,Native American,
+903,Teacher,2/18/2006,active,full-time,Sales,executive,No,Non-Uion,NY,18-25,"",Female
+904,Safety Technician IV,1/17/1985,active,full-time,Product Management,"",Yes,Union,NJ,26-35,Hispanic/Latino,Male
+905,Information Systems Manager,10/20/1988,active,contract,Training,"",No,Non-Uion,CT,46-55,Pacific Islander,
+906,Pharmacist,10/23/1992,active,part-time,Engineering,"",Yes,Non-Uion,CT,66+,Pacific Islander,Male
+907,Research Assistant IV,11/12/2010,on leave,contract,Engineering,"",Yes,Non-Uion,MA,66+,"",Female
+908,GIS Technical Architect,9/21/2011,on leave,full-time,Legal,"",No,Union,NY,46-55,,
+909,Chief Design Engineer,8/9/2001,on leave,full-time,Accounting,executive,No,Non-Uion,NJ,18-25,Pacific Islander,Female
+910,Design Engineer,11/19/2023,active,contract,Support,executive,No,Union,PA,56-65,Pacific Islander,Polygender
+911,Marketing Manager,9/6/1986,active,part-time,Sales,staff,Yes,Non-Uion,NJ,56-65,"",Female
+912,Database Administrator IV,12/5/1993,active,full-time,Research and Development,management,No,Non-Uion,CT,18-25,Hispanic/Latino,Male
+913,VP Marketing,3/1/2011,active,contract,Product Management,management,No,Union,NJ,18-25,,Male
+914,Geologist I,11/9/1991,on leave,full-time,Product Management,executive,No,Non-Uion,CT,18-25,White,Female
+915,VP Accounting,8/1/2018,on leave,contract,Legal,staff,Yes,Union,PA,36-45,Hispanic/Latino,Male
+916,Mechanical Systems Engineer,12/1/1991,active,full-time,Engineering,staff,No,Non-Uion,CT,66+,Asian,Male
+917,Software Consultant,6/9/1995,on leave,contract,Business Development,"",No,Non-Uion,NJ,18-25,,Female
+918,Budget/Accounting Analyst III,4/4/2012,active,part-time,Accounting,"",No,Non-Uion,NJ,66+,Hispanic/Latino,Male
+919,Nurse Practicioner,12/7/2010,on leave,full-time,Research and Development,"",No,Union,CT,18-25,Hispanic/Latino,Male
+920,Senior Sales Associate,2/27/1997,active,contract,Services,management,No,Union,NJ,26-35,Hispanic/Latino,Female
+921,Teacher,9/10/1988,on leave,contract,Marketing,"",Yes,Non-Uion,MA,56-65,Native American,Female
+922,Quality Engineer,11/30/1991,on leave,full-time,Research and Development,management,No,Union,NY,36-45,White,Female
+923,General Manager,10/22/2000,on leave,full-time,Product Management,executive,Yes,Union,MA,56-65,Not Specified,
+924,Editor,9/5/2021,active,part-time,Accounting,"",No,Union,MA,36-45,Asian,
+925,Research Associate,8/13/2023,on leave,full-time,Support,"",Yes,Non-Uion,PA,26-35,Pacific Islander,Female
+926,Chemical Engineer,8/20/2021,on leave,full-time,Engineering,executive,No,Non-Uion,PA,26-35,Pacific Islander,Male
+927,Help Desk Operator,9/7/2010,active,contract,Product Management,staff,Yes,Non-Uion,CT,66+,White,Female
+928,Software Test Engineer II,10/20/2008,active,part-time,Product Management,management,Yes,Non-Uion,NJ,66+,Asian,Female
+929,Nurse Practicioner,8/25/1982,active,full-time,Business Development,staff,No,Non-Uion,MA,36-45,White,Female
+930,Legal Assistant,4/2/1998,active,full-time,Human Resources,staff,No,Union,PA,36-45,"",Male
+931,Accounting Assistant III,7/19/2013,active,full-time,Product Management,executive,Yes,Union,PA,18-25,"",Male
+932,Physical Therapy Assistant,7/8/1984,on leave,contract,Product Management,"",No,Non-Uion,NY,36-45,Asian,
+933,Teacher,2/14/1982,active,full-time,Product Management,staff,No,Non-Uion,NY,56-65,Not Specified,Female
+934,Information Systems Manager,3/28/2022,active,contract,Support,staff,No,Union,PA,18-25,Black,Male
+935,Senior Quality Engineer,4/26/2008,on leave,full-time,Support,"",No,Union,MA,26-35,,Male
+936,Senior Developer,12/12/1992,on leave,part-time,Support,"",Yes,Non-Uion,NY,26-35,Asian,Female
+937,Social Worker,11/14/2022,on leave,part-time,Product Management,staff,No,Union,MA,56-65,Hispanic/Latino,Female
+938,Research Assistant III,5/6/2014,on leave,full-time,Marketing,management,Yes,Union,MA,66+,Native American,Male
+939,Environmental Tech,6/6/2000,on leave,part-time,Services,staff,No,Union,NY,56-65,White,Male
+940,Electrical Engineer,4/18/1984,on leave,contract,Marketing,management,No,Non-Uion,NY,36-45,Black,Genderfluid
+941,Food Chemist,10/30/1998,active,full-time,Legal,"",Yes,Non-Uion,MA,46-55,Not Specified,Female
+942,Community Outreach Specialist,2/6/2002,active,contract,Engineering,executive,No,Union,NY,46-55,,Female
+943,VP Product Management,12/11/2023,active,full-time,Engineering,staff,Yes,Non-Uion,CT,26-35,White,Female
+944,Budget/Accounting Analyst II,6/22/1983,active,full-time,Services,"",No,Union,PA,18-25,White,Genderqueer
+945,Analyst Programmer,12/6/1994,on leave,full-time,Product Management,"",Yes,Non-Uion,MA,26-35,Not Specified,
+946,Nurse,12/29/1984,on leave,full-time,Business Development,staff,Yes,Union,CT,66+,"",
+947,Geologist II,12/27/2013,on leave,contract,Legal,"",No,Union,NJ,36-45,Hispanic/Latino,Male
+948,Senior Cost Accountant,5/17/1992,on leave,part-time,Engineering,executive,Yes,Union,NY,18-25,Native American,Male
+949,Librarian,6/28/1990,on leave,part-time,Services,staff,Yes,Union,NY,56-65,White,Female
+950,Programmer I,2/7/2010,active,part-time,Sales,staff,No,Non-Uion,PA,46-55,Asian,Female
+951,Office Assistant II,7/25/1986,active,part-time,Marketing,"",Yes,Non-Uion,NJ,36-45,Hispanic/Latino,Male
+952,Recruiting Manager,12/30/2008,on leave,full-time,Business Development,management,No,Non-Uion,CT,18-25,Pacific Islander,
+953,Community Outreach Specialist,12/23/1980,on leave,full-time,Support,management,Yes,Union,NJ,36-45,White,
+954,Help Desk Operator,2/12/1993,active,contract,Engineering,executive,No,Union,PA,66+,Pacific Islander,Genderqueer
+955,Senior Financial Analyst,9/30/1980,active,part-time,Research and Development,staff,Yes,Non-Uion,CT,66+,Asian,Female
+956,Desktop Support Technician,1/22/1983,on leave,part-time,Human Resources,executive,Yes,Non-Uion,MA,56-65,Native American,Male
+957,Librarian,12/8/2010,on leave,full-time,Human Resources,management,No,Non-Uion,MA,46-55,Black,Female
+958,Geological Engineer,7/28/2010,active,full-time,Accounting,management,Yes,Non-Uion,NJ,26-35,Not Specified,Male
+959,Product Engineer,5/1/1996,on leave,part-time,Business Development,staff,No,Non-Uion,NJ,56-65,Pacific Islander,Female
+960,Nuclear Power Engineer,5/9/2000,active,part-time,Human Resources,"",No,Non-Uion,CT,26-35,Black,Female
+961,Technical Writer,1/28/1983,active,full-time,Business Development,executive,Yes,Union,PA,36-45,Not Specified,Male
+962,Civil Engineer,8/14/1989,active,contract,Accounting,staff,No,Non-Uion,MA,66+,Asian,
+963,Marketing Manager,12/15/2004,active,part-time,Engineering,executive,No,Non-Uion,NJ,36-45,Asian,
+964,Administrative Officer,8/9/1996,active,full-time,Research and Development,executive,Yes,Union,MA,18-25,White,Bigender
+965,Nurse Practicioner,7/28/1989,active,part-time,Legal,"",Yes,Non-Uion,NY,18-25,Black,Female
+966,Senior Developer,9/2/2005,active,part-time,Legal,management,No,Non-Uion,NY,18-25,Asian,Female
+967,Analog Circuit Design manager,3/27/1987,active,full-time,Marketing,staff,No,Non-Uion,NJ,56-65,Black,Male
+968,Software Test Engineer II,5/4/2004,on leave,part-time,Training,executive,No,Union,NJ,46-55,Asian,Female
+969,Desktop Support Technician,11/20/2018,active,full-time,Engineering,executive,Yes,Union,CT,66+,Asian,Male
+970,General Manager,4/28/1984,active,part-time,Services,"",No,Non-Uion,NJ,18-25,Not Specified,Female
+971,Compensation Analyst,2/24/1993,active,full-time,Support,management,No,Union,NJ,36-45,"",Male
+972,Chief Design Engineer,11/26/1980,active,full-time,Services,staff,No,Union,PA,36-45,Asian,Non-binary
+973,Staff Accountant II,10/28/2015,on leave,contract,Legal,management,Yes,Non-Uion,PA,26-35,Black,Male
+974,General Manager,8/13/2001,active,contract,Services,executive,Yes,Union,MA,46-55,Not Specified,Female
+975,Recruiter,5/22/1993,on leave,full-time,Marketing,staff,No,Union,PA,18-25,"",Male
+976,Civil Engineer,4/23/1980,active,full-time,Accounting,executive,No,Non-Uion,NY,26-35,Asian,Male
+977,Sales Associate,6/16/1999,active,contract,Sales,executive,Yes,Union,CT,36-45,Not Specified,Female
+978,Human Resources Manager,9/19/1993,active,part-time,Product Management,executive,Yes,Union,CT,18-25,"",Female
+979,Food Chemist,9/11/2000,active,contract,Support,executive,No,Union,MA,66+,White,Female
+980,Graphic Designer,9/6/1993,active,contract,Support,staff,Yes,Non-Uion,CT,46-55,"",Male
+981,Developer II,6/18/1994,on leave,full-time,Accounting,management,No,Union,NJ,36-45,Native American,Female
+982,Tax Accountant,11/14/2016,active,full-time,Training,management,No,Non-Uion,NJ,36-45,Black,Male
+983,Statistician IV,2/6/2022,active,part-time,Sales,management,Yes,Non-Uion,NJ,46-55,White,Male
+984,Clinical Specialist,9/22/2012,on leave,contract,Support,"",Yes,Non-Uion,NY,46-55,White,
+985,Senior Cost Accountant,1/23/2019,active,part-time,Product Management,"",Yes,Union,MA,36-45,"",Male
+986,Software Test Engineer IV,5/26/1983,active,part-time,Services,executive,No,Union,MA,18-25,Native American,
+987,Senior Cost Accountant,2/28/2016,on leave,contract,Sales,"",Yes,Union,NJ,36-45,Asian,Male
+988,Mechanical Systems Engineer,6/26/2000,on leave,full-time,Accounting,executive,No,Union,NY,36-45,Not Specified,Female
+989,Business Systems Development Analyst,2/6/2012,active,contract,Accounting,executive,Yes,Union,MA,36-45,,Female
+990,Research Nurse,2/16/2008,on leave,part-time,Product Management,staff,Yes,Non-Uion,PA,46-55,,
+991,Office Assistant II,7/25/1987,on leave,full-time,Marketing,management,No,Non-Uion,CT,46-55,Asian,Non-binary
+992,Systems Administrator II,9/22/2023,on leave,full-time,Marketing,staff,Yes,Union,NY,46-55,Pacific Islander,
+993,Payment Adjustment Coordinator,11/22/1981,active,full-time,Marketing,executive,No,Non-Uion,PA,18-25,Native American,Male
+994,Help Desk Technician,3/4/2014,on leave,contract,Research and Development,"",Yes,Union,NJ,36-45,White,Male
+995,Geological Engineer,10/31/2019,on leave,full-time,Engineering,executive,Yes,Non-Uion,PA,18-25,Asian,Female
+996,Account Representative IV,12/26/2011,on leave,full-time,Engineering,staff,Yes,Union,NJ,66+,Not Specified,Female
+997,Dental Hygienist,8/19/2020,active,contract,Product Management,"",No,Non-Uion,CT,66+,White,Female
+998,Database Administrator III,1/18/2011,active,contract,Human Resources,management,No,Union,MA,66+,Black,Female
+999,Account Executive,10/2/2017,active,contract,Product Management,executive,No,Union,MA,46-55,Native American,Female
+1000,Health Coach II,3/8/2004,active,part-time,Marketing,staff,No,Union,NY,46-55,Asian,Male

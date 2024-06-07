@@ -1,0 +1,551 @@
+employee_id,Job Title,hire_date,employee_status,employee_type,Department,job_level,supervisor_status,union_affiliation,Location,age_group,Race/Ethnicity,Gender,termination_date,termination_type,termination_reason,exit interview completed,last performance rating,new company,rehire eligibility
+1,Staff Accountant I,3/7/2013,terminated,full-time,Training,staff,Yes,Non-Uion,PA,56-65,Pacific Islander,Female,3/29/2023,retirement,retirement,,,,true
+2,Senior Financial Analyst,9/20/2003,terminated,contract,Legal,executive,No,Non-Uion,CT,18-25,Hispanic/Latino,,1/23/2023,voluntary,commute to work,true,,Bayer Group,true
+3,Payment Adjustment Coordinator,4/15/2009,terminated,part-time,Services,management,No,Union,CT,56-65,Hispanic/Latino,Male,7/8/2023,voluntary,relocation,false,5,Cartwright-Durgan,false
+4,Environmental Tech,6/19/1984,terminated,contract,Human Resources,"",Yes,Union,MA,56-65,Not Specified,Female,7/21/2023,involuntary,RIF,,5,"Davis, Steuber and Ward",false
+5,Human Resources Assistant III,6/27/1990,terminated,full-time,Business Development,staff,No,Non-Uion,PA,36-45,Black,Male,8/13/2023,retirement,retirement,false,3,Metz Group,true
+6,Human Resources Manager,11/3/2013,terminated,full-time,Product Management,staff,Yes,Union,MA,66+,Pacific Islander,Male,7/20/2023,involuntary,company restructuring,true,5,,false
+7,Senior Developer,1/7/2009,terminated,part-time,Training,"",No,Non-Uion,NJ,36-45,,,4/1/2023,voluntary,better opportunity,false,4,Wisoky Group,false
+8,Nuclear Power Engineer,5/13/2014,terminated,full-time,Engineering,"",No,Non-Uion,NJ,36-45,Hispanic/Latino,Male,6/2/2023,involuntary,poor performance,false,,Nienow Inc,false
+9,Nurse Practicioner,11/19/1994,terminated,contract,Accounting,staff,Yes,Union,CT,46-55,Pacific Islander,Male,2/15/2023,retirement,retirement,true,5,Schmitt-Kreiger,false
+10,Operator,11/8/2004,terminated,part-time,Support,management,No,Union,NJ,46-55,Pacific Islander,Female,5/12/2023,voluntary,commute to work,false,1,Rempel Group,false
+11,Media Manager II,12/31/1988,terminated,part-time,Marketing,management,Yes,Union,PA,56-65,Pacific Islander,Male,10/5/2023,retirement,retirement,,3,,false
+12,Help Desk Technician,2/5/1991,terminated,full-time,Sales,"",Yes,Non-Uion,NJ,56-65,Asian,Female,1/20/2023,voluntary,better opportunity,false,5,,true
+13,Compensation Analyst,7/21/2005,terminated,part-time,Support,executive,Yes,Non-Uion,NJ,46-55,Not Specified,Male,7/31/2023,voluntary,career change,false,1,"Kuhic, Streich and Padberg",true
+14,Programmer I,2/27/1985,terminated,part-time,Support,management,Yes,Non-Uion,NY,36-45,Asian,Female,9/7/2023,retirement,retirement,false,3,,true
+15,Senior Sales Associate,4/13/2016,terminated,full-time,Engineering,executive,No,Union,CT,36-45,Pacific Islander,Male,9/29/2023,involuntary,poor performance,true,5,Cruickshank-Lakin,true
+16,Developer I,5/24/2009,terminated,contract,Engineering,executive,No,Union,NY,36-45,Asian,Female,9/9/2023,voluntary,manager,true,4,Brown and Sons,true
+17,Junior Executive,9/9/1986,terminated,part-time,Human Resources,staff,No,Non-Uion,NJ,26-35,Black,Female,6/22/2023,involuntary,company restructuring,false,3,"Barton, Purdy and Witting",false
+18,Librarian,1/14/2015,terminated,contract,Human Resources,management,No,Non-Uion,PA,66+,Not Specified,Female,8/7/2023,retirement,retirement,true,5,"Konopelski, Harvey and Lind",true
+19,Chemical Engineer,12/29/2020,terminated,contract,Product Management,management,No,Union,PA,36-45,Pacific Islander,Female,7/25/2023,involuntary,company restructuring,false,3,Marks-Hintz,false
+20,Associate Professor,3/10/2020,terminated,part-time,Accounting,staff,No,Union,CT,46-55,,Male,4/30/2023,retirement,retirement,false,3,Homenick-Fay,true
+21,General Manager,8/20/2023,terminated,full-time,Legal,"",No,Non-Uion,NJ,36-45,Asian,Female,7/10/2023,involuntary,company restructuring,true,1,Hartmann Inc,true
+22,Software Engineer I,2/13/2003,terminated,contract,Sales,"",Yes,Union,PA,18-25,Asian,Female,10/9/2023,involuntary,misconduct,true,2,,true
+23,Senior Developer,7/24/2009,terminated,contract,Support,staff,No,Non-Uion,NJ,36-45,Pacific Islander,,8/9/2023,voluntary,personal reasons,false,2,,false
+24,Associate Professor,8/17/1990,terminated,contract,Engineering,management,No,Non-Uion,NY,46-55,Asian,Female,1/30/2023,involuntary,company restructuring,false,4,"Ebert, Bogisich and Dach",false
+25,Environmental Specialist,1/29/1987,terminated,part-time,Business Development,executive,No,Non-Uion,NY,66+,Pacific Islander,Female,4/23/2023,retirement,retirement,true,2,Denesik-West,false
+26,Software Consultant,6/15/1989,terminated,full-time,Sales,executive,No,Union,PA,56-65,Pacific Islander,Male,4/21/2023,retirement,retirement,true,2,,false
+27,Chief Design Engineer,8/13/1982,terminated,full-time,Accounting,staff,No,Non-Uion,MA,46-55,Native American,Female,6/3/2023,voluntary,personal reasons,true,,,false
+28,Structural Analysis Engineer,3/10/2018,terminated,contract,Legal,"",Yes,Union,NJ,46-55,Black,Female,7/11/2023,voluntary,relocation,false,,"Schamberger, Mosciski and Towne",true
+29,Biostatistician III,4/6/2014,terminated,contract,Services,management,No,Non-Uion,MA,56-65,Not Specified,Polygender,7/27/2023,retirement,retirement,true,,,true
+30,Health Coach II,9/4/1991,terminated,contract,Training,staff,Yes,Union,MA,66+,Native American,Male,7/2/2023,retirement,retirement,false,2,"Hegmann, Weber and Volkman",false
+31,Data Coordinator,4/5/1990,terminated,part-time,Research and Development,"",Yes,Union,NY,18-25,Not Specified,Female,11/25/2023,involuntary,company restructuring,false,5,Heller Inc,true
+32,Internal Auditor,2/13/1983,terminated,full-time,Marketing,management,Yes,Non-Uion,PA,26-35,Pacific Islander,Genderfluid,11/18/2023,involuntary,RIF,false,,Davis-Hettinger,false
+33,Assistant Professor,9/20/2005,terminated,full-time,Services,"",No,Non-Uion,MA,56-65,"",,7/23/2023,retirement,retirement,false,2,Cummings-Hodkiewicz,true
+34,Marketing Assistant,9/9/2022,terminated,part-time,Legal,staff,No,Union,MA,18-25,Black,Male,10/6/2023,retirement,retirement,false,2,Jenkins-Johnston,false
+35,Web Designer IV,11/14/2007,terminated,contract,Marketing,executive,Yes,Non-Uion,MA,46-55,"",Male,4/23/2023,involuntary,attendance,true,2,Willms-Reinger,true
+36,Geologist II,1/5/1986,terminated,contract,Services,executive,No,Non-Uion,NJ,18-25,Asian,Genderfluid,6/20/2023,involuntary,company restructuring,true,5,,false
+37,Librarian,11/26/1999,terminated,part-time,Training,executive,Yes,Union,NJ,56-65,,Male,8/13/2023,involuntary,misconduct,false,3,,true
+38,Human Resources Manager,10/7/2007,terminated,part-time,Legal,staff,Yes,Non-Uion,NY,36-45,Hispanic/Latino,Male,4/17/2023,retirement,retirement,false,,Greenfelder-Kulas,false
+39,Analyst Programmer,12/16/1997,terminated,contract,Accounting,executive,Yes,Union,NY,66+,,Genderqueer,3/27/2023,involuntary,attendance,false,5,Grady Group,false
+40,Actuary,5/12/2020,terminated,full-time,Product Management,staff,No,Union,CT,66+,Native American,Female,12/24/2023,involuntary,attendance,false,4,,true
+41,Design Engineer,8/13/2000,terminated,contract,Business Development,management,Yes,Non-Uion,CT,66+,"",Female,6/6/2023,retirement,retirement,false,1,,true
+42,Structural Engineer,9/6/1988,terminated,full-time,Product Management,management,Yes,Union,NJ,46-55,Asian,Male,12/20/2023,involuntary,poor performance,true,5,Williamson-Parisian,false
+43,Help Desk Operator,5/15/1989,terminated,contract,Legal,"",No,Non-Uion,NJ,18-25,Pacific Islander,Male,8/5/2023,involuntary,attendance,false,,,true
+44,Accountant II,9/30/1997,terminated,full-time,Human Resources,management,No,Union,MA,18-25,,Female,2/18/2023,involuntary,RIF,true,,"West, Marvin and Considine",true
+45,Staff Accountant III,8/20/1985,terminated,contract,Engineering,executive,Yes,Union,MA,26-35,Hispanic/Latino,Female,7/10/2023,involuntary,misconduct,false,4,O'Kon-Fay,false
+46,Environmental Specialist,6/10/1992,terminated,part-time,Research and Development,"",Yes,Non-Uion,NJ,36-45,Black,Male,2/24/2023,involuntary,RIF,false,2,,false
+47,Computer Systems Analyst III,3/17/1986,terminated,full-time,Support,"",Yes,Non-Uion,CT,18-25,Asian,Male,6/12/2023,involuntary,RIF,,1,Stamm and Sons,true
+48,Community Outreach Specialist,5/3/2000,terminated,full-time,Engineering,executive,Yes,Union,NY,26-35,,Female,7/9/2023,involuntary,RIF,false,3,DuBuque-Larson,true
+49,Data Coordinator,7/16/2007,terminated,contract,Marketing,executive,No,Union,NJ,66+,Pacific Islander,Female,5/21/2023,involuntary,company restructuring,false,3,,false
+50,Biostatistician III,12/18/1987,terminated,contract,Support,management,No,Non-Uion,NY,46-55,"",,8/30/2023,voluntary,career change,false,1,,true
+51,Human Resources Manager,7/12/1997,terminated,full-time,Training,"",Yes,Union,MA,56-65,,Female,4/25/2023,voluntary,better opportunity,false,5,Berge-Murazik,true
+52,Structural Engineer,9/12/1994,terminated,full-time,Support,management,Yes,Non-Uion,CT,56-65,Pacific Islander,,12/8/2023,voluntary,personal reasons,false,5,,false
+53,Administrative Assistant II,9/2/2006,terminated,contract,Marketing,"",Yes,Union,PA,46-55,Hispanic/Latino,Male,3/30/2023,involuntary,RIF,false,1,Flatley-Pollich,false
+54,Recruiting Manager,7/23/2002,terminated,part-time,Services,executive,Yes,Non-Uion,NY,18-25,Asian,Male,7/19/2023,retirement,retirement,false,3,,true
+55,Graphic Designer,12/7/1997,terminated,contract,Support,"",No,Union,MA,36-45,Asian,Male,9/24/2023,retirement,retirement,true,3,,true
+56,Recruiter,4/30/2019,terminated,part-time,Accounting,executive,Yes,Union,CT,26-35,Asian,Female,5/29/2023,involuntary,company restructuring,true,4,,false
+57,Paralegal,7/23/2015,terminated,contract,Business Development,management,Yes,Non-Uion,NJ,66+,White,Female,12/18/2023,voluntary,commute to work,true,4,,true
+58,Desktop Support Technician,10/31/1996,terminated,contract,Product Management,executive,No,Union,NJ,36-45,Pacific Islander,Female,6/4/2023,voluntary,career change,true,2,O'Conner LLC,false
+59,GIS Technical Architect,7/12/2006,terminated,part-time,Product Management,"",Yes,Union,PA,26-35,Hispanic/Latino,,1/6/2023,voluntary,personal reasons,true,1,,false
+60,Mechanical Systems Engineer,9/22/2015,terminated,contract,Support,"",Yes,Non-Uion,MA,56-65,Black,Male,3/29/2023,retirement,retirement,false,5,,false
+61,Software Test Engineer I,9/5/2014,terminated,full-time,Training,executive,No,Non-Uion,PA,36-45,Native American,Female,11/12/2023,voluntary,commute to work,true,4,Bauch-Schmeler,true
+62,Junior Executive,5/4/1986,terminated,part-time,Product Management,"",No,Non-Uion,NJ,56-65,Asian,,7/10/2023,retirement,retirement,true,3,Kemmer and Sons,true
+63,Media Manager II,1/10/2011,terminated,part-time,Sales,management,Yes,Union,CT,46-55,Asian,Female,6/1/2023,voluntary,manager,true,4,,false
+64,Tax Accountant,2/6/1990,terminated,full-time,Business Development,management,Yes,Union,PA,26-35,Asian,,10/27/2023,retirement,retirement,,,Walker and Sons,false
+65,Quality Control Specialist,5/13/2019,terminated,contract,Research and Development,staff,Yes,Union,CT,66+,,Agender,3/23/2023,involuntary,company restructuring,true,,,true
+66,Executive Secretary,1/1/1996,terminated,full-time,Support,staff,No,Non-Uion,NJ,56-65,Native American,Male,8/26/2023,retirement,retirement,true,,"Denesik, Steuber and Prohaska",false
+67,Software Engineer I,6/13/2023,terminated,part-time,Accounting,staff,No,Union,NJ,56-65,White,Male,5/18/2023,retirement,retirement,true,1,Feest LLC,false
+68,Compensation Analyst,9/30/2011,terminated,contract,Human Resources,executive,No,Union,NJ,26-35,Pacific Islander,Female,10/29/2023,retirement,retirement,false,,"Pouros, Mohr and Spencer",true
+69,VP Accounting,7/27/2016,terminated,part-time,Support,management,No,Union,NY,46-55,,Female,6/16/2023,retirement,retirement,true,1,,false
+70,Senior Cost Accountant,6/2/2007,terminated,part-time,Accounting,staff,No,Non-Uion,NJ,56-65,Asian,Female,3/29/2023,retirement,retirement,true,2,"Funk, Cole and Crooks",true
+71,VP Quality Control,12/26/1990,terminated,full-time,Services,staff,No,Non-Uion,PA,26-35,Native American,Female,1/19/2023,retirement,retirement,false,1,,false
+72,VP Quality Control,5/14/2015,terminated,part-time,Human Resources,executive,No,Non-Uion,PA,18-25,Not Specified,Agender,10/4/2023,voluntary,commute to work,false,5,,false
+73,Senior Financial Analyst,5/2/1982,terminated,part-time,Accounting,staff,Yes,Union,NJ,56-65,Hispanic/Latino,Male,8/7/2023,voluntary,commute to work,false,,Sawayn and Sons,false
+74,VP Accounting,9/10/1995,terminated,part-time,Legal,executive,No,Union,NY,36-45,White,Polygender,3/29/2023,involuntary,company restructuring,false,,,true
+75,Food Chemist,9/25/1994,terminated,full-time,Product Management,"",Yes,Union,CT,36-45,"",,6/28/2023,voluntary,manager,true,,Spinka LLC,false
+76,Librarian,4/15/1998,terminated,full-time,Services,management,Yes,Non-Uion,CT,66+,"",Female,8/6/2023,involuntary,company restructuring,,4,,false
+77,Occupational Therapist,12/13/1981,terminated,full-time,Support,executive,No,Union,CT,66+,White,Male,6/11/2023,retirement,retirement,false,2,Donnelly Inc,false
+78,Data Coordinator,1/17/1980,terminated,contract,Business Development,executive,No,Non-Uion,MA,18-25,Asian,Male,1/4/2023,involuntary,company restructuring,true,4,"Lesch, Kemmer and Stokes",false
+79,Statistician II,11/6/2022,terminated,part-time,Marketing,staff,Yes,Non-Uion,CT,18-25,,,10/29/2023,voluntary,manager,false,1,,true
+80,Systems Administrator II,2/8/2019,terminated,full-time,Legal,"",No,Union,NY,56-65,Black,Female,8/25/2023,voluntary,better opportunity,false,4,Russel and Sons,false
+81,Accounting Assistant IV,1/17/2003,terminated,full-time,Human Resources,"",No,Non-Uion,MA,18-25,Pacific Islander,Female,8/11/2023,involuntary,RIF,,1,Hahn-Rempel,true
+82,Web Designer IV,9/1/1980,terminated,part-time,Support,executive,Yes,Non-Uion,CT,26-35,,Male,7/21/2023,involuntary,poor performance,false,1,,false
+83,Nuclear Power Engineer,12/27/1992,terminated,part-time,Marketing,executive,Yes,Union,NY,46-55,Pacific Islander,Male,12/2/2023,voluntary,relocation,true,1,,true
+84,Budget/Accounting Analyst III,9/22/2000,terminated,full-time,Support,executive,No,Union,NY,66+,,Female,2/2/2023,retirement,retirement,true,1,,true
+85,VP Quality Control,6/17/1981,terminated,contract,Training,executive,Yes,Union,CT,56-65,"",Female,7/6/2023,involuntary,RIF,true,4,Brekke LLC,false
+86,Occupational Therapist,1/13/2019,terminated,contract,Product Management,executive,No,Non-Uion,CT,26-35,"",Female,3/25/2023,involuntary,poor performance,true,5,Koepp Group,true
+87,Executive Secretary,8/21/2005,terminated,full-time,Human Resources,management,Yes,Union,NY,36-45,Native American,Male,1/5/2023,involuntary,misconduct,true,,Nikolaus-O'Keefe,false
+88,Database Administrator II,6/22/2008,terminated,full-time,Business Development,staff,No,Union,CT,46-55,Black,,4/18/2023,retirement,retirement,false,2,Hermiston LLC,true
+89,Programmer Analyst II,5/15/1992,terminated,part-time,Research and Development,management,No,Non-Uion,NY,18-25,Native American,Female,3/29/2023,retirement,retirement,,5,Terry and Sons,true
+90,Quality Engineer,12/14/1994,terminated,full-time,Research and Development,executive,Yes,Union,NY,46-55,Asian,Female,3/23/2023,involuntary,company restructuring,false,2,,false
+91,Biostatistician IV,3/28/1996,terminated,contract,Legal,"",Yes,Union,CT,26-35,Black,Male,2/18/2023,retirement,retirement,true,,,false
+92,Graphic Designer,6/25/1991,terminated,part-time,Research and Development,"",No,Non-Uion,NY,56-65,Asian,Male,12/9/2023,voluntary,manager,,2,,true
+93,General Manager,3/17/2015,terminated,contract,Product Management,executive,No,Union,PA,36-45,Hispanic/Latino,Female,11/22/2023,involuntary,poor performance,true,,Hahn and Sons,true
+94,Accountant II,12/1/1990,terminated,part-time,Services,executive,Yes,Non-Uion,PA,56-65,Pacific Islander,Male,7/8/2023,voluntary,better opportunity,true,5,Ebert and Sons,true
+95,Executive Secretary,10/17/1995,terminated,contract,Accounting,management,No,Non-Uion,PA,18-25,Hispanic/Latino,,5/9/2023,retirement,retirement,true,,,true
+96,Marketing Assistant,4/7/2004,terminated,full-time,Sales,executive,No,Non-Uion,NY,36-45,Pacific Islander,,12/20/2023,retirement,retirement,false,5,O'Hara Group,false
+97,Pharmacist,4/7/1991,terminated,full-time,Human Resources,management,No,Non-Uion,NJ,66+,Not Specified,Male,2/26/2023,involuntary,poor performance,true,5,,true
+98,Payment Adjustment Coordinator,6/24/1990,terminated,full-time,Sales,management,No,Union,NJ,36-45,Hispanic/Latino,Male,7/1/2023,voluntary,manager,false,3,,false
+99,Systems Administrator II,12/6/2006,terminated,full-time,Training,staff,No,Union,NJ,36-45,Black,Male,1/15/2023,retirement,retirement,true,3,Ziemann-Steuber,true
+100,Budget/Accounting Analyst III,2/5/2004,terminated,full-time,Business Development,executive,No,Union,NJ,18-25,,Female,3/9/2023,voluntary,career change,true,4,,false
+101,Recruiter,11/17/2009,terminated,contract,Legal,"",Yes,Union,NY,26-35,Black,,5/12/2023,voluntary,better opportunity,false,2,,false
+102,Speech Pathologist,1/5/2000,terminated,contract,Human Resources,"",Yes,Union,NJ,56-65,White,Male,12/5/2023,retirement,retirement,false,2,Monahan Group,true
+103,Recruiter,11/23/2020,terminated,part-time,Business Development,staff,No,Union,PA,46-55,Native American,Male,6/29/2023,voluntary,career change,false,3,,false
+104,Mechanical Systems Engineer,9/30/2006,terminated,contract,Engineering,executive,Yes,Non-Uion,CT,26-35,Black,Male,5/22/2023,retirement,retirement,false,,,false
+105,Automation Specialist III,8/2/1998,terminated,full-time,Marketing,management,No,Union,MA,26-35,Asian,Female,11/20/2023,involuntary,attendance,false,5,"Kessler, McKenzie and Bins",false
+106,Web Developer II,9/25/2017,terminated,contract,Accounting,executive,Yes,Union,NJ,36-45,White,Male,5/10/2023,retirement,retirement,,,,false
+107,Biostatistician III,3/22/2020,terminated,full-time,Business Development,"",Yes,Non-Uion,NY,18-25,Hispanic/Latino,Male,9/18/2023,retirement,retirement,true,,Jacobi LLC,false
+108,Technical Writer,7/25/1990,terminated,full-time,Legal,executive,Yes,Non-Uion,NY,36-45,White,Female,2/7/2023,retirement,retirement,,5,,true
+109,Administrative Assistant II,4/12/1986,terminated,full-time,Engineering,management,Yes,Union,NY,46-55,,Male,2/3/2023,voluntary,relocation,false,,Quitzon LLC,false
+110,Assistant Manager,4/5/2005,terminated,full-time,Training,staff,No,Union,CT,66+,Pacific Islander,,12/3/2023,involuntary,company restructuring,true,1,Bartoletti Inc,true
+111,Computer Systems Analyst IV,3/26/2012,terminated,part-time,Accounting,"",No,Union,PA,66+,Hispanic/Latino,Female,7/11/2023,voluntary,personal reasons,false,,Stoltenberg-Halvorson,false
+112,Research Nurse,4/23/2000,terminated,full-time,Marketing,staff,Yes,Union,PA,36-45,,,11/18/2023,voluntary,personal reasons,true,1,"Pouros, Gleason and Ryan",true
+113,Systems Administrator IV,6/26/1985,terminated,part-time,Services,management,No,Non-Uion,PA,66+,Asian,Female,5/14/2023,retirement,retirement,true,,Jacobi-Jacobs,true
+114,Data Coordinator,12/30/1980,terminated,contract,Business Development,"",Yes,Non-Uion,NJ,26-35,Native American,Male,8/11/2023,voluntary,better opportunity,true,1,,true
+115,Chief Design Engineer,4/24/2012,terminated,contract,Support,staff,No,Non-Uion,MA,26-35,White,Female,10/18/2023,retirement,retirement,true,,"Gleason, Kuhlman and Shanahan",true
+116,Registered Nurse,2/24/2015,terminated,full-time,Legal,management,Yes,Non-Uion,PA,18-25,Not Specified,Female,5/24/2023,voluntary,better opportunity,true,,,true
+117,Administrative Officer,2/2/2012,terminated,contract,Human Resources,executive,Yes,Non-Uion,NY,36-45,Native American,Polygender,10/17/2023,involuntary,RIF,true,,Olson-Price,false
+118,Geological Engineer,3/8/1987,terminated,full-time,Engineering,"",No,Non-Uion,NY,36-45,Native American,Female,4/20/2023,voluntary,relocation,false,4,Daniel-O'Conner,false
+119,Media Manager IV,1/9/1998,terminated,contract,Product Management,executive,No,Non-Uion,MA,56-65,,Female,8/27/2023,voluntary,career change,false,3,"Smitham, Spencer and Moore",true
+120,Food Chemist,3/6/2023,terminated,full-time,Accounting,management,Yes,Union,NY,46-55,Pacific Islander,,9/14/2023,involuntary,RIF,false,3,Mosciski Group,true
+121,Dental Hygienist,7/10/2020,terminated,part-time,Sales,staff,No,Union,MA,18-25,Black,Non-binary,11/3/2023,involuntary,company restructuring,false,4,"Kertzmann, Collier and Treutel",false
+122,Systems Administrator I,6/23/1994,terminated,part-time,Sales,executive,No,Non-Uion,CT,36-45,Hispanic/Latino,Polygender,9/10/2023,voluntary,personal reasons,false,3,"Brakus, King and Brown",false
+123,Chemical Engineer,2/9/2018,terminated,contract,Legal,executive,Yes,Union,PA,36-45,,Male,2/25/2023,involuntary,RIF,true,1,"Roob, Lemke and Dickens",false
+124,Clinical Specialist,1/24/1990,terminated,contract,Engineering,"",Yes,Non-Uion,CT,36-45,,Male,2/20/2023,voluntary,personal reasons,false,5,,true
+125,Help Desk Operator,8/10/1990,terminated,contract,Engineering,"",No,Non-Uion,NJ,36-45,"",Male,7/24/2023,involuntary,company restructuring,false,5,Macejkovic Inc,false
+126,VP Sales,11/11/1981,terminated,part-time,Engineering,executive,Yes,Union,CT,18-25,Asian,Agender,10/29/2023,involuntary,poor performance,false,,Kautzer LLC,false
+127,Executive Secretary,7/16/2001,terminated,contract,Services,staff,Yes,Union,NY,26-35,,Male,4/12/2023,retirement,retirement,true,,,true
+128,Junior Executive,9/16/2014,terminated,full-time,Business Development,staff,Yes,Non-Uion,PA,56-65,,Female,1/20/2023,voluntary,better opportunity,true,3,Wintheiser and Sons,false
+129,Chief Design Engineer,4/27/2011,terminated,contract,Human Resources,staff,No,Non-Uion,CT,56-65,Not Specified,Male,7/25/2023,involuntary,poor performance,true,1,,true
+130,Safety Technician I,7/22/1994,terminated,contract,Marketing,management,Yes,Non-Uion,NJ,26-35,White,Male,10/13/2023,involuntary,RIF,false,2,"Trantow, Harber and Williamson",false
+131,Paralegal,3/15/2000,terminated,contract,Product Management,management,Yes,Non-Uion,CT,36-45,White,,9/12/2023,involuntary,company restructuring,true,5,,true
+132,Librarian,11/20/2019,terminated,part-time,Support,management,No,Non-Uion,NJ,56-65,"",Male,1/16/2023,retirement,retirement,true,1,King-O'Connell,true
+133,Speech Pathologist,12/30/2000,terminated,part-time,Sales,"",Yes,Non-Uion,NJ,18-25,Pacific Islander,Male,5/29/2023,retirement,retirement,true,3,Russel-Sauer,false
+134,Programmer Analyst III,7/23/2011,terminated,full-time,Research and Development,"",Yes,Non-Uion,MA,26-35,Black,Male,8/24/2023,involuntary,company restructuring,,5,Cruickshank and Sons,false
+135,Cost Accountant,10/23/2015,terminated,full-time,Services,management,No,Non-Uion,NJ,66+,Native American,Male,10/11/2023,involuntary,attendance,false,,"Lowe, Beahan and Anderson",true
+136,Software Engineer I,10/19/2001,terminated,contract,Legal,management,No,Union,CT,26-35,Pacific Islander,Male,6/23/2023,involuntary,company restructuring,false,4,Franecki-Sporer,false
+137,Analyst Programmer,12/30/1993,terminated,contract,Support,staff,No,Non-Uion,PA,26-35,Pacific Islander,Female,7/20/2023,involuntary,misconduct,false,3,,false
+138,Civil Engineer,2/22/1992,terminated,full-time,Business Development,staff,Yes,Union,PA,36-45,Pacific Islander,,1/18/2023,voluntary,career change,true,4,Ankunding-Treutel,true
+139,Senior Cost Accountant,3/7/2005,terminated,contract,Support,executive,Yes,Union,CT,56-65,White,Female,8/27/2023,involuntary,misconduct,false,1,"Franecki, Strosin and Schuppe",false
+140,Budget/Accounting Analyst I,12/22/1996,terminated,part-time,Research and Development,management,No,Non-Uion,NJ,36-45,Not Specified,Female,8/21/2023,voluntary,personal reasons,false,1,,false
+141,Senior Editor,2/9/1993,terminated,part-time,Training,staff,Yes,Union,NY,66+,Not Specified,Agender,10/10/2023,voluntary,better opportunity,true,,Stark-Fritsch,false
+142,Registered Nurse,9/27/2010,terminated,part-time,Business Development,staff,No,Non-Uion,PA,26-35,,Male,2/3/2023,voluntary,personal reasons,true,3,"Adams, Nolan and Johnston",false
+143,Budget/Accounting Analyst I,11/12/1982,terminated,full-time,Accounting,staff,Yes,Non-Uion,MA,26-35,,,10/15/2023,retirement,retirement,false,4,,true
+144,Structural Engineer,4/27/1999,terminated,contract,Support,management,Yes,Union,PA,46-55,Black,Non-binary,5/25/2023,involuntary,company restructuring,false,4,Stroman Inc,false
+145,Operator,9/29/2000,terminated,part-time,Human Resources,management,No,Non-Uion,CT,66+,,Male,4/5/2023,involuntary,RIF,true,3,,true
+146,Project Manager,6/25/1980,terminated,full-time,Sales,executive,No,Non-Uion,NY,56-65,,Female,8/26/2023,retirement,retirement,false,3,Zulauf-Lebsack,false
+147,Nurse,6/11/1992,terminated,full-time,Support,executive,No,Non-Uion,PA,18-25,Black,,8/7/2023,retirement,retirement,true,,,true
+148,Accounting Assistant I,7/29/2017,terminated,contract,Business Development,"",No,Non-Uion,MA,66+,,,6/27/2023,retirement,retirement,false,2,,true
+149,Professor,1/1/1999,terminated,contract,Accounting,executive,Yes,Non-Uion,NY,18-25,Pacific Islander,Male,6/9/2023,involuntary,attendance,,1,,false
+150,Nurse,2/9/2000,terminated,part-time,Services,staff,No,Union,MA,46-55,Black,Female,10/26/2023,involuntary,RIF,true,4,Littel-Bernier,true
+151,Sales Associate,6/6/2020,terminated,contract,Business Development,management,No,Union,NY,18-25,Native American,Female,4/9/2023,involuntary,misconduct,false,3,DuBuque-Collier,false
+152,Financial Analyst,3/20/1997,terminated,contract,Business Development,executive,No,Non-Uion,CT,56-65,,Male,9/6/2023,retirement,retirement,false,5,,true
+153,Environmental Specialist,2/10/2007,terminated,full-time,Services,executive,Yes,Union,MA,46-55,"",Female,9/20/2023,voluntary,relocation,true,3,Graham-Goyette,true
+154,Cost Accountant,4/5/2007,terminated,contract,Human Resources,executive,Yes,Union,MA,26-35,Black,Genderfluid,4/19/2023,voluntary,manager,true,1,Bode Inc,false
+155,Data Coordinator,9/22/2014,terminated,part-time,Business Development,executive,Yes,Non-Uion,MA,66+,Black,Bigender,11/9/2023,retirement,retirement,true,,Turcotte-Bartoletti,true
+156,Nurse Practicioner,11/25/2007,terminated,contract,Sales,management,Yes,Non-Uion,CT,46-55,Asian,,9/14/2023,retirement,retirement,true,2,Denesik Inc,true
+157,Chemical Engineer,1/13/1980,terminated,full-time,Sales,"",Yes,Non-Uion,CT,36-45,Black,Female,4/28/2023,voluntary,better opportunity,,4,,false
+158,Programmer Analyst II,6/5/1983,terminated,contract,Research and Development,staff,Yes,Union,NY,66+,"",Female,11/4/2023,retirement,retirement,true,2,Hegmann and Sons,false
+159,Chemical Engineer,5/5/2003,terminated,contract,Human Resources,"",Yes,Non-Uion,NJ,18-25,Hispanic/Latino,Female,5/5/2023,involuntary,company restructuring,true,3,Block-Swaniawski,false
+160,Quality Control Specialist,11/3/2021,terminated,full-time,Engineering,management,Yes,Union,MA,36-45,"",Male,7/14/2023,voluntary,better opportunity,true,2,,true
+161,Safety Technician IV,8/21/2008,terminated,part-time,Training,staff,No,Non-Uion,PA,26-35,Not Specified,Male,12/7/2023,voluntary,commute to work,false,3,Hand and Sons,true
+162,Senior Cost Accountant,3/1/2012,terminated,full-time,Human Resources,staff,No,Union,CT,36-45,White,Female,9/28/2023,involuntary,RIF,false,5,"Dare, Morissette and Ernser",false
+163,Registered Nurse,12/11/2004,terminated,part-time,Marketing,management,No,Non-Uion,NY,36-45,White,Male,10/21/2023,voluntary,personal reasons,false,2,Buckridge-Conroy,false
+164,Professor,2/26/1982,terminated,part-time,Accounting,management,Yes,Union,MA,66+,Not Specified,Female,1/18/2023,retirement,retirement,,5,Hudson-Mosciski,false
+165,Operator,9/30/2014,terminated,contract,Product Management,staff,No,Union,MA,56-65,,Male,7/18/2023,retirement,retirement,true,1,"Barrows, Kozey and Zemlak",false
+166,Marketing Manager,4/19/1984,terminated,contract,Engineering,staff,No,Union,CT,46-55,White,Male,10/17/2023,involuntary,company restructuring,true,1,,true
+167,Budget/Accounting Analyst III,9/29/2011,terminated,contract,Legal,executive,No,Non-Uion,NJ,26-35,Pacific Islander,,10/9/2023,voluntary,career change,true,1,,false
+168,Budget/Accounting Analyst IV,5/31/1988,terminated,full-time,Engineering,executive,Yes,Union,NJ,36-45,Not Specified,Female,8/12/2023,involuntary,company restructuring,,,"Weber, Sporer and Lehner",true
+169,Geological Engineer,6/8/1996,terminated,contract,Training,"",No,Union,PA,56-65,Hispanic/Latino,Male,5/28/2023,voluntary,commute to work,true,5,,true
+170,Graphic Designer,1/23/1984,terminated,full-time,Product Management,staff,No,Union,MA,18-25,Not Specified,Female,12/10/2023,retirement,retirement,true,5,"Ryan, Deckow and Fadel",true
+171,Professor,3/26/1982,terminated,full-time,Legal,management,Yes,Union,MA,36-45,Not Specified,Male,5/14/2023,voluntary,better opportunity,false,1,,true
+172,Professor,3/23/1985,terminated,part-time,Product Management,executive,Yes,Non-Uion,PA,26-35,Asian,Genderfluid,2/25/2023,involuntary,company restructuring,false,1,"Corkery, Becker and Cremin",true
+173,Senior Financial Analyst,6/23/2014,terminated,part-time,Human Resources,staff,Yes,Union,PA,18-25,Hispanic/Latino,Male,11/17/2023,voluntary,manager,true,3,Bogisich-Heathcote,true
+174,Food Chemist,4/30/2013,terminated,part-time,Research and Development,staff,Yes,Union,NJ,26-35,White,Female,7/6/2023,retirement,retirement,true,5,,false
+175,Editor,4/19/2003,terminated,full-time,Human Resources,management,No,Union,NY,66+,"",Female,9/25/2023,voluntary,career change,false,4,,false
+176,Computer Systems Analyst III,5/16/2017,terminated,contract,Research and Development,staff,No,Union,NJ,56-65,,Female,1/3/2023,retirement,retirement,,3,,false
+177,Accounting Assistant III,9/15/1983,terminated,full-time,Business Development,staff,No,Union,NJ,66+,Native American,Male,10/15/2023,retirement,retirement,false,2,"Willms, Sporer and Pfeffer",true
+178,Health Coach II,11/30/1995,terminated,full-time,Support,management,No,Non-Uion,NY,56-65,,Female,11/6/2023,involuntary,RIF,false,4,,true
+179,Nuclear Power Engineer,2/27/2009,terminated,full-time,Services,executive,No,Non-Uion,MA,46-55,Not Specified,,8/2/2023,involuntary,RIF,true,3,"Purdy, Krajcik and Schmidt",true
+180,Chief Design Engineer,8/4/1983,terminated,contract,Sales,staff,Yes,Union,NY,66+,Black,,12/2/2023,involuntary,RIF,false,5,"Reichert, D'Amore and Berge",true
+181,Design Engineer,3/28/2019,terminated,contract,Engineering,"",Yes,Non-Uion,PA,36-45,Hispanic/Latino,Female,3/31/2023,voluntary,manager,false,1,Hane-Carter,true
+182,Senior Quality Engineer,10/17/2015,terminated,contract,Human Resources,staff,Yes,Union,CT,36-45,Hispanic/Latino,Female,12/13/2023,retirement,retirement,true,5,"Mitchell, Bechtelar and Emmerich",false
+183,Senior Editor,8/6/1998,terminated,full-time,Business Development,staff,No,Non-Uion,CT,18-25,"",Agender,12/19/2023,retirement,retirement,true,2,,false
+184,Sales Associate,7/22/2012,terminated,full-time,Human Resources,management,No,Union,PA,46-55,Not Specified,Male,11/29/2023,involuntary,company restructuring,false,4,,false
+185,Senior Financial Analyst,5/3/1988,terminated,contract,Product Management,management,No,Non-Uion,NY,56-65,Asian,Non-binary,9/3/2023,voluntary,better opportunity,true,4,,true
+186,Database Administrator III,9/11/1983,terminated,contract,Product Management,"",Yes,Union,NY,26-35,Black,Female,3/24/2023,voluntary,manager,false,1,,true
+187,Clinical Specialist,3/17/2014,terminated,part-time,Marketing,management,Yes,Union,NJ,46-55,Black,Genderqueer,12/19/2023,voluntary,manager,false,1,"Parker, Shields and Pollich",true
+188,Clinical Specialist,6/28/2022,terminated,contract,Sales,staff,No,Non-Uion,CT,18-25,Hispanic/Latino,Male,12/4/2023,involuntary,poor performance,true,2,,false
+189,Information Systems Manager,4/28/1996,terminated,part-time,Marketing,management,Yes,Non-Uion,NJ,18-25,Not Specified,Female,1/3/2023,voluntary,personal reasons,false,2,Stokes-Quitzon,true
+190,VP Product Management,6/16/1992,terminated,part-time,Accounting,management,No,Union,MA,26-35,,,12/13/2023,involuntary,company restructuring,false,1,"Wuckert, Fay and Sawayn",false
+191,Research Associate,5/8/1992,terminated,part-time,Legal,"",Yes,Union,MA,46-55,Black,Male,5/15/2023,retirement,retirement,true,,Von-Ryan,true
+192,GIS Technical Architect,2/28/1999,terminated,part-time,Support,"",No,Union,PA,36-45,,Male,10/7/2023,voluntary,personal reasons,false,1,"Will, DuBuque and Raynor",false
+193,Cost Accountant,3/23/2011,terminated,full-time,Accounting,"",Yes,Union,MA,26-35,"",Male,8/22/2023,voluntary,commute to work,true,4,Rippin Group,true
+194,Operator,5/2/2002,terminated,full-time,Product Management,executive,No,Union,PA,36-45,Native American,Male,2/20/2023,involuntary,RIF,false,4,,true
+195,Legal Assistant,12/1/2020,terminated,part-time,Legal,staff,Yes,Union,MA,36-45,Asian,Female,4/28/2023,retirement,retirement,true,5,"Pacocha, Cassin and Lindgren",false
+196,Teacher,12/22/1980,terminated,contract,Marketing,staff,Yes,Non-Uion,PA,36-45,Asian,Male,10/11/2023,retirement,retirement,true,5,,true
+197,Senior Editor,2/14/1983,terminated,contract,Product Management,executive,Yes,Union,MA,46-55,White,Female,1/19/2023,voluntary,career change,true,4,Little LLC,false
+198,Programmer Analyst IV,3/7/2023,terminated,full-time,Training,management,Yes,Union,PA,18-25,Pacific Islander,Male,8/4/2023,voluntary,career change,true,3,Prosacco Group,false
+199,Assistant Media Planner,11/22/2005,terminated,part-time,Sales,management,No,Union,PA,26-35,Not Specified,Male,8/23/2023,retirement,retirement,true,3,Franecki-Bailey,false
+200,Computer Systems Analyst III,8/28/2022,terminated,part-time,Product Management,"",Yes,Union,MA,18-25,Black,Genderfluid,8/12/2023,voluntary,better opportunity,false,4,Daugherty LLC,true
+201,Dental Hygienist,3/5/2018,terminated,contract,Business Development,management,Yes,Non-Uion,NJ,36-45,Pacific Islander,Male,8/6/2023,involuntary,RIF,true,4,Hagenes Inc,false
+202,VP Marketing,2/27/1992,terminated,contract,Accounting,executive,No,Union,MA,56-65,Hispanic/Latino,Male,10/17/2023,retirement,retirement,true,5,Williamson Group,true
+203,Assistant Manager,3/21/1984,terminated,contract,Sales,executive,Yes,Union,PA,36-45,Asian,Male,5/15/2023,voluntary,better opportunity,true,4,,true
+204,Editor,5/22/1992,terminated,part-time,Marketing,"",No,Union,PA,56-65,Not Specified,Male,10/28/2023,retirement,retirement,true,2,Effertz and Sons,false
+205,Biostatistician III,7/8/2022,terminated,full-time,Research and Development,executive,Yes,Non-Uion,MA,26-35,"",Bigender,12/20/2023,voluntary,better opportunity,false,5,"Torphy, Rempel and Willms",true
+206,Quality Control Specialist,8/6/2001,terminated,full-time,Training,staff,No,Union,NJ,26-35,White,Female,8/12/2023,voluntary,personal reasons,true,2,,false
+207,Analog Circuit Design manager,1/22/1997,terminated,full-time,Sales,"",Yes,Non-Uion,CT,18-25,"",Female,9/15/2023,retirement,retirement,true,5,"Wolf, Walker and Dibbert",true
+208,VP Quality Control,7/8/2018,terminated,part-time,Business Development,management,Yes,Union,NJ,66+,"",Female,1/16/2023,voluntary,career change,false,4,Jacobson-Ebert,false
+209,Information Systems Manager,10/25/1982,terminated,contract,Human Resources,executive,No,Non-Uion,NY,36-45,,Female,6/1/2023,involuntary,company restructuring,true,,"Gerlach, Mohr and Daniel",false
+210,Administrative Officer,2/7/2008,terminated,part-time,Services,"",No,Union,MA,46-55,Black,Female,1/4/2023,retirement,retirement,false,4,,false
+211,Teacher,5/31/1981,terminated,full-time,Engineering,"",Yes,Union,CT,56-65,Asian,Male,7/29/2023,involuntary,poor performance,false,2,Hilll and Sons,false
+212,Computer Systems Analyst IV,8/26/1984,terminated,contract,Product Management,management,No,Non-Uion,CT,66+,"",Female,11/3/2023,voluntary,personal reasons,,3,D'Amore-Brakus,true
+213,Payment Adjustment Coordinator,12/31/1984,terminated,part-time,Services,"",No,Non-Uion,CT,18-25,"",Female,7/23/2023,retirement,retirement,true,,Pfannerstill and Sons,false
+214,Computer Systems Analyst III,11/25/1981,terminated,part-time,Marketing,staff,Yes,Non-Uion,NY,46-55,Native American,Male,4/19/2023,involuntary,attendance,true,1,,true
+215,Pharmacist,10/29/2014,terminated,full-time,Business Development,management,Yes,Non-Uion,CT,36-45,Native American,Male,6/26/2023,retirement,retirement,false,2,Williamson Group,false
+216,Project Manager,5/18/2015,terminated,contract,Services,"",No,Non-Uion,MA,26-35,"",,6/10/2023,involuntary,RIF,false,4,,false
+217,Software Test Engineer II,3/20/1988,terminated,part-time,Accounting,staff,No,Union,CT,18-25,White,Bigender,3/20/2023,retirement,retirement,true,4,McKenzie LLC,false
+218,Civil Engineer,10/21/2005,terminated,contract,Training,management,Yes,Non-Uion,NJ,26-35,Native American,Female,9/27/2023,voluntary,relocation,true,3,Lindgren Inc,false
+219,Nurse,2/4/2005,terminated,full-time,Research and Development,staff,No,Non-Uion,PA,66+,Hispanic/Latino,Male,6/26/2023,involuntary,company restructuring,true,2,"Dooley, Dare and Hahn",false
+220,Civil Engineer,1/7/2022,terminated,full-time,Sales,executive,No,Union,NY,26-35,Asian,Female,12/6/2023,voluntary,manager,false,5,Hilpert Inc,false
+221,Recruiter,10/21/1985,terminated,full-time,Engineering,"",No,Union,NJ,36-45,Native American,Female,5/18/2023,retirement,retirement,true,2,,false
+222,Statistician III,12/25/1992,terminated,part-time,Training,executive,Yes,Union,PA,26-35,"",Male,3/4/2023,retirement,retirement,false,1,,false
+223,Environmental Tech,1/21/2007,terminated,contract,Training,"",Yes,Union,PA,26-35,Native American,Male,6/3/2023,involuntary,company restructuring,false,1,,false
+224,Analog Circuit Design manager,8/11/1995,terminated,part-time,Business Development,staff,No,Non-Uion,NY,56-65,Asian,Male,6/26/2023,involuntary,poor performance,true,2,,false
+225,Data Coordinator,6/30/2011,terminated,part-time,Services,"",Yes,Union,CT,36-45,Hispanic/Latino,,6/23/2023,retirement,retirement,true,3,Bode-O'Conner,false
+226,Engineer I,10/4/1988,terminated,part-time,Research and Development,"",No,Non-Uion,NJ,46-55,Native American,Female,6/9/2023,involuntary,attendance,false,3,"Cole, Harvey and Lynch",false
+227,Human Resources Manager,9/10/2006,terminated,part-time,Engineering,management,Yes,Union,MA,56-65,Pacific Islander,,6/10/2023,involuntary,attendance,false,,,false
+228,Chief Design Engineer,4/22/1992,terminated,part-time,Training,staff,Yes,Union,PA,46-55,"",,7/21/2023,retirement,retirement,true,1,Kutch-Bednar,false
+229,Computer Systems Analyst II,5/3/2022,terminated,full-time,Training,staff,Yes,Non-Uion,MA,56-65,Asian,Male,6/22/2023,involuntary,company restructuring,false,,Bailey LLC,false
+230,Design Engineer,8/14/2007,terminated,part-time,Business Development,management,No,Union,MA,26-35,Hispanic/Latino,Female,11/16/2023,voluntary,manager,false,4,,true
+231,Assistant Media Planner,10/21/1994,terminated,contract,Training,"",No,Non-Uion,NJ,26-35,"",Female,3/4/2023,involuntary,company restructuring,false,4,,false
+232,Associate Professor,4/27/1999,terminated,part-time,Research and Development,staff,Yes,Non-Uion,NJ,26-35,Hispanic/Latino,Non-binary,9/29/2023,retirement,retirement,true,2,,false
+233,Civil Engineer,5/12/2012,terminated,full-time,Training,staff,Yes,Union,NJ,26-35,Hispanic/Latino,Male,4/18/2023,retirement,retirement,true,5,Goldner-Schuppe,true
+234,Electrical Engineer,7/28/2022,terminated,full-time,Business Development,staff,Yes,Union,PA,18-25,Not Specified,,10/9/2023,involuntary,company restructuring,true,5,,true
+235,General Manager,5/7/2004,terminated,contract,Business Development,executive,Yes,Union,MA,36-45,Asian,Male,3/31/2023,retirement,retirement,true,2,"Koch, Anderson and Hirthe",false
+236,Nurse Practicioner,2/26/2018,terminated,full-time,Product Management,management,No,Non-Uion,MA,56-65,Hispanic/Latino,Female,7/10/2023,involuntary,company restructuring,false,,,true
+237,Cost Accountant,4/26/1999,terminated,full-time,Marketing,staff,No,Non-Uion,CT,46-55,,Female,10/27/2023,retirement,retirement,true,2,Kozey-McKenzie,true
+238,Assistant Professor,7/29/2003,terminated,full-time,Support,management,Yes,Union,NY,36-45,Hispanic/Latino,,4/13/2023,involuntary,poor performance,true,4,"Huels, Satterfield and Herman",false
+239,VP Quality Control,12/8/2010,terminated,contract,Accounting,staff,Yes,Union,NY,46-55,Native American,Male,12/5/2023,retirement,retirement,false,1,,false
+240,Nurse,4/3/2017,terminated,full-time,Services,executive,No,Union,MA,56-65,White,Female,6/8/2023,involuntary,company restructuring,false,1,Weber-Pollich,true
+241,Account Coordinator,11/4/2004,terminated,full-time,Marketing,staff,Yes,Union,MA,56-65,Asian,Female,6/1/2023,involuntary,company restructuring,true,3,Ortiz Group,true
+242,Media Manager I,10/25/2016,terminated,full-time,Engineering,management,No,Union,NY,26-35,"",Female,7/4/2023,voluntary,career change,true,3,"Leannon, Reinger and Howell",true
+243,Analyst Programmer,1/18/2011,terminated,part-time,Legal,"",Yes,Union,NY,26-35,"",Female,7/31/2023,voluntary,personal reasons,false,4,,false
+244,Executive Secretary,12/26/2008,terminated,contract,Engineering,executive,No,Union,CT,46-55,Asian,,10/21/2023,involuntary,RIF,true,4,"Baumbach, Lesch and Hudson",true
+245,Marketing Assistant,9/24/1985,terminated,part-time,Research and Development,"",No,Union,NJ,18-25,"",Male,12/12/2023,voluntary,personal reasons,true,3,"Koch, Graham and Wiza",true
+246,Desktop Support Technician,9/15/2022,terminated,full-time,Legal,staff,No,Non-Uion,MA,36-45,Asian,Female,4/9/2023,involuntary,RIF,,3,Durgan-Rempel,false
+247,Biostatistician III,5/31/2012,terminated,contract,Human Resources,staff,No,Union,MA,36-45,,Female,4/12/2023,voluntary,relocation,false,4,"Runte, Torphy and Fritsch",true
+248,Research Associate,9/30/1997,terminated,contract,Research and Development,"",No,Non-Uion,CT,36-45,Native American,Female,6/7/2023,involuntary,company restructuring,true,5,Grant and Sons,true
+249,Marketing Manager,9/16/1997,terminated,part-time,Accounting,executive,No,Union,CT,36-45,Native American,Female,8/7/2023,retirement,retirement,true,4,"Volkman, Zboncak and Smith",false
+250,Research Nurse,6/17/1990,terminated,part-time,Services,"",No,Non-Uion,CT,26-35,Pacific Islander,Male,9/23/2023,involuntary,attendance,false,4,,true
+251,Graphic Designer,3/16/2010,terminated,part-time,Services,management,No,Non-Uion,NY,56-65,Asian,Female,6/26/2023,voluntary,relocation,true,4,"Zboncak, Kub and Harber",true
+252,Assistant Manager,9/19/1994,terminated,part-time,Marketing,"",Yes,Non-Uion,NY,66+,Pacific Islander,Female,1/15/2023,voluntary,better opportunity,false,1,"Barton, Metz and Goldner",true
+253,Desktop Support Technician,3/4/2002,terminated,full-time,Human Resources,"",No,Non-Uion,CT,36-45,Not Specified,Female,11/9/2023,voluntary,manager,false,3,Hilpert Group,true
+254,VP Marketing,2/10/1994,terminated,part-time,Support,staff,No,Union,MA,56-65,Asian,Female,4/19/2023,retirement,retirement,false,3,Marks-Turcotte,false
+255,Director of Sales,3/10/2018,terminated,part-time,Product Management,executive,No,Non-Uion,MA,56-65,Hispanic/Latino,Male,9/17/2023,voluntary,relocation,true,4,,false
+256,Senior Financial Analyst,3/19/2012,terminated,part-time,Engineering,staff,No,Union,PA,46-55,Not Specified,Female,5/9/2023,retirement,retirement,false,3,Green-Gusikowski,true
+257,Design Engineer,5/20/2000,terminated,part-time,Marketing,"",Yes,Non-Uion,NY,66+,Not Specified,Female,12/18/2023,retirement,retirement,true,,"Mueller, Powlowski and Hane",true
+258,Senior Cost Accountant,4/24/1981,terminated,full-time,Human Resources,management,Yes,Union,MA,18-25,White,Male,5/14/2023,retirement,retirement,true,3,Walsh-Bernier,true
+259,VP Marketing,11/12/2008,terminated,part-time,Marketing,staff,Yes,Union,NY,66+,Asian,Female,5/16/2023,voluntary,career change,true,,Larkin-Ernser,false
+260,Sales Representative,7/2/2000,terminated,part-time,Training,executive,No,Non-Uion,PA,46-55,Not Specified,Male,2/28/2023,voluntary,better opportunity,false,,"Stracke, Kshlerin and Walter",true
+261,Help Desk Operator,10/3/1985,terminated,part-time,Training,management,Yes,Union,NY,56-65,White,Female,9/11/2023,retirement,retirement,true,5,Wuckert-Runolfsdottir,true
+262,Human Resources Manager,8/16/1991,terminated,contract,Human Resources,executive,Yes,Non-Uion,CT,46-55,Pacific Islander,Female,7/16/2023,involuntary,company restructuring,,5,"Spinka, Dickens and Emard",false
+263,Help Desk Operator,10/19/1982,terminated,full-time,Legal,executive,Yes,Non-Uion,CT,46-55,,Male,9/17/2023,involuntary,company restructuring,false,4,,true
+264,Professor,4/1/2007,terminated,part-time,Research and Development,"",Yes,Non-Uion,NY,18-25,Hispanic/Latino,,6/24/2023,involuntary,company restructuring,true,,"Veum, Johns and Stark",false
+265,Junior Executive,2/15/2020,terminated,contract,Business Development,management,Yes,Union,PA,26-35,Native American,Male,9/25/2023,involuntary,company restructuring,false,4,Lueilwitz and Sons,false
+266,Technical Writer,5/19/2001,terminated,contract,Human Resources,management,Yes,Non-Uion,MA,36-45,Native American,Polygender,11/20/2023,involuntary,RIF,false,5,Schmitt-Cartwright,false
+267,Marketing Manager,11/26/2012,terminated,contract,Engineering,executive,Yes,Non-Uion,NY,46-55,White,Female,1/15/2023,involuntary,company restructuring,false,3,Hudson-Hyatt,false
+268,Staff Scientist,9/1/1991,terminated,full-time,Training,staff,No,Non-Uion,CT,26-35,White,Female,12/11/2023,retirement,retirement,true,4,Reynolds-Dach,true
+269,Financial Advisor,9/18/1987,terminated,full-time,Product Management,staff,Yes,Non-Uion,CT,26-35,Native American,Male,11/29/2023,voluntary,manager,false,3,Runte LLC,true
+270,Help Desk Operator,2/19/1985,terminated,part-time,Training,"",Yes,Non-Uion,CT,46-55,Asian,Female,12/6/2023,voluntary,relocation,true,,"Hickle, Corkery and Bailey",true
+271,Clinical Specialist,10/24/1982,terminated,full-time,Training,executive,No,Union,CT,56-65,Pacific Islander,Male,12/9/2023,voluntary,relocation,true,2,Dicki Group,true
+272,Nurse,11/19/1987,terminated,full-time,Marketing,executive,Yes,Non-Uion,NJ,66+,Black,,6/5/2023,voluntary,manager,false,3,,true
+273,Human Resources Manager,1/2/1995,terminated,full-time,Accounting,"",No,Non-Uion,NJ,18-25,White,Bigender,12/2/2023,retirement,retirement,false,2,,false
+274,Structural Engineer,12/27/2023,terminated,part-time,Services,staff,Yes,Non-Uion,NJ,18-25,"",Male,6/11/2023,involuntary,RIF,false,1,Schmeler Group,false
+275,Senior Developer,5/25/2010,terminated,part-time,Human Resources,"",Yes,Union,CT,46-55,Not Specified,Male,1/3/2023,voluntary,better opportunity,true,1,Ebert-Herzog,true
+276,Senior Editor,10/17/1989,terminated,full-time,Services,staff,Yes,Union,NJ,66+,,Female,11/5/2023,involuntary,attendance,false,2,,false
+277,Research Assistant II,12/12/1988,terminated,full-time,Legal,management,Yes,Union,PA,26-35,White,,12/23/2023,involuntary,misconduct,true,1,,false
+278,Research Assistant III,1/29/1992,terminated,full-time,Accounting,management,No,Non-Uion,NY,56-65,,Female,1/19/2023,involuntary,poor performance,false,5,Pacocha Inc,true
+279,Human Resources Assistant III,12/22/1999,terminated,full-time,Human Resources,management,Yes,Non-Uion,NY,46-55,Not Specified,Male,1/2/2023,involuntary,RIF,true,,"Schultz, Johnston and Kohler",true
+280,Automation Specialist III,1/10/2022,terminated,contract,Training,"",Yes,Union,MA,46-55,Not Specified,Female,3/28/2023,voluntary,career change,true,1,,true
+281,Assistant Professor,1/14/2009,terminated,contract,Research and Development,management,No,Union,PA,56-65,,Female,2/12/2023,involuntary,poor performance,true,,,true
+282,Senior Developer,8/26/2000,terminated,part-time,Legal,management,Yes,Non-Uion,MA,18-25,,Male,11/25/2023,involuntary,company restructuring,true,3,,true
+283,Human Resources Manager,7/24/2007,terminated,contract,Human Resources,management,No,Union,NJ,26-35,Pacific Islander,,9/11/2023,retirement,retirement,,1,,false
+284,Programmer I,4/15/1986,terminated,contract,Engineering,staff,No,Union,NY,36-45,Pacific Islander,Female,3/2/2023,voluntary,manager,true,3,"Reynolds, Stanton and Feil",true
+285,Structural Engineer,8/4/1984,terminated,contract,Accounting,"",No,Non-Uion,PA,66+,Asian,Male,10/26/2023,retirement,retirement,true,2,,true
+286,Data Coordinator,7/13/2023,terminated,full-time,Sales,management,No,Non-Uion,MA,56-65,,Male,5/20/2023,involuntary,misconduct,true,2,Homenick-Moore,false
+287,Legal Assistant,10/16/2019,terminated,full-time,Product Management,management,No,Non-Uion,CT,56-65,Native American,Male,1/12/2023,involuntary,poor performance,true,4,"Ledner, Lesch and Keebler",false
+288,Nurse Practicioner,5/27/2023,terminated,part-time,Accounting,staff,No,Union,CT,56-65,Not Specified,Male,8/5/2023,involuntary,company restructuring,false,1,Hane-Fay,true
+289,Research Nurse,4/4/2005,terminated,contract,Engineering,management,Yes,Union,PA,46-55,Native American,Genderqueer,6/24/2023,voluntary,commute to work,true,4,,false
+290,Analog Circuit Design manager,4/22/1995,terminated,contract,Sales,"",No,Non-Uion,CT,46-55,Not Specified,,3/20/2023,involuntary,poor performance,true,3,,false
+291,Structural Analysis Engineer,10/3/2010,terminated,full-time,Support,"",No,Non-Uion,PA,18-25,White,Female,7/4/2023,involuntary,company restructuring,false,5,"Zemlak, Auer and Schmeler",false
+292,Social Worker,3/17/2017,terminated,contract,Sales,management,No,Non-Uion,MA,36-45,White,Female,4/15/2023,voluntary,manager,true,,Fay and Sons,false
+293,Marketing Assistant,8/18/1994,terminated,full-time,Sales,management,No,Union,CT,18-25,,Male,9/12/2023,voluntary,personal reasons,false,1,Beahan-Rice,true
+294,Professor,1/16/2011,terminated,part-time,Engineering,executive,No,Union,NJ,26-35,Pacific Islander,Male,9/6/2023,voluntary,manager,false,1,,false
+295,Internal Auditor,4/17/2020,terminated,full-time,Services,"",Yes,Non-Uion,MA,36-45,Not Specified,Male,3/3/2023,voluntary,commute to work,,2,Robel Group,false
+296,Staff Scientist,8/10/1999,terminated,contract,Business Development,staff,No,Non-Uion,NJ,36-45,,Female,8/30/2023,voluntary,better opportunity,false,2,,false
+297,Software Engineer IV,9/25/2004,terminated,contract,Sales,management,No,Non-Uion,NJ,66+,Hispanic/Latino,,4/24/2023,retirement,retirement,false,,,true
+298,Marketing Assistant,5/24/1997,terminated,full-time,Sales,management,Yes,Union,MA,26-35,"",Male,4/16/2023,voluntary,manager,true,1,"Heathcote, Rau and Mertz",true
+299,Electrical Engineer,3/16/2002,terminated,full-time,Sales,staff,Yes,Union,NY,18-25,Black,Male,12/10/2023,retirement,retirement,true,,Mueller-Lubowitz,true
+300,Human Resources Manager,6/18/1993,terminated,part-time,Accounting,executive,No,Non-Uion,NY,36-45,"",Female,7/28/2023,voluntary,manager,true,5,,true
+301,Assistant Professor,4/3/1996,terminated,part-time,Support,management,Yes,Non-Uion,NY,56-65,Pacific Islander,Male,12/23/2023,voluntary,personal reasons,true,5,O'Connell-Wolff,true
+302,Environmental Specialist,4/24/1991,terminated,full-time,Research and Development,staff,Yes,Union,MA,18-25,,,11/16/2023,involuntary,poor performance,true,5,Turner and Sons,false
+303,Cost Accountant,5/13/2001,terminated,part-time,Support,management,No,Non-Uion,NY,18-25,Hispanic/Latino,Male,3/25/2023,retirement,retirement,true,3,"Farrell, Schultz and Grimes",false
+304,Developer II,1/15/2013,terminated,contract,Support,staff,No,Non-Uion,PA,66+,Native American,Non-binary,7/24/2023,retirement,retirement,false,4,Ziemann Inc,true
+305,Human Resources Assistant III,6/21/1993,terminated,full-time,Marketing,management,No,Union,NJ,56-65,Hispanic/Latino,Male,9/25/2023,voluntary,manager,true,4,"Reichel, Cummings and Collier",true
+306,Quality Engineer,11/2/2002,terminated,contract,Services,management,No,Non-Uion,PA,66+,White,Female,3/2/2023,retirement,retirement,false,2,Kovacek Group,true
+307,VP Accounting,11/9/1988,terminated,full-time,Engineering,management,No,Union,MA,56-65,Pacific Islander,Bigender,11/14/2023,retirement,retirement,true,5,,false
+308,Sales Associate,10/18/1998,terminated,contract,Accounting,management,No,Non-Uion,PA,56-65,Hispanic/Latino,Male,6/23/2023,involuntary,RIF,true,2,,true
+309,Account Coordinator,1/7/2018,terminated,contract,Accounting,"",No,Non-Uion,NY,36-45,Not Specified,,6/18/2023,voluntary,better opportunity,true,2,"Hickle, Douglas and Ward",false
+310,Mechanical Systems Engineer,6/23/1995,terminated,contract,Product Management,staff,No,Union,NJ,26-35,Asian,Female,4/7/2023,retirement,retirement,false,3,"Reichel, Stiedemann and Langworth",false
+311,Graphic Designer,1/10/2012,terminated,contract,Product Management,management,Yes,Union,NY,66+,Pacific Islander,,1/4/2023,voluntary,better opportunity,true,2,,true
+312,Developer II,5/3/1986,terminated,part-time,Business Development,"",No,Union,MA,18-25,,Genderfluid,7/2/2023,involuntary,RIF,,4,,true
+313,Financial Analyst,9/26/1995,terminated,part-time,Marketing,"",No,Union,NY,46-55,Not Specified,Male,1/27/2023,voluntary,manager,false,,,false
+314,General Manager,8/31/1988,terminated,contract,Engineering,"",No,Non-Uion,MA,46-55,Pacific Islander,Male,9/15/2023,involuntary,company restructuring,,,"O'Kon, Rohan and Sanford",false
+315,Staff Scientist,4/4/2018,terminated,part-time,Product Management,"",Yes,Union,PA,66+,Not Specified,Female,7/28/2023,voluntary,career change,,3,,false
+316,Environmental Tech,10/25/1983,terminated,contract,Support,staff,Yes,Non-Uion,MA,26-35,Asian,Male,8/10/2023,retirement,retirement,true,5,Gorczany-White,false
+317,Programmer Analyst III,12/24/2023,terminated,part-time,Product Management,"",No,Union,NY,18-25,"",Male,10/7/2023,involuntary,company restructuring,,1,"Bashirian, Cremin and Cole",true
+318,Nurse,2/3/2000,terminated,full-time,Support,"",No,Non-Uion,NJ,46-55,Asian,Male,12/19/2023,involuntary,attendance,false,5,,true
+319,Operator,9/6/1986,terminated,full-time,Training,management,Yes,Non-Uion,PA,56-65,Asian,,6/23/2023,voluntary,better opportunity,false,1,Hane LLC,false
+320,Director of Sales,1/20/1983,terminated,contract,Accounting,executive,No,Union,NJ,66+,"",Female,8/25/2023,voluntary,manager,false,5,"McKenzie, Witting and O'Hara",true
+321,VP Product Management,7/15/2011,terminated,part-time,Accounting,"",No,Union,PA,18-25,Asian,Male,9/15/2023,involuntary,misconduct,false,5,"Cremin, Lemke and Erdman",true
+322,Operator,3/25/2006,terminated,full-time,Training,executive,No,Non-Uion,PA,46-55,,Female,10/29/2023,involuntary,attendance,false,5,Zulauf-Muller,false
+323,Biostatistician IV,11/23/2008,terminated,full-time,Accounting,management,Yes,Union,PA,26-35,Pacific Islander,Male,1/25/2023,voluntary,manager,false,,Bradtke Inc,false
+324,Software Test Engineer III,2/5/2023,terminated,full-time,Accounting,staff,Yes,Non-Uion,NY,66+,,Male,6/21/2023,voluntary,better opportunity,true,4,"Haag, Senger and Mills",true
+325,Compensation Analyst,5/13/2021,terminated,full-time,Support,staff,Yes,Non-Uion,MA,56-65,Asian,Female,4/14/2023,retirement,retirement,false,2,Heathcote and Sons,true
+326,Quality Engineer,3/18/1990,terminated,contract,Training,executive,Yes,Union,CT,36-45,Native American,,11/7/2023,involuntary,misconduct,true,1,,false
+327,General Manager,6/18/1983,terminated,full-time,Support,"",Yes,Non-Uion,MA,46-55,Black,Male,5/13/2023,involuntary,attendance,true,3,,true
+328,Media Manager III,8/31/2017,terminated,full-time,Marketing,management,Yes,Non-Uion,NY,36-45,Pacific Islander,Female,6/6/2023,voluntary,personal reasons,false,4,Spencer-Jacobson,true
+329,Marketing Assistant,2/1/2000,terminated,part-time,Marketing,staff,No,Union,PA,56-65,Black,Female,9/17/2023,retirement,retirement,true,3,"Smitham, Rowe and Koch",false
+330,VP Accounting,3/24/1999,terminated,part-time,Services,staff,Yes,Non-Uion,MA,56-65,Not Specified,Female,6/5/2023,involuntary,poor performance,false,5,"Ankunding, Krajcik and Gutmann",true
+331,Senior Editor,6/13/2010,terminated,full-time,Human Resources,management,Yes,Union,NJ,66+,Black,Female,8/18/2023,retirement,retirement,false,1,,true
+332,Account Coordinator,4/5/1997,terminated,full-time,Support,"",Yes,Non-Uion,PA,66+,Pacific Islander,Male,4/10/2023,voluntary,commute to work,true,1,Goyette Inc,false
+333,Actuary,11/19/1988,terminated,contract,Human Resources,"",No,Non-Uion,CT,36-45,Black,,5/15/2023,voluntary,better opportunity,true,2,"Schinner, Olson and Schoen",true
+334,Research Assistant IV,10/4/2021,terminated,part-time,Support,management,Yes,Union,CT,26-35,,Male,7/4/2023,involuntary,attendance,true,2,,false
+335,Occupational Therapist,3/13/2006,terminated,full-time,Accounting,staff,Yes,Non-Uion,NJ,66+,Native American,Female,8/19/2023,voluntary,commute to work,true,1,Goldner and Sons,true
+336,Developer II,9/5/1984,terminated,full-time,Human Resources,management,No,Non-Uion,MA,18-25,Native American,Male,3/3/2023,voluntary,personal reasons,false,,Schinner-Rohan,true
+337,General Manager,1/28/1994,terminated,contract,Accounting,"",No,Non-Uion,NY,66+,Pacific Islander,,6/5/2023,involuntary,company restructuring,false,4,,false
+338,Actuary,1/10/1987,terminated,full-time,Business Development,staff,No,Union,NY,36-45,,,12/2/2023,retirement,retirement,true,4,"Dicki, Lockman and Brekke",true
+339,Research Assistant III,5/18/2021,terminated,contract,Marketing,management,Yes,Union,CT,18-25,,Female,9/26/2023,involuntary,misconduct,true,1,,true
+340,Database Administrator I,5/28/2017,terminated,contract,Accounting,staff,No,Union,PA,66+,Black,Male,8/7/2023,retirement,retirement,,2,,false
+341,Payment Adjustment Coordinator,10/29/1992,terminated,part-time,Marketing,executive,No,Non-Uion,PA,46-55,Pacific Islander,Female,3/29/2023,involuntary,attendance,false,4,"Bailey, Weimann and Predovic",false
+342,Project Manager,5/27/1981,terminated,part-time,Human Resources,management,No,Union,MA,26-35,Black,Female,2/4/2023,involuntary,misconduct,true,2,"Nikolaus, Howe and Hilll",true
+343,Information Systems Manager,11/24/2010,terminated,full-time,Product Management,executive,Yes,Non-Uion,NY,66+,Pacific Islander,,5/30/2023,voluntary,better opportunity,false,4,Breitenberg LLC,true
+344,Technical Writer,7/12/2000,terminated,contract,Legal,staff,Yes,Union,CT,36-45,,,8/6/2023,retirement,retirement,false,,,false
+345,Account Coordinator,10/19/1994,terminated,part-time,Sales,management,Yes,Non-Uion,PA,66+,White,Female,12/22/2023,involuntary,company restructuring,false,4,"Witting, Konopelski and Monahan",false
+346,Senior Editor,12/30/1994,terminated,contract,Accounting,staff,No,Non-Uion,NJ,46-55,White,Male,4/9/2023,voluntary,personal reasons,true,1,"Stroman, Bailey and Towne",false
+347,Geologist II,6/17/2017,terminated,full-time,Research and Development,staff,No,Union,MA,26-35,White,Female,1/7/2023,retirement,retirement,true,3,,false
+348,Tax Accountant,2/12/2015,terminated,full-time,Marketing,management,Yes,Non-Uion,PA,26-35,Native American,Male,7/12/2023,voluntary,better opportunity,true,4,,true
+349,Safety Technician I,10/22/2014,terminated,contract,Legal,management,No,Non-Uion,NJ,56-65,Asian,Male,8/15/2023,voluntary,better opportunity,true,1,,true
+350,Teacher,6/10/1991,terminated,contract,Legal,executive,Yes,Non-Uion,PA,56-65,Pacific Islander,Female,3/10/2023,voluntary,better opportunity,true,5,,false
+351,Research Assistant I,11/28/2014,terminated,contract,Sales,management,No,Union,NY,46-55,Asian,Male,10/25/2023,involuntary,company restructuring,false,4,"Bailey, Vandervort and Tillman",false
+352,Account Representative III,1/2/1988,terminated,contract,Accounting,"",No,Union,CT,46-55,Hispanic/Latino,Female,2/18/2023,involuntary,misconduct,true,3,,false
+353,Human Resources Manager,9/7/2003,terminated,contract,Human Resources,executive,No,Union,PA,56-65,Pacific Islander,Female,2/3/2023,voluntary,personal reasons,true,2,Heaney-Veum,false
+354,GIS Technical Architect,2/8/1982,terminated,full-time,Sales,executive,Yes,Non-Uion,NY,36-45,Hispanic/Latino,Female,12/5/2023,voluntary,manager,false,3,Corkery Group,true
+355,Marketing Manager,6/9/2003,terminated,contract,Research and Development,staff,Yes,Non-Uion,CT,46-55,Not Specified,Male,6/14/2023,voluntary,manager,false,2,"Simonis, Leuschke and Schmidt",false
+356,Teacher,12/26/2023,terminated,part-time,Accounting,executive,No,Union,MA,26-35,"",Female,7/2/2023,involuntary,misconduct,true,2,Padberg Inc,true
+357,Web Designer III,5/26/2002,terminated,full-time,Human Resources,executive,No,Union,PA,46-55,White,Female,8/12/2023,involuntary,attendance,true,,,true
+358,Human Resources Assistant II,8/9/1985,terminated,full-time,Human Resources,management,No,Non-Uion,PA,46-55,Not Specified,Female,1/13/2023,involuntary,RIF,true,2,,false
+359,Accounting Assistant II,10/8/2020,terminated,full-time,Support,executive,No,Union,NJ,56-65,Asian,Male,8/28/2023,voluntary,commute to work,true,4,"Orn, Fritsch and Hills",false
+360,Help Desk Operator,10/8/2014,terminated,contract,Services,"",No,Union,PA,18-25,Native American,,1/18/2023,voluntary,manager,false,1,Stracke-Lehner,false
+361,Legal Assistant,10/6/2001,terminated,full-time,Accounting,"",Yes,Non-Uion,PA,26-35,Pacific Islander,Male,8/27/2023,involuntary,RIF,true,3,,true
+362,Environmental Specialist,5/4/1980,terminated,part-time,Accounting,staff,Yes,Non-Uion,NY,56-65,Hispanic/Latino,Female,2/28/2023,voluntary,better opportunity,true,1,Dibbert-Erdman,true
+363,Editor,4/28/2016,terminated,part-time,Business Development,"",No,Union,PA,18-25,Pacific Islander,Male,6/26/2023,involuntary,company restructuring,true,5,,false
+364,Help Desk Technician,6/30/1983,terminated,contract,Services,executive,No,Union,MA,56-65,,Male,9/29/2023,involuntary,RIF,false,3,,true
+365,Assistant Professor,7/17/1982,terminated,part-time,Product Management,"",Yes,Non-Uion,NJ,56-65,Asian,Female,7/19/2023,retirement,retirement,false,2,Wisozk-Corwin,false
+366,Executive Secretary,5/5/2002,terminated,contract,Services,staff,Yes,Non-Uion,PA,18-25,Pacific Islander,Male,11/20/2023,involuntary,company restructuring,true,2,,false
+367,Programmer Analyst IV,6/7/1994,terminated,full-time,Support,"",Yes,Non-Uion,PA,36-45,Hispanic/Latino,Male,7/29/2023,involuntary,poor performance,false,1,"Brakus, Conn and Tillman",true
+368,Geologist II,1/30/1994,terminated,full-time,Engineering,staff,No,Union,NJ,56-65,Asian,,7/25/2023,involuntary,RIF,false,3,,false
+369,Actuary,9/2/2018,terminated,part-time,Legal,management,Yes,Non-Uion,PA,18-25,White,Female,11/19/2023,voluntary,manager,false,3,Greenfelder Inc,true
+370,Structural Analysis Engineer,8/9/1991,terminated,contract,Sales,management,Yes,Union,CT,46-55,"",Female,1/2/2023,involuntary,misconduct,true,3,Ratke and Sons,false
+371,Tax Accountant,4/21/2012,terminated,full-time,Marketing,staff,No,Non-Uion,CT,18-25,Not Specified,Male,9/17/2023,retirement,retirement,true,,"Douglas, Goodwin and Botsford",true
+372,Senior Developer,4/26/2020,terminated,part-time,Product Management,staff,No,Non-Uion,CT,26-35,Asian,Female,6/1/2023,involuntary,misconduct,false,1,,true
+373,Structural Engineer,8/31/1992,terminated,part-time,Services,"",Yes,Union,MA,36-45,White,Female,4/12/2023,voluntary,commute to work,,4,,true
+374,Account Executive,7/7/2007,terminated,part-time,Human Resources,management,Yes,Non-Uion,PA,46-55,Pacific Islander,,6/11/2023,voluntary,career change,true,,,true
+375,Internal Auditor,3/21/2023,terminated,part-time,Legal,executive,Yes,Union,NJ,18-25,,Female,1/12/2023,involuntary,company restructuring,true,1,Trantow Inc,false
+376,Payment Adjustment Coordinator,4/13/2014,terminated,part-time,Human Resources,staff,No,Union,MA,26-35,,Male,9/29/2023,involuntary,company restructuring,,4,Funk-Ortiz,false
+377,Design Engineer,10/4/1981,terminated,contract,Engineering,"",No,Non-Uion,MA,46-55,Black,Male,8/1/2023,retirement,retirement,false,,Rutherford Group,true
+378,Administrative Officer,8/11/1991,terminated,contract,Training,executive,No,Union,NY,36-45,Black,Male,6/10/2023,retirement,retirement,false,2,Bosco Inc,true
+379,VP Quality Control,6/4/2002,terminated,contract,Marketing,staff,Yes,Union,CT,46-55,,Male,5/19/2023,voluntary,personal reasons,false,2,Crooks-Stokes,true
+380,Software Test Engineer IV,2/7/1994,terminated,part-time,Engineering,management,No,Non-Uion,MA,36-45,White,Female,3/21/2023,involuntary,company restructuring,true,2,"Satterfield, Shields and Grady",false
+381,General Manager,9/2/2003,terminated,contract,Research and Development,management,No,Non-Uion,PA,26-35,"",Female,2/8/2023,involuntary,company restructuring,true,4,"Schulist, Corkery and Jones",true
+382,Media Manager IV,8/26/2018,terminated,part-time,Accounting,management,No,Union,NJ,66+,Native American,Female,7/7/2023,voluntary,manager,true,4,,false
+383,Chief Design Engineer,4/21/1985,terminated,contract,Services,"",Yes,Union,NJ,18-25,,Female,10/6/2023,voluntary,better opportunity,false,,,false
+384,Analog Circuit Design manager,8/25/2007,terminated,part-time,Human Resources,staff,No,Union,NJ,66+,Hispanic/Latino,Male,12/4/2023,retirement,retirement,true,5,Stroman-Osinski,false
+385,Staff Accountant IV,11/3/1991,terminated,contract,Human Resources,"",No,Non-Uion,NY,46-55,Pacific Islander,Polygender,6/21/2023,involuntary,misconduct,true,2,Williamson Group,false
+386,General Manager,4/18/1997,terminated,full-time,Training,"",Yes,Union,PA,66+,"",,9/26/2023,voluntary,better opportunity,true,2,Langosh LLC,true
+387,Geologist II,6/7/1982,terminated,contract,Legal,staff,No,Non-Uion,MA,36-45,Native American,Male,10/10/2023,voluntary,manager,false,1,Gulgowski-Johnson,false
+388,Web Developer I,1/24/2020,terminated,contract,Business Development,management,Yes,Non-Uion,PA,66+,Hispanic/Latino,Male,4/15/2023,voluntary,manager,false,5,Watsica-Fritsch,true
+389,Staff Scientist,6/15/1981,terminated,full-time,Research and Development,executive,No,Union,MA,18-25,Hispanic/Latino,Female,12/24/2023,involuntary,company restructuring,false,2,,true
+390,Pharmacist,1/12/1993,terminated,full-time,Human Resources,staff,Yes,Union,MA,66+,Not Specified,Male,5/3/2023,retirement,retirement,true,,,true
+391,Database Administrator III,8/31/1996,terminated,full-time,Support,management,Yes,Non-Uion,CT,56-65,,Female,10/9/2023,retirement,retirement,true,1,,true
+392,Legal Assistant,12/5/2016,terminated,contract,Sales,staff,Yes,Union,NJ,26-35,Native American,Male,1/30/2023,involuntary,poor performance,false,5,Feeney Group,true
+393,Editor,11/9/1997,terminated,contract,Product Management,"",Yes,Union,NJ,18-25,Native American,Agender,7/27/2023,voluntary,career change,true,3,,false
+394,Clinical Specialist,6/28/2014,terminated,full-time,Support,executive,Yes,Non-Uion,NJ,36-45,Asian,Male,2/16/2023,involuntary,RIF,true,5,Jones and Sons,false
+395,Occupational Therapist,1/14/1984,terminated,contract,Human Resources,staff,Yes,Union,NY,46-55,Black,Male,11/2/2023,retirement,retirement,true,,,true
+396,Environmental Tech,4/11/1981,terminated,part-time,Engineering,staff,Yes,Union,CT,56-65,White,Female,1/31/2023,retirement,retirement,false,2,Bednar LLC,true
+397,Human Resources Assistant I,4/7/1986,terminated,part-time,Human Resources,management,No,Non-Uion,MA,46-55,Asian,Male,7/9/2023,involuntary,company restructuring,false,4,Cormier and Sons,true
+398,Statistician II,12/30/1983,terminated,part-time,Support,"",Yes,Non-Uion,PA,56-65,"",Male,8/21/2023,voluntary,manager,false,1,Heller LLC,false
+399,Systems Administrator II,2/9/2000,terminated,part-time,Sales,staff,Yes,Union,NY,66+,White,Female,10/3/2023,retirement,retirement,false,3,Crona Group,false
+400,VP Quality Control,5/20/1999,terminated,part-time,Marketing,"",Yes,Union,PA,56-65,White,Female,5/26/2023,voluntary,relocation,false,3,Schultz-Kris,true
+401,Junior Executive,1/8/1995,terminated,contract,Training,management,Yes,Non-Uion,MA,66+,White,Male,4/29/2023,retirement,retirement,false,,,true
+402,Senior Developer,3/24/2022,terminated,contract,Sales,staff,No,Non-Uion,NY,36-45,White,Female,8/4/2023,involuntary,company restructuring,,2,Schneider-Zboncak,true
+403,Human Resources Assistant I,3/9/2016,terminated,full-time,Training,management,No,Union,MA,56-65,Black,Male,3/12/2023,voluntary,manager,true,4,"Buckridge, Nolan and Deckow",true
+404,Web Designer I,9/25/2016,terminated,part-time,Services,management,Yes,Non-Uion,NJ,46-55,Native American,,4/6/2023,involuntary,company restructuring,true,4,"Olson, Dare and Tremblay",false
+405,Budget/Accounting Analyst II,3/13/1995,terminated,part-time,Training,"",Yes,Union,CT,18-25,Hispanic/Latino,Male,10/8/2023,involuntary,misconduct,false,1,Nolan-Swaniawski,true
+406,Business Systems Development Analyst,8/3/2002,terminated,part-time,Human Resources,staff,No,Non-Uion,NJ,46-55,Hispanic/Latino,Male,1/1/2023,retirement,retirement,true,,Monahan Group,true
+407,Media Manager I,11/15/1991,terminated,part-time,Product Management,executive,No,Union,NY,26-35,Not Specified,Male,12/5/2023,involuntary,company restructuring,false,3,Pfeffer-Gibson,true
+408,Research Associate,6/4/1999,terminated,part-time,Training,executive,Yes,Non-Uion,MA,46-55,"",Female,5/31/2023,voluntary,better opportunity,true,1,,false
+409,Product Engineer,7/8/1982,terminated,full-time,Training,executive,No,Union,NJ,18-25,Not Specified,Male,10/15/2023,voluntary,manager,,3,Kemmer Inc,true
+410,Programmer II,11/20/1991,terminated,part-time,Sales,management,No,Non-Uion,CT,66+,Pacific Islander,Female,3/23/2023,involuntary,RIF,false,,Schowalter LLC,true
+411,Structural Analysis Engineer,5/23/2014,terminated,full-time,Marketing,"",No,Union,NJ,26-35,,Male,4/20/2023,involuntary,attendance,true,2,,false
+412,Quality Control Specialist,6/8/2008,terminated,full-time,Sales,staff,Yes,Non-Uion,PA,18-25,Black,Male,7/2/2023,voluntary,better opportunity,false,2,,true
+413,Professor,8/23/2021,terminated,contract,Human Resources,staff,No,Non-Uion,MA,66+,,Male,10/10/2023,voluntary,commute to work,false,5,Torp-Cummerata,false
+414,Community Outreach Specialist,10/31/1980,terminated,part-time,Support,executive,Yes,Union,MA,66+,"",Male,6/18/2023,voluntary,better opportunity,,2,,false
+415,Account Coordinator,9/27/2012,terminated,contract,Legal,management,Yes,Non-Uion,NY,36-45,,Non-binary,10/12/2023,voluntary,better opportunity,false,2,Kshlerin-Willms,true
+416,Speech Pathologist,1/7/1980,terminated,full-time,Business Development,management,No,Non-Uion,MA,46-55,,Male,5/12/2023,involuntary,company restructuring,true,,"Ratke, Wintheiser and Hyatt",false
+417,Director of Sales,3/10/2016,terminated,contract,Support,executive,Yes,Union,CT,18-25,"",Male,5/28/2023,involuntary,RIF,true,4,,false
+418,Senior Sales Associate,10/12/2022,terminated,part-time,Human Resources,staff,No,Union,NY,26-35,White,Female,12/11/2023,involuntary,poor performance,false,,,true
+419,Computer Systems Analyst IV,3/30/2011,terminated,part-time,Marketing,"",No,Union,NY,56-65,White,,1/28/2023,voluntary,better opportunity,true,5,Howell Group,false
+420,Health Coach I,3/14/2013,terminated,contract,Training,"",No,Non-Uion,CT,46-55,Hispanic/Latino,,6/8/2023,involuntary,company restructuring,true,2,Hand-Roob,true
+421,Librarian,5/8/2000,terminated,part-time,Human Resources,executive,Yes,Union,NY,66+,Asian,Female,6/27/2023,voluntary,personal reasons,true,4,Walsh and Sons,true
+422,Chemical Engineer,3/29/2006,terminated,full-time,Sales,staff,No,Union,PA,46-55,Pacific Islander,Male,7/12/2023,involuntary,RIF,false,1,,false
+423,Legal Assistant,8/6/2003,terminated,full-time,Product Management,executive,Yes,Union,NJ,18-25,Black,,7/21/2023,voluntary,better opportunity,,4,Kohler Group,false
+424,Human Resources Assistant IV,2/9/2004,terminated,full-time,Business Development,staff,Yes,Non-Uion,CT,18-25,,Male,3/4/2023,voluntary,career change,false,4,Smitham-Runte,true
+425,Assistant Media Planner,9/14/2014,terminated,part-time,Marketing,executive,No,Non-Uion,MA,46-55,Hispanic/Latino,Male,7/8/2023,involuntary,RIF,true,5,Kuvalis-Pfannerstill,true
+426,Paralegal,9/14/2001,terminated,full-time,Services,executive,No,Non-Uion,NY,36-45,Asian,Male,6/28/2023,involuntary,misconduct,true,,O'Keefe and Sons,true
+427,Assistant Manager,7/6/2020,terminated,part-time,Product Management,staff,No,Non-Uion,MA,56-65,Asian,Female,7/14/2023,involuntary,misconduct,true,2,,false
+428,Marketing Assistant,8/29/2021,terminated,part-time,Marketing,staff,No,Union,CT,36-45,Native American,Female,10/25/2023,voluntary,relocation,true,4,D'Amore and Sons,true
+429,Chemical Engineer,1/11/1985,terminated,part-time,Services,management,No,Union,NJ,56-65,Hispanic/Latino,Genderqueer,8/15/2023,voluntary,better opportunity,,1,"Bartell, Marks and Gerlach",false
+430,Recruiting Manager,1/10/2012,terminated,full-time,Product Management,executive,No,Union,MA,18-25,"",Polygender,8/13/2023,retirement,retirement,true,4,,false
+431,Internal Auditor,10/5/2011,terminated,part-time,Marketing,"",No,Non-Uion,NY,26-35,Not Specified,Female,9/27/2023,retirement,retirement,true,3,,true
+432,Staff Accountant III,8/13/2009,terminated,part-time,Support,management,Yes,Union,PA,18-25,Pacific Islander,Female,6/14/2023,involuntary,poor performance,false,4,"Marquardt, Green and Littel",false
+433,Assistant Professor,10/19/1998,terminated,full-time,Engineering,staff,No,Non-Uion,PA,36-45,Hispanic/Latino,Bigender,2/10/2023,voluntary,better opportunity,true,2,,true
+434,Operator,5/16/2009,terminated,part-time,Accounting,staff,Yes,Union,NJ,26-35,Not Specified,Male,10/25/2023,involuntary,company restructuring,false,2,,true
+435,Office Assistant II,5/1/2015,terminated,part-time,Accounting,management,Yes,Non-Uion,PA,18-25,Asian,Female,8/12/2023,voluntary,better opportunity,true,5,,false
+436,Software Test Engineer IV,5/21/1987,terminated,full-time,Support,staff,No,Non-Uion,NY,36-45,"",,11/21/2023,voluntary,commute to work,false,4,,true
+437,Clinical Specialist,9/14/2016,terminated,full-time,Engineering,management,No,Non-Uion,CT,18-25,Not Specified,Male,8/2/2023,involuntary,company restructuring,true,,,true
+438,Business Systems Development Analyst,7/6/1992,terminated,full-time,Business Development,staff,No,Union,NY,36-45,"",Female,8/20/2023,retirement,retirement,true,5,Kemmer-Kozey,false
+439,Tax Accountant,9/14/1982,terminated,full-time,Product Management,"",No,Union,PA,18-25,Pacific Islander,,3/24/2023,voluntary,better opportunity,false,5,"Moore, Gutkowski and Toy",false
+440,Nurse,7/29/2022,terminated,full-time,Sales,staff,Yes,Union,PA,46-55,Asian,Male,8/15/2023,involuntary,attendance,true,,,false
+441,Human Resources Assistant I,10/6/2002,terminated,part-time,Business Development,staff,No,Non-Uion,MA,26-35,Black,Male,2/6/2023,involuntary,poor performance,true,5,,false
+442,Graphic Designer,7/15/2012,terminated,part-time,Human Resources,executive,Yes,Non-Uion,NJ,18-25,White,Male,3/19/2023,voluntary,better opportunity,false,4,,false
+443,Budget/Accounting Analyst IV,2/18/1980,terminated,full-time,Product Management,management,No,Union,MA,36-45,"",Bigender,11/23/2023,retirement,retirement,true,3,,false
+444,Senior Editor,4/8/2012,terminated,part-time,Product Management,staff,No,Non-Uion,CT,66+,"",Female,5/10/2023,retirement,retirement,false,1,Skiles and Sons,true
+445,Teacher,9/23/2021,terminated,full-time,Marketing,"",No,Union,NY,66+,Asian,Male,4/10/2023,involuntary,company restructuring,false,5,Brakus-Fritsch,false
+446,Account Representative II,7/10/1986,terminated,part-time,Sales,staff,No,Union,NJ,56-65,,Male,1/3/2023,retirement,retirement,true,,,false
+447,Data Coordinator,7/6/2002,terminated,part-time,Services,executive,No,Non-Uion,PA,66+,Hispanic/Latino,Male,5/3/2023,retirement,retirement,true,3,,false
+448,Mechanical Systems Engineer,8/2/1985,terminated,part-time,Support,management,Yes,Non-Uion,NY,56-65,Black,Female,9/13/2023,voluntary,personal reasons,true,5,Hickle LLC,true
+449,Engineer IV,11/9/2015,terminated,contract,Legal,management,Yes,Non-Uion,PA,46-55,Asian,Male,5/14/2023,retirement,retirement,true,1,"Ullrich, Bailey and Brekke",false
+450,Senior Quality Engineer,5/24/1996,terminated,part-time,Human Resources,staff,Yes,Union,PA,46-55,,Male,6/9/2023,retirement,retirement,true,4,,true
+451,VP Quality Control,2/17/2011,terminated,full-time,Training,staff,Yes,Non-Uion,MA,18-25,Not Specified,Male,6/1/2023,retirement,retirement,true,3,,true
+452,Assistant Media Planner,4/23/2018,terminated,full-time,Legal,management,Yes,Union,NY,56-65,Not Specified,Male,12/12/2023,voluntary,better opportunity,false,2,Rodriguez-Brakus,true
+453,Director of Sales,1/2/2020,terminated,part-time,Product Management,"",No,Union,MA,18-25,Native American,Female,4/19/2023,involuntary,RIF,true,3,Hand-Jakubowski,false
+454,Financial Analyst,8/31/2020,terminated,part-time,Product Management,"",Yes,Non-Uion,PA,66+,White,Female,4/22/2023,voluntary,career change,false,1,,true
+455,Senior Quality Engineer,5/26/2009,terminated,full-time,Services,"",Yes,Non-Uion,CT,46-55,Asian,Male,1/23/2023,voluntary,personal reasons,true,2,,true
+456,Budget/Accounting Analyst IV,4/10/2012,terminated,full-time,Marketing,"",No,Non-Uion,NJ,46-55,"",Polygender,9/29/2023,retirement,retirement,true,5,,true
+457,Graphic Designer,7/19/1993,terminated,full-time,Product Management,management,Yes,Non-Uion,NJ,36-45,Asian,Female,10/31/2023,retirement,retirement,true,,,false
+458,Sales Representative,2/27/1981,terminated,full-time,Training,management,No,Union,PA,36-45,Asian,,2/6/2023,retirement,retirement,true,1,Rempel Inc,true
+459,Compensation Analyst,3/6/1989,terminated,full-time,Business Development,management,Yes,Non-Uion,PA,66+,Asian,Female,9/30/2023,retirement,retirement,true,,"Buckridge, Turcotte and Huels",true
+460,Health Coach IV,7/6/1988,terminated,contract,Product Management,executive,No,Non-Uion,MA,66+,Asian,Female,12/7/2023,involuntary,poor performance,false,4,,false
+461,Media Manager I,4/23/2013,terminated,part-time,Training,management,No,Non-Uion,MA,26-35,"",Male,12/21/2023,voluntary,better opportunity,false,3,Rolfson-Kerluke,true
+462,GIS Technical Architect,10/10/1988,terminated,part-time,Business Development,management,No,Union,MA,66+,Pacific Islander,Female,1/24/2023,retirement,retirement,false,,,false
+463,VP Accounting,8/13/2000,terminated,contract,Business Development,management,Yes,Non-Uion,PA,26-35,Hispanic/Latino,Male,5/1/2023,retirement,retirement,true,5,,true
+464,VP Marketing,11/29/1983,terminated,part-time,Research and Development,executive,Yes,Non-Uion,PA,56-65,Black,Female,10/3/2023,involuntary,RIF,false,2,"Trantow, Hilpert and Murazik",false
+465,Senior Financial Analyst,10/9/1989,terminated,full-time,Training,management,Yes,Non-Uion,CT,18-25,Pacific Islander,,10/21/2023,retirement,retirement,true,2,"Dare, Raynor and Sauer",false
+466,Product Engineer,10/16/2002,terminated,part-time,Human Resources,management,No,Non-Uion,MA,56-65,Asian,Female,10/10/2023,involuntary,RIF,true,1,Altenwerth-Stoltenberg,false
+467,Environmental Specialist,9/7/1987,terminated,full-time,Engineering,management,Yes,Union,CT,26-35,"",Female,1/13/2023,involuntary,RIF,true,4,Watsica-Shields,false
+468,VP Marketing,1/22/2003,terminated,contract,Human Resources,"",Yes,Union,CT,36-45,Native American,Male,8/7/2023,retirement,retirement,false,3,Keebler Inc,false
+469,General Manager,1/31/2005,terminated,contract,Product Management,management,No,Non-Uion,CT,56-65,White,Male,8/27/2023,retirement,retirement,false,,Christiansen-Stehr,false
+470,Professor,9/20/1992,terminated,part-time,Business Development,"",No,Union,NJ,46-55,Pacific Islander,Male,3/13/2023,voluntary,relocation,true,4,VonRueden-Volkman,true
+471,Assistant Manager,6/15/1989,terminated,full-time,Legal,staff,Yes,Union,PA,26-35,Hispanic/Latino,,10/4/2023,involuntary,company restructuring,true,4,Pollich LLC,false
+472,Software Engineer III,3/8/2013,terminated,contract,Sales,management,No,Union,PA,56-65,White,,8/5/2023,involuntary,RIF,false,2,Hudson-Daniel,true
+473,Office Assistant III,8/11/2013,terminated,part-time,Support,staff,No,Union,MA,46-55,Hispanic/Latino,,3/11/2023,retirement,retirement,false,1,"McKenzie, Jenkins and Krajcik",true
+474,Tax Accountant,5/6/1984,terminated,contract,Accounting,management,No,Non-Uion,PA,66+,Black,Male,7/30/2023,voluntary,career change,true,1,,true
+475,Assistant Manager,2/8/2017,terminated,part-time,Legal,"",No,Non-Uion,NJ,46-55,Black,,8/24/2023,involuntary,attendance,true,,,true
+476,Senior Editor,9/30/1980,terminated,part-time,Services,"",Yes,Union,MA,36-45,Not Specified,Male,1/31/2023,involuntary,company restructuring,true,5,Bins-Hammes,true
+477,Senior Cost Accountant,11/1/1990,terminated,contract,Services,staff,No,Union,CT,26-35,Black,,8/31/2023,involuntary,RIF,false,2,,true
+478,Structural Engineer,8/21/2000,terminated,full-time,Human Resources,management,Yes,Union,MA,46-55,Black,Non-binary,1/22/2023,retirement,retirement,false,3,"Trantow, Bogan and Klocko",false
+479,Legal Assistant,7/18/2014,terminated,contract,Accounting,management,Yes,Union,NJ,26-35,Hispanic/Latino,Male,10/14/2023,retirement,retirement,false,2,"Torphy, White and Pacocha",false
+480,Director of Sales,11/18/1980,terminated,full-time,Sales,staff,No,Non-Uion,CT,56-65,,Male,1/21/2023,retirement,retirement,false,,,false
+481,Speech Pathologist,1/15/1983,terminated,full-time,Accounting,staff,Yes,Non-Uion,CT,46-55,Not Specified,Male,12/1/2023,involuntary,company restructuring,false,,,true
+482,Analyst Programmer,5/11/1983,terminated,part-time,Research and Development,executive,No,Union,NJ,18-25,Native American,Male,10/21/2023,voluntary,better opportunity,true,,Kuvalis-Streich,true
+483,Community Outreach Specialist,8/2/2014,terminated,contract,Services,"",No,Non-Uion,PA,18-25,,Female,8/7/2023,involuntary,company restructuring,true,,"Streich, McLaughlin and Roberts",true
+484,Environmental Tech,6/21/2022,terminated,contract,Product Management,management,No,Union,CT,56-65,,Male,7/15/2023,voluntary,manager,true,,,true
+485,Senior Editor,4/25/2010,terminated,contract,Accounting,staff,No,Non-Uion,NY,66+,"",Female,4/5/2023,retirement,retirement,true,,,false
+486,Analog Circuit Design manager,12/10/2002,terminated,full-time,Legal,executive,No,Non-Uion,PA,26-35,Not Specified,Female,4/12/2023,voluntary,relocation,true,2,,false
+487,Computer Systems Analyst I,3/29/1980,terminated,contract,Business Development,"",No,Non-Uion,PA,46-55,Pacific Islander,Male,8/13/2023,retirement,retirement,true,1,Gleason Inc,true
+488,Senior Quality Engineer,4/16/1989,terminated,contract,Engineering,executive,No,Union,CT,66+,Asian,,4/7/2023,voluntary,manager,true,2,"Veum, Jakubowski and Cassin",false
+489,Junior Executive,3/24/1983,terminated,full-time,Marketing,management,Yes,Non-Uion,PA,26-35,Pacific Islander,Male,1/15/2023,involuntary,company restructuring,true,3,Quigley-Blick,true
+490,Software Consultant,8/27/1980,terminated,part-time,Marketing,management,No,Union,NY,18-25,Hispanic/Latino,Genderqueer,12/20/2023,voluntary,commute to work,true,3,"Bauch, Casper and Mertz",true
+491,Analog Circuit Design manager,7/5/2009,terminated,part-time,Business Development,executive,No,Union,NY,26-35,Black,Female,9/17/2023,involuntary,poor performance,false,,Weimann Group,false
+492,Research Assistant IV,11/11/1988,terminated,part-time,Accounting,executive,No,Union,NY,36-45,,Male,5/23/2023,retirement,retirement,true,2,,true
+493,Internal Auditor,7/5/2017,terminated,part-time,Legal,"",Yes,Non-Uion,CT,36-45,,Male,8/22/2023,retirement,retirement,true,3,Herzog-Parisian,false
+494,Mechanical Systems Engineer,8/21/1994,terminated,contract,Marketing,management,Yes,Non-Uion,MA,26-35,White,Female,4/25/2023,involuntary,company restructuring,true,3,Rowe-Hayes,false
+495,Nurse,6/29/1997,terminated,part-time,Engineering,"",No,Non-Uion,NY,18-25,,Male,5/28/2023,involuntary,company restructuring,true,,,false
+496,Assistant Media Planner,7/21/1992,terminated,contract,Marketing,executive,No,Non-Uion,PA,26-35,Hispanic/Latino,Female,9/16/2023,voluntary,better opportunity,true,3,,false
+497,VP Accounting,11/17/2015,terminated,full-time,Accounting,"",Yes,Union,NY,66+,Native American,Female,2/28/2023,involuntary,RIF,true,5,"Hills, Heller and Braun",false
+498,Developer III,7/23/1987,terminated,contract,Sales,staff,Yes,Non-Uion,NY,46-55,Asian,Male,5/17/2023,retirement,retirement,true,4,Murray and Sons,false
+499,Librarian,11/10/1980,terminated,full-time,Training,management,Yes,Non-Uion,NY,18-25,,Genderqueer,12/30/2023,voluntary,better opportunity,true,4,Sporer Group,false
+500,Quality Control Specialist,7/6/2014,terminated,contract,Human Resources,"",Yes,Union,NJ,18-25,Hispanic/Latino,Female,1/22/2023,involuntary,company restructuring,false,1,,false
+501,Research Nurse,5/19/2011,terminated,full-time,Legal,staff,No,Non-Uion,NJ,46-55,White,,9/6/2023,retirement,retirement,true,3,,true
+502,Occupational Therapist,11/9/2016,terminated,full-time,Engineering,executive,No,Union,NY,26-35,Black,Male,7/12/2023,involuntary,company restructuring,false,4,"Yundt, Hudson and Kuhlman",false
+503,Data Coordinator,5/4/2009,terminated,contract,Services,staff,Yes,Non-Uion,MA,36-45,,,4/14/2023,involuntary,company restructuring,true,4,"Thompson, Kovacek and Kub",false
+504,Speech Pathologist,7/1/1982,terminated,full-time,Sales,staff,Yes,Union,NY,66+,Hispanic/Latino,,2/9/2023,retirement,retirement,false,3,Heidenreich-Altenwerth,true
+505,Financial Analyst,3/24/2017,terminated,full-time,Product Management,staff,Yes,Non-Uion,NY,56-65,Black,Female,8/10/2023,voluntary,better opportunity,true,,Ebert Inc,false
+506,Analyst Programmer,12/4/1994,terminated,full-time,Training,executive,Yes,Union,MA,26-35,Asian,Female,3/6/2023,voluntary,better opportunity,false,1,"Veum, Balistreri and Langworth",false
+507,Physical Therapy Assistant,12/6/1987,terminated,part-time,Human Resources,"",No,Non-Uion,NJ,66+,,Male,1/1/2023,involuntary,RIF,true,,,false
+508,Electrical Engineer,8/14/2019,terminated,part-time,Marketing,management,No,Non-Uion,MA,56-65,White,Female,10/6/2023,retirement,retirement,false,2,,true
+509,Administrative Officer,8/19/1995,terminated,contract,Legal,management,Yes,Union,CT,56-65,Hispanic/Latino,,1/14/2023,involuntary,RIF,true,1,Nikolaus Inc,true
+510,Legal Assistant,8/23/1996,terminated,full-time,Research and Development,staff,No,Non-Uion,MA,36-45,Native American,Female,3/12/2023,voluntary,relocation,false,5,Kertzmann Group,false
+511,Office Assistant III,5/21/2014,terminated,contract,Services,staff,Yes,Union,MA,36-45,Black,Male,9/16/2023,retirement,retirement,true,3,,true
+512,Legal Assistant,9/29/1991,terminated,part-time,Training,executive,No,Union,PA,26-35,,Female,8/14/2023,voluntary,better opportunity,,1,,false
+513,Librarian,2/22/2018,terminated,contract,Services,staff,Yes,Union,CT,56-65,Asian,Male,2/8/2023,involuntary,attendance,false,1,,false
+514,Teacher,12/11/1990,terminated,part-time,Product Management,management,No,Non-Uion,MA,36-45,White,Genderqueer,2/14/2023,involuntary,RIF,true,1,,true
+515,Business Systems Development Analyst,7/12/1983,terminated,part-time,Legal,executive,Yes,Union,PA,46-55,Hispanic/Latino,Male,3/13/2023,voluntary,personal reasons,false,3,Bogisich-McLaughlin,true
+516,Assistant Professor,11/9/2021,terminated,part-time,Business Development,management,Yes,Union,MA,18-25,Native American,Female,2/13/2023,retirement,retirement,false,1,"Boyer, Kuhlman and Bernier",true
+517,Senior Financial Analyst,11/9/2016,terminated,part-time,Product Management,executive,Yes,Non-Uion,NY,66+,"",Female,5/6/2023,retirement,retirement,true,4,"Pfeffer, Streich and Mayer",true
+518,Statistician IV,12/24/2001,terminated,part-time,Research and Development,"",No,Union,NY,46-55,Hispanic/Latino,Female,5/13/2023,retirement,retirement,false,,,true
+519,Product Engineer,5/25/1983,terminated,contract,Legal,management,No,Union,NY,66+,Black,Male,12/8/2023,voluntary,better opportunity,false,5,,false
+520,Data Coordinator,3/31/2017,terminated,part-time,Services,staff,Yes,Non-Uion,PA,36-45,,Polygender,1/6/2023,involuntary,company restructuring,false,,,true
+521,Senior Financial Analyst,7/19/2006,terminated,part-time,Marketing,management,Yes,Union,CT,46-55,Pacific Islander,Male,4/16/2023,retirement,retirement,true,,,true
+522,GIS Technical Architect,10/23/1999,terminated,full-time,Engineering,executive,No,Non-Uion,NY,26-35,White,Male,1/9/2023,retirement,retirement,false,,,true
+523,Recruiting Manager,5/10/2022,terminated,contract,Services,management,No,Union,MA,26-35,White,Female,1/5/2023,involuntary,poor performance,true,4,"Rath, Feeney and Fay",false
+524,Computer Systems Analyst IV,8/29/2004,terminated,part-time,Marketing,management,No,Non-Uion,NY,46-55,,Male,7/9/2023,involuntary,attendance,false,5,Emmerich-Price,true
+525,Accountant I,12/23/1989,terminated,contract,Engineering,"",Yes,Union,MA,36-45,Black,Female,3/31/2023,retirement,retirement,false,2,"Goldner, Douglas and Ruecker",true
+526,Administrative Officer,8/9/2013,terminated,full-time,Legal,"",No,Non-Uion,PA,26-35,Asian,,9/15/2023,voluntary,personal reasons,true,3,Ledner-Powlowski,false
+527,Technical Writer,2/27/2021,terminated,contract,Marketing,staff,Yes,Union,NY,66+,Native American,Male,8/2/2023,involuntary,company restructuring,false,2,,true
+528,VP Sales,10/19/1991,terminated,part-time,Accounting,management,No,Union,PA,66+,Pacific Islander,,12/12/2023,retirement,retirement,false,,Dibbert-Bartoletti,false
+529,Project Manager,8/27/1983,terminated,contract,Engineering,management,No,Union,NJ,18-25,Not Specified,Male,3/5/2023,retirement,retirement,false,5,,false
+530,Analyst Programmer,11/27/1998,terminated,contract,Human Resources,executive,No,Union,MA,26-35,Not Specified,Female,2/13/2023,retirement,retirement,false,2,Rowe Inc,true
+531,Nurse,2/2/2002,terminated,full-time,Research and Development,executive,No,Union,MA,66+,White,Female,10/8/2023,involuntary,company restructuring,false,1,"Pacocha, Nitzsche and Collier",false
+532,Assistant Media Planner,11/23/2001,terminated,full-time,Sales,staff,Yes,Non-Uion,PA,18-25,Not Specified,Male,4/25/2023,retirement,retirement,true,5,,true
+533,GIS Technical Architect,10/3/2019,terminated,part-time,Services,executive,Yes,Union,NY,18-25,Asian,Male,11/9/2023,voluntary,better opportunity,false,,,false
+534,Account Representative II,11/28/1992,terminated,part-time,Marketing,"",No,Non-Uion,MA,26-35,,Female,9/7/2023,voluntary,better opportunity,true,3,Smitham-Homenick,false
+535,Desktop Support Technician,5/31/2015,terminated,contract,Legal,"",No,Non-Uion,NJ,36-45,Native American,Female,12/16/2023,voluntary,better opportunity,true,2,Kessler-Haag,false
+536,Marketing Manager,1/8/2020,terminated,part-time,Research and Development,management,Yes,Non-Uion,NY,46-55,Not Specified,,7/16/2023,retirement,retirement,false,2,Mann-Cole,true
+537,Product Engineer,1/19/2017,terminated,contract,Research and Development,management,No,Union,NY,18-25,Asian,Male,9/16/2023,involuntary,RIF,true,5,Roberts Group,false
+538,Recruiting Manager,8/5/2018,terminated,full-time,Research and Development,management,No,Non-Uion,MA,36-45,Pacific Islander,Female,6/19/2023,involuntary,attendance,,3,Cormier and Sons,false
+539,Safety Technician II,11/5/2008,terminated,full-time,Engineering,staff,No,Non-Uion,PA,18-25,Asian,Male,2/19/2023,voluntary,better opportunity,false,3,,true
+540,Operator,11/16/1980,terminated,contract,Marketing,"",No,Union,PA,66+,Black,Male,2/2/2023,involuntary,RIF,false,2,,false
+541,VP Quality Control,12/15/1987,terminated,full-time,Accounting,management,No,Non-Uion,NJ,18-25,Not Specified,Female,7/19/2023,retirement,retirement,false,5,Fay-Hilpert,true
+542,Chemical Engineer,3/4/1986,terminated,contract,Services,management,No,Union,CT,66+,,Female,2/28/2023,retirement,retirement,true,1,Halvorson and Sons,false
+543,Programmer Analyst III,4/24/2006,terminated,contract,Sales,staff,Yes,Non-Uion,MA,46-55,Not Specified,Male,7/26/2023,retirement,retirement,true,,,true
+544,Analog Circuit Design manager,9/21/2007,terminated,part-time,Business Development,staff,Yes,Non-Uion,CT,26-35,Pacific Islander,Female,3/14/2023,voluntary,better opportunity,false,1,,false
+545,Software Consultant,11/8/2019,terminated,contract,Product Management,staff,No,Non-Uion,MA,56-65,Hispanic/Latino,,5/12/2023,involuntary,RIF,false,4,"Macejkovic, DuBuque and Bartell",true
+546,Web Designer III,7/18/1999,terminated,contract,Legal,staff,No,Non-Uion,NY,66+,Not Specified,Female,2/19/2023,retirement,retirement,true,4,Mante and Sons,false
+547,Technical Writer,8/6/2005,terminated,contract,Accounting,staff,No,Union,CT,36-45,,Female,12/21/2023,voluntary,manager,true,1,Zieme Inc,false
+548,Teacher,3/15/2014,terminated,contract,Business Development,executive,No,Union,MA,26-35,Native American,Male,1/5/2023,voluntary,manager,true,3,Kub-Schuster,true
+549,Analog Circuit Design manager,3/5/1996,terminated,contract,Services,staff,No,Union,NJ,46-55,Pacific Islander,Female,1/25/2023,voluntary,personal reasons,true,1,,false
+550,Account Coordinator,3/11/2023,terminated,full-time,Human Resources,management,No,Non-Uion,PA,18-25,Asian,Male,9/18/2023,retirement,retirement,false,1,,true

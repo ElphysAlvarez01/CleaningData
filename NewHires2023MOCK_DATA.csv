@@ -1,0 +1,461 @@
+employee_id,Job Title,hire_date,employee_status,employee_type,Department,job_level,supervisor_status,union_affiliation,Location,age_group,Race/Ethnicity,Gender,Prior Company,Prior School,Candidate Source
+1,Speech Pathologist,11/7/2023,active,contract,Research and Development,"",No,Non-Uion,CT,46-55,Pacific Islander,Male,"Bechtelar, Price and Homenick",Friends University,Social Media
+2,Business Systems Development Analyst,8/16/2023,active,full-time,Accounting,"",Yes,Union,MA,66+,Hispanic/Latino,,,University of Kurdistan,Social Media
+3,Physical Therapy Assistant,12/13/2023,active,contract,Accounting,executive,Yes,Union,CT,46-55,"",,Stiedemann-Waters,Fukuoka Dental College,Social Media
+4,Programmer Analyst II,2/21/2023,on leave,full-time,Human Resources,"",No,Non-Uion,NY,26-35,,Female,Mayert Group,Université de la Méditerranée (Aix Marseille II),Former Employee
+5,Web Developer I,1/29/2023,on leave,full-time,Marketing,staff,No,Non-Uion,MA,66+,Hispanic/Latino,,Mante-Brakus,William and Catherine Booth College,Conference
+6,Executive Secretary,10/21/2023,on leave,contract,Support,management,No,Union,MA,46-55,,,,University of Pangasinan,Referral
+7,Analog Circuit Design manager,12/28/2023,on leave,part-time,Human Resources,staff,Yes,Non-Uion,CT,46-55,White,Female,,University of Wyoming,Social Media
+8,VP Sales,11/26/2023,active,part-time,Accounting,"",Yes,Union,NJ,26-35,,Female,Howell LLC,Université Libre de Tunis,Conference
+9,Senior Sales Associate,6/29/2023,on leave,full-time,Services,management,Yes,Non-Uion,MA,56-65,White,Female,Schaden-Hoeger,University of Limerick,Job Board
+10,Dental Hygienist,8/7/2023,on leave,contract,Marketing,staff,Yes,Union,MA,56-65,Not Specified,,Schoen-Bogisich,Université Catholique de Lille,Referral
+11,Social Worker,4/2/2023,on leave,full-time,Accounting,staff,No,Non-Uion,MA,66+,Pacific Islander,,,Changwon National University,Job Board
+12,Occupational Therapist,9/4/2023,on leave,contract,Training,"",No,Non-Uion,NY,36-45,"",Female,"Mosciski, Wolff and Schumm",University of Exeter,Conference
+13,Graphic Designer,9/27/2023,active,part-time,Business Development,executive,No,Union,PA,46-55,Hispanic/Latino,Female,Pfeffer-Grady,University of Development Alternative,Conference
+14,Graphic Designer,7/15/2023,active,part-time,Legal,management,Yes,Non-Uion,NJ,18-25,Native American,Female,,Southern Connecticut State University,Career Fair
+15,Software Consultant,6/27/2023,active,part-time,Research and Development,"",No,Union,MA,56-65,Hispanic/Latino,Female,Kautzer and Sons,Pontifícia Universidade Católica de Campinas,
+16,Senior Developer,7/23/2023,active,part-time,Marketing,executive,No,Non-Uion,PA,66+,Native American,Male,Schulist Group,College of the Ozarks,
+17,Marketing Assistant,5/17/2023,active,full-time,Research and Development,management,No,Non-Uion,PA,36-45,Hispanic/Latino,Male,,Point Loma Nazarene College,Job Board
+18,Financial Analyst,2/5/2023,active,part-time,Services,"",No,Non-Uion,MA,18-25,Hispanic/Latino,Male,,Tri-College University,Career Fair
+19,Account Executive,9/18/2023,on leave,part-time,Business Development,"",No,Non-Uion,NY,36-45,,,"Kozey, Keeling and Kuhn",RMIT International University Vietnam,Former Employee
+20,Registered Nurse,12/17/2023,on leave,full-time,Support,staff,No,Non-Uion,NY,46-55,Black,Female,"Considine, Feil and Harvey",Cornell College,Social Media
+21,Chemical Engineer,9/29/2023,on leave,full-time,Engineering,management,Yes,Non-Uion,NY,46-55,"",Female,Gerlach and Sons,Southeast Missouri State University,Conference
+22,Structural Analysis Engineer,9/10/2023,active,full-time,Legal,executive,No,Union,CT,18-25,Hispanic/Latino,Bigender,Konopelski-Reynolds,University of Piraeus,Staffing Agency
+23,Senior Developer,3/31/2023,on leave,contract,Product Management,management,No,Union,NY,36-45,Pacific Islander,Female,Carter and Sons,Technological University (Thanlyin),Conference
+24,Director of Sales,4/23/2023,on leave,contract,Services,management,No,Non-Uion,MA,36-45,Hispanic/Latino,Male,Schuster Group,South Asian University,Job Board
+25,Registered Nurse,9/28/2023,on leave,contract,Research and Development,management,Yes,Union,NJ,56-65,White,Female,,Sendai University,
+26,Tax Accountant,8/23/2023,active,contract,Research and Development,management,No,Union,NJ,36-45,Not Specified,,Langworth-Spinka,Universidad Católica Cecilio Acosta,Former Employee
+27,Senior Quality Engineer,10/7/2023,active,full-time,Product Management,"",No,Union,NJ,46-55,Asian,Polygender,Kautzer-Rippin,Universidad Bernardo O'Higgins,Career Fair
+28,Marketing Assistant,7/1/2023,on leave,contract,Legal,staff,No,Non-Uion,PA,26-35,Not Specified,Female,Johns-Schultz,Urmia University of Medical Sciences,Job Board
+29,Financial Advisor,4/28/2023,active,contract,Research and Development,executive,No,Union,MA,18-25,Pacific Islander,Male,,University Institute of Modern Languages,Referral
+30,Civil Engineer,1/6/2023,on leave,contract,Business Development,"",Yes,Union,MA,46-55,Not Specified,Female,O'Hara Group,Universidad Nacional del Nordeste,Career Fair
+31,Professor,1/25/2023,on leave,contract,Training,executive,No,Non-Uion,PA,26-35,Native American,,Kunde-Metz,Universidad Empresarial Mateo Kuljis,Conference
+32,Biostatistician II,3/3/2023,active,part-time,Accounting,management,Yes,Non-Uion,NY,66+,Asian,Female,"Schinner, Hintz and Krajcik",Horizon College of Business and Technology,Career Fair
+33,Civil Engineer,5/16/2023,on leave,part-time,Marketing,executive,Yes,Union,PA,36-45,Native American,Female,"Dare, Ritchie and Roberts",University of Art and Design Cluj-Napoca,Former Employee
+34,Administrative Officer,10/30/2023,on leave,contract,Legal,"",No,Union,CT,36-45,White,,Doyle Inc,University of North West,Job Board
+35,Help Desk Technician,2/25/2023,active,full-time,Marketing,staff,No,Union,MA,66+,"",Male,Hodkiewicz and Sons,Universidad de Costa Rica,Job Board
+36,Assistant Media Planner,4/27/2023,on leave,contract,Engineering,"",No,Union,PA,36-45,,Male,"Waters, Reichert and Kerluke",Marij State University,Job Board
+37,Legal Assistant,4/23/2023,on leave,part-time,Business Development,executive,Yes,Non-Uion,MA,46-55,Asian,,"Howe, Bahringer and Spinka",Universidad Autónoma del Carmen,Social Media
+38,Community Outreach Specialist,12/10/2023,active,contract,Support,executive,No,Non-Uion,NY,26-35,Native American,Male,,Instituts Supérieurs des Etudes Technologiques,
+39,Research Associate,5/23/2023,on leave,part-time,Business Development,executive,No,Non-Uion,MA,56-65,,,,University of King's College,Career Fair
+40,Librarian,1/31/2023,active,part-time,Sales,staff,Yes,Non-Uion,PA,56-65,Not Specified,Female,,Dr. C.V. Raman University,Staffing Agency
+41,Health Coach III,11/24/2023,on leave,full-time,Support,staff,Yes,Non-Uion,PA,18-25,White,Genderfluid,Walker-Kihn,Kakatiya University,Career Fair
+42,Programmer I,3/29/2023,on leave,part-time,Business Development,management,Yes,Non-Uion,CT,18-25,,Male,Pagac Inc,Staffordshire University,Former Employee
+43,Systems Administrator II,10/11/2023,on leave,contract,Services,"",Yes,Union,CT,18-25,Hispanic/Latino,,"Huels, Abshire and Kuhn",University of Bucharest,Conference
+44,Occupational Therapist,4/25/2023,active,contract,Sales,executive,No,Union,NJ,36-45,Asian,,"Halvorson, Mante and Connelly",Hochschule Magdeburg-Stendal (FH),Former Employee
+45,Occupational Therapist,11/20/2023,on leave,part-time,Product Management,executive,Yes,Union,MA,26-35,"",,"Lubowitz, Nitzsche and Walker",Aventis School of Management,Referral
+46,General Manager,3/24/2023,on leave,full-time,Training,management,No,Non-Uion,NY,26-35,Native American,,Herzog-Glover,B.P.Koirala Institute of Health Sciences,Former Employee
+47,Nurse Practicioner,3/31/2023,active,contract,Accounting,staff,Yes,Union,NJ,56-65,Pacific Islander,Female,,Universidad Santa María Campus Guayaquil,Career Fair
+48,Human Resources Manager,11/28/2023,active,part-time,Accounting,executive,No,Non-Uion,CT,46-55,Black,Male,Morissette-Osinski,"Schiller International University, Paris",Staffing Agency
+49,Financial Analyst,10/19/2023,on leave,full-time,Marketing,management,Yes,Non-Uion,MA,36-45,Hispanic/Latino,,"Altenwerth, Gerlach and Schuster",Miyazaki Medical College,Conference
+50,Software Consultant,6/15/2023,on leave,part-time,Services,management,No,Non-Uion,PA,36-45,Black,Male,,Universität Koblenz-Landau,Staffing Agency
+51,Staff Scientist,10/26/2023,active,part-time,Training,"",No,Non-Uion,NJ,56-65,"",,Marvin-Harvey,University of Zululand,Career Fair
+52,Professor,9/14/2023,on leave,contract,Research and Development,management,No,Union,NJ,46-55,"",Agender,,Universidad Autónoma Metropolitana,Social Media
+53,VP Marketing,8/31/2023,active,part-time,Business Development,"",No,Non-Uion,MA,56-65,Pacific Islander,Male,Wolf-Zboncak,West Bengal University of Technology,
+54,Civil Engineer,11/23/2023,on leave,contract,Support,"",No,Non-Uion,MA,46-55,Native American,Genderqueer,"Mayer, Marquardt and Raynor",Brest State Technical University,Social Media
+55,Sales Representative,1/22/2023,on leave,contract,Business Development,staff,No,Non-Uion,NJ,18-25,Asian,Male,VonRueden LLC,King Fahad University of Petroleum and Minerals,Former Employee
+56,Senior Quality Engineer,2/3/2023,active,contract,Engineering,management,Yes,Non-Uion,PA,66+,Asian,,,Gorno-Altaisk State University,Former Employee
+57,Research Assistant II,10/6/2023,active,full-time,Research and Development,staff,No,Union,CT,56-65,,Female,"Emard, Klein and Block",Keimyung University,Referral
+58,Dental Hygienist,2/2/2023,on leave,full-time,Human Resources,management,No,Union,NJ,56-65,White,Female,O'Connell-Reinger,Pyongyang University of Science and Technology,Conference
+59,Electrical Engineer,3/9/2023,active,part-time,Legal,staff,Yes,Union,NY,18-25,Pacific Islander,,,European Regional Educational Academy of Armenia,Conference
+60,Mechanical Systems Engineer,6/3/2023,on leave,contract,Support,management,No,Non-Uion,NY,26-35,Hispanic/Latino,Female,Swift-Wiza,Tunku Syed Sirajuddin Polytechnic,Referral
+61,Assistant Manager,10/6/2023,active,contract,Engineering,executive,No,Union,NJ,56-65,White,Male,"O'Kon, O'Reilly and Ward",Rajiv Gandhi Technical University (University of Technology of Madhya Pradesh),Social Media
+62,Safety Technician I,8/6/2023,active,part-time,Training,staff,Yes,Union,PA,18-25,"",Male,,City University Athens,Staffing Agency
+63,Human Resources Manager,7/3/2023,active,part-time,Research and Development,executive,Yes,Union,PA,46-55,Not Specified,Female,Padberg-Koepp,Montanuniversität Leoben,Referral
+64,Information Systems Manager,9/6/2023,on leave,full-time,Engineering,staff,No,Non-Uion,NY,36-45,Not Specified,,,Keisen Jogaku-en College,Career Fair
+65,Geologist IV,6/28/2023,active,part-time,Support,management,No,Union,CT,18-25,Asian,Female,"Reinger, Hansen and Ferry",Universidad Autónoma de Yucatán,Former Employee
+66,Help Desk Technician,4/14/2023,on leave,part-time,Services,management,No,Non-Uion,PA,26-35,Black,Male,"Luettgen, Kshlerin and Beahan",Kuching Polytechnic,Job Board
+67,Analyst Programmer,1/22/2023,on leave,full-time,Business Development,staff,No,Non-Uion,NJ,56-65,Asian,Male,Collins and Sons,The Global College Lahore,Career Fair
+68,Environmental Specialist,12/19/2023,active,contract,Services,executive,No,Non-Uion,PA,26-35,Pacific Islander,Male,"Boyle, Hickle and Bradtke",Universidad Nuevo Mundo,Job Board
+69,Human Resources Manager,12/27/2023,on leave,contract,Research and Development,staff,No,Union,NY,18-25,Hispanic/Latino,Male,Feest-Watsica,"Institue of Historical Research, University of London",Social Media
+70,Nuclear Power Engineer,10/27/2023,on leave,full-time,Sales,management,Yes,Non-Uion,CT,46-55,Black,,,"Monash University, Malaysia Campus",Conference
+71,Financial Advisor,2/3/2023,active,full-time,Training,staff,Yes,Non-Uion,CT,26-35,Black,Female,Willms-Cummerata,American University in Dubai,Job Board
+72,Biostatistician II,1/15/2023,on leave,part-time,Accounting,staff,Yes,Non-Uion,PA,36-45,"",,Sporer-Mann,Tianjin Open University,Job Board
+73,Senior Developer,8/1/2023,on leave,full-time,Sales,"",Yes,Non-Uion,NY,36-45,White,Male,,Port Dickson Polytechnic,Career Fair
+74,Marketing Assistant,9/3/2023,on leave,contract,Business Development,executive,Yes,Non-Uion,CT,56-65,Hispanic/Latino,Female,Leffler Inc,Aarhus University,Former Employee
+75,Cost Accountant,1/8/2023,active,contract,Engineering,management,Yes,Union,NY,18-25,Asian,,Kuhic-Schuppe,"Payame Noor University, Tafresh",Job Board
+76,Teacher,6/30/2023,on leave,contract,Product Management,management,No,Non-Uion,PA,66+,,Male,Bradtke Inc,Universidad Industrial de Santander,Former Employee
+77,Administrative Officer,8/16/2023,on leave,contract,Support,"",No,Union,MA,36-45,,Female,"Morissette, Legros and Anderson",Universitas Nusa Cendana,Former Employee
+78,Biostatistician III,2/7/2023,on leave,part-time,Research and Development,staff,No,Union,NJ,56-65,,Female,Bailey-Smith,"Academy of International Economic and Political Relations, Gdynia",Referral
+79,Software Engineer II,1/14/2023,on leave,full-time,Engineering,staff,Yes,Union,MA,56-65,Black,Female,Kshlerin LLC,Meiji University of Oriental Medicine,Staffing Agency
+80,Recruiting Manager,3/31/2023,active,full-time,Accounting,"",No,Union,CT,26-35,,Female,,Université Mohammed V - Agdal,Former Employee
+81,Statistician II,11/18/2023,active,part-time,Legal,staff,Yes,Union,NY,26-35,White,Female,Graham Group,Sakushin Gakuin University,Referral
+82,Civil Engineer,4/4/2023,active,part-time,Engineering,staff,No,Non-Uion,PA,18-25,Asian,Male,Grimes-Cormier,St. Petersburg State University of Telecommunication,Former Employee
+83,Biostatistician III,1/16/2023,on leave,contract,Engineering,staff,No,Non-Uion,NY,46-55,"",,"Cole, Williamson and Bashirian",Loras College,Social Media
+84,VP Quality Control,8/7/2023,active,contract,Legal,management,No,Union,NY,46-55,,Female,"Christiansen, Glover and Homenick",International University of Sarajevo,Social Media
+85,VP Quality Control,4/11/2023,active,full-time,Human Resources,staff,Yes,Union,NY,66+,"",Male,Mohr and Sons,National Taipei Teachers College,Social Media
+86,Physical Therapy Assistant,1/23/2023,on leave,full-time,Services,"",No,Non-Uion,NJ,26-35,Pacific Islander,Female,Heathcote Inc,University of Bergamo,Career Fair
+87,Help Desk Technician,12/25/2023,on leave,part-time,Support,"",No,Non-Uion,PA,18-25,,Female,"Lowe, Berge and Becker",Instituto Politécnico de Leiria,Conference
+88,Analyst Programmer,12/5/2023,on leave,full-time,Legal,"",No,Non-Uion,MA,26-35,Pacific Islander,Male,Kovacek and Sons,Samara State Academy of Architecture and Civil Engineering,Staffing Agency
+89,Nuclear Power Engineer,3/8/2023,on leave,contract,Support,"",No,Union,MA,36-45,,Male,Schumm-Witting,University of Canterbury,Former Employee
+90,Senior Cost Accountant,3/21/2023,on leave,contract,Product Management,management,Yes,Union,PA,26-35,Not Specified,Female,"Beahan, Heathcote and Nader",Soongsil University,Career Fair
+91,Compensation Analyst,3/21/2023,on leave,contract,Training,"",No,Non-Uion,NJ,66+,"",,"Kozey, Cronin and Walker",Vermont Law School,Social Media
+92,Food Chemist,1/27/2023,active,part-time,Services,staff,No,Non-Uion,MA,36-45,White,Male,Bogan Inc,Fasa Faculty of Medical Sciences,
+93,Account Executive,9/10/2023,on leave,full-time,Product Management,"",Yes,Union,NJ,56-65,White,Male,Dietrich LLC,Otto-Friedrich Universität Bamberg,
+94,Human Resources Assistant II,6/22/2023,on leave,contract,Services,executive,Yes,Non-Uion,CT,26-35,Hispanic/Latino,Female,Macejkovic Group,"University of California, Oakland",Former Employee
+95,Internal Auditor,9/12/2023,on leave,contract,Engineering,staff,Yes,Union,PA,36-45,Pacific Islander,,Jerde-Wyman,Medical Academy of Latvia,Referral
+96,Dental Hygienist,8/3/2023,active,part-time,Support,"",No,Union,MA,66+,Pacific Islander,Female,"Kreiger, Hackett and Gutmann",Universität Siegen,Staffing Agency
+97,Physical Therapy Assistant,1/29/2023,on leave,full-time,Engineering,executive,Yes,Non-Uion,MA,56-65,Native American,Female,Champlin-Cronin,Universidad Autónoma de Bucaramanga,Job Board
+98,Payment Adjustment Coordinator,7/12/2023,active,full-time,Product Management,staff,Yes,Non-Uion,MA,46-55,Pacific Islander,Male,Wunsch-Morissette,University of Brescia,Referral
+99,Account Representative IV,10/2/2023,active,contract,Support,"",Yes,Non-Uion,MA,46-55,White,Male,Cummings-Wilkinson,Universitas Kristen Indonesia,Former Employee
+100,Civil Engineer,9/8/2023,active,full-time,Training,executive,Yes,Non-Uion,PA,56-65,Black,,Glover Inc,Universitas Pancasakti Tegal,Career Fair
+101,Budget/Accounting Analyst IV,5/29/2023,on leave,part-time,Accounting,management,Yes,Non-Uion,MA,26-35,Pacific Islander,Female,Larkin Inc,Chuo University,Former Employee
+102,Tax Accountant,10/13/2023,active,contract,Business Development,executive,No,Union,MA,18-25,Not Specified,Male,"Feil, Wunsch and Buckridge",Otani University,Staffing Agency
+103,Staff Scientist,7/20/2023,on leave,part-time,Accounting,management,No,Union,PA,26-35,Native American,Female,Friesen-Walter,Tokyo Metropolitan Institute of Technology,Staffing Agency
+104,Payment Adjustment Coordinator,10/15/2023,on leave,contract,Product Management,management,No,Union,NJ,26-35,,,Collins Group,Tyumen State Agricultural Academy,Career Fair
+105,Environmental Specialist,10/6/2023,on leave,contract,Training,"",No,Union,MA,66+,Not Specified,Female,"Bruen, Langworth and Wintheiser",Ochanomizu Women's University,Social Media
+106,VP Sales,3/19/2023,active,part-time,Sales,staff,No,Non-Uion,PA,18-25,"",Agender,Feest and Sons,Swiss Business School Zurich (SBS),Social Media
+107,Financial Advisor,2/15/2023,on leave,full-time,Support,"",No,Union,PA,56-65,Pacific Islander,Male,Renner LLC,Lamar University - Port Arthur,
+108,Administrative Assistant II,7/7/2023,on leave,full-time,Sales,executive,No,Union,CT,46-55,,Female,Schaefer-Veum,University of Wisconsin - Eau Claire,Referral
+109,Recruiter,8/22/2023,on leave,part-time,Product Management,executive,Yes,Union,NY,36-45,"",Agender,Thiel-Pagac,Ivanovo State University of Chemistry and Technology,Referral
+110,Biostatistician II,2/25/2023,on leave,part-time,Engineering,staff,Yes,Non-Uion,CT,18-25,White,Male,,Denver Paralegal Institute,Referral
+111,Account Representative III,9/7/2023,on leave,full-time,Accounting,"",Yes,Non-Uion,CT,26-35,Not Specified,Female,Mitchell-Kunze,Birjand University,Career Fair
+112,Professor,12/16/2023,active,full-time,Accounting,"",No,Union,CT,46-55,Not Specified,Male,Nikolaus-Walter,Jimei University,Social Media
+113,Marketing Manager,11/15/2023,on leave,part-time,Marketing,executive,Yes,Union,NY,36-45,Black,Male,"Steuber, Glover and Shanahan",Sukhothai Thammathirat Open University,Career Fair
+114,Chemical Engineer,12/28/2023,on leave,part-time,Services,management,No,Union,NJ,56-65,Black,Male,"Casper, Wyman and Green",University of Baghdad,Former Employee
+115,Project Manager,8/29/2023,on leave,full-time,Support,executive,Yes,Non-Uion,NY,56-65,Native American,Bigender,Doyle-Stanton,University of Texas M.D. Anderson Cancer Center,Referral
+116,Senior Sales Associate,4/18/2023,on leave,part-time,Product Management,"",No,Union,MA,56-65,Asian,Female,Baumbach Inc,Ho Chi Minh City University of Natural Sciences,Conference
+117,Chief Design Engineer,6/6/2023,on leave,full-time,Business Development,management,Yes,Non-Uion,NY,46-55,,Male,"Schneider, Streich and VonRueden",Université de l'Uélé,Social Media
+118,Account Representative II,1/19/2023,active,full-time,Training,staff,No,Non-Uion,NJ,36-45,White,Female,Sporer-Altenwerth,Technological University (Banmaw),Job Board
+119,Recruiter,3/17/2023,on leave,full-time,Sales,executive,No,Non-Uion,PA,18-25,,Male,Hane and Sons,Husson College,Job Board
+120,Data Coordinator,2/18/2023,on leave,full-time,Services,management,Yes,Union,NY,26-35,Hispanic/Latino,Female,,Instituto Tecnológico de Celaya,
+121,Human Resources Assistant II,4/15/2023,active,full-time,Engineering,management,No,Union,NJ,46-55,Black,Male,,Japan Women's University,Job Board
+122,Office Assistant IV,3/27/2023,on leave,full-time,Support,"",No,Non-Uion,PA,56-65,Black,Female,"Weissnat, Rau and Stark",Collège Boréal,Staffing Agency
+123,Teacher,2/19/2023,on leave,contract,Sales,staff,Yes,Union,PA,18-25,Native American,,Mills Group,Shujitsu Women's University,Former Employee
+124,VP Accounting,3/19/2023,on leave,full-time,Research and Development,staff,No,Union,PA,36-45,Native American,Female,Murphy-Harber,Washington State University,
+125,Actuary,5/9/2023,on leave,contract,Marketing,executive,Yes,Non-Uion,MA,26-35,Not Specified,Male,,Rocky Mountain College of Art and Design,Former Employee
+126,Professor,2/26/2023,on leave,full-time,Engineering,executive,Yes,Non-Uion,PA,36-45,Asian,Polygender,Klein-Corkery,Fundación Universitaria del Area Andina. Sede Pereira,Conference
+127,Senior Financial Analyst,11/11/2023,on leave,part-time,Accounting,management,Yes,Union,NJ,26-35,Black,Male,Lemke Group,Cross River University of Science and Technology,Former Employee
+128,Help Desk Technician,5/9/2023,active,part-time,Research and Development,staff,No,Union,PA,66+,,Female,Tillman and Sons,Universidade Internacional Lisboa,Former Employee
+129,Marketing Manager,10/26/2023,on leave,full-time,Accounting,"",Yes,Union,PA,66+,Asian,,Schinner LLC,Instituto Tecnológico de Morelia,Job Board
+130,VP Accounting,2/25/2023,active,full-time,Human Resources,executive,No,Non-Uion,NY,18-25,Hispanic/Latino,Male,,Riga Technical University,Staffing Agency
+131,Account Representative IV,5/28/2023,on leave,part-time,Sales,staff,No,Non-Uion,PA,66+,Black,Male,"Powlowski, Toy and Dach",National Aerospace University Kharkov Aviation Institute,Referral
+132,Mechanical Systems Engineer,9/25/2023,active,part-time,Marketing,staff,No,Union,NY,56-65,Pacific Islander,Female,"Wiza, Beahan and Weissnat",Centro de Estudios Universitarios Monterrey,Former Employee
+133,Human Resources Manager,1/8/2023,active,full-time,Support,executive,Yes,Union,MA,26-35,Native American,Male,Auer and Sons,Pomeranian Academy of Medicine in Szczecin,Job Board
+134,Financial Analyst,7/13/2023,active,full-time,Product Management,"",No,Union,MA,66+,"",Female,"Kling, Cormier and Murphy",University of Charleston South Carolina,Conference
+135,Nurse,10/11/2023,active,contract,Support,executive,Yes,Union,PA,36-45,"",Male,"Collier, Prosacco and Rempel",Southwest University,Conference
+136,Account Representative IV,3/9/2023,on leave,contract,Business Development,executive,No,Union,PA,56-65,Hispanic/Latino,Male,"Jacobs, Nolan and Krajcik",Xavier University of Louisiana,Staffing Agency
+137,Mechanical Systems Engineer,6/3/2023,on leave,contract,Research and Development,staff,No,Union,PA,56-65,Black,Female,Jaskolski and Sons,Universidad la Concordia,Conference
+138,Quality Control Specialist,8/14/2023,on leave,part-time,Research and Development,executive,Yes,Non-Uion,MA,36-45,Hispanic/Latino,Female,,Moscow University Touro,Career Fair
+139,Environmental Specialist,2/6/2023,on leave,contract,Research and Development,executive,No,Union,MA,46-55,"",Female,Quigley LLC,American Conservatory of Music,Referral
+140,Professor,8/5/2023,active,contract,Business Development,executive,No,Union,CT,46-55,"",Female,Kiehn-Renner,École des Hautes Études Commerciales,Job Board
+141,Internal Auditor,4/20/2023,active,contract,Research and Development,executive,No,Union,CT,66+,Pacific Islander,Female,Hintz Inc,Eelo American University,Career Fair
+142,Executive Secretary,10/17/2023,active,part-time,Engineering,executive,No,Union,MA,46-55,,Male,,Islamic University of Gaza,Job Board
+143,Senior Editor,12/2/2023,on leave,contract,Services,staff,No,Non-Uion,MA,36-45,Hispanic/Latino,Male,,Dav University,Social Media
+144,Technical Writer,9/22/2023,active,contract,Services,"",No,Non-Uion,MA,56-65,Pacific Islander,Male,Nitzsche-Rath,Universidad Nacional del Noroeste de la Provincia de Buenos Aires,Career Fair
+145,Senior Cost Accountant,7/16/2023,on leave,part-time,Human Resources,management,No,Union,CT,26-35,Pacific Islander,,Kirlin-Von,Katholische Stiftungsfachhochschule München,Conference
+146,Nurse,12/12/2023,on leave,contract,Research and Development,"",No,Non-Uion,NJ,46-55,Native American,Male,Runolfsdottir Inc,University Medical School of Pécs,Job Board
+147,Programmer IV,8/6/2023,active,full-time,Training,staff,Yes,Union,NJ,26-35,Pacific Islander,Polygender,,University of Birmingham,Former Employee
+148,Civil Engineer,6/10/2023,on leave,contract,Training,executive,No,Union,NJ,66+,Black,Female,,The University of Nottingham Ningbo China,Conference
+149,Design Engineer,5/14/2023,on leave,contract,Legal,executive,Yes,Non-Uion,NJ,26-35,Pacific Islander,Female,,European Regional Educational Academy of Armenia,Job Board
+150,Structural Engineer,3/15/2023,on leave,contract,Support,staff,Yes,Union,NJ,56-65,"",,Nikolaus-Ward,Universite des Sciences Islamiques de Constantine,Social Media
+151,Help Desk Technician,6/18/2023,active,full-time,Services,executive,Yes,Non-Uion,MA,56-65,Pacific Islander,Female,,Engineering College of Aarhus,Staffing Agency
+152,Engineer I,3/25/2023,active,contract,Research and Development,management,Yes,Union,CT,46-55,Native American,Male,"Brakus, Johnston and Blanda",Sri Padmavati Women's University,Staffing Agency
+153,Electrical Engineer,2/4/2023,active,contract,Support,"",Yes,Non-Uion,PA,46-55,Asian,Male,"Effertz, Willms and Yundt",Southern New Hampshire University,Social Media
+154,Civil Engineer,6/19/2023,on leave,part-time,Product Management,"",Yes,Union,NY,46-55,Pacific Islander,,"Ward, Denesik and Schaden",Southern California College of Optometry,Conference
+155,Senior Sales Associate,5/15/2023,active,contract,Product Management,staff,No,Union,CT,56-65,Pacific Islander,Male,,Kyungwon University,Former Employee
+156,Sales Associate,2/20/2023,on leave,full-time,Human Resources,staff,No,Union,CT,46-55,"",Bigender,"Waelchi, Bergstrom and Mueller","Fachhochschule Rosenheim, Hochschule für Technik und Wirtschaft",Social Media
+157,General Manager,10/6/2023,on leave,contract,Engineering,management,Yes,Non-Uion,PA,36-45,,Female,Bergstrom-Zemlak,Westminster College of Salt Lake City,Former Employee
+158,Computer Systems Analyst II,5/4/2023,active,part-time,Business Development,management,Yes,Non-Uion,CT,66+,Not Specified,,,Tokyo National University of Fine Arts and Music,Conference
+159,Financial Analyst,8/27/2023,active,part-time,Services,management,Yes,Non-Uion,NY,46-55,Native American,Male,Crist-Watsica,Pacific College of Oriental Medicine,Referral
+160,VP Product Management,6/4/2023,on leave,part-time,Business Development,executive,No,Union,NY,26-35,Native American,Male,Kub Group,Toho Gakuen School of Music,Staffing Agency
+161,Web Developer I,5/22/2023,on leave,contract,Marketing,executive,No,Union,NY,18-25,Pacific Islander,Male,Littel Group,Instituto Tecnologico de Durango,Former Employee
+162,Teacher,5/29/2023,on leave,full-time,Marketing,management,No,Union,CT,18-25,,Female,Hermiston-Bartoletti,Medical University of Sofia,Career Fair
+163,Assistant Professor,2/17/2023,on leave,full-time,Support,executive,Yes,Union,NJ,56-65,Black,Female,,Truman College,Referral
+164,VP Sales,8/18/2023,active,full-time,Research and Development,executive,Yes,Non-Uion,PA,66+,Black,,"Denesik, Littel and Hackett",University of Management and Marketing,
+165,Sales Associate,2/12/2023,active,contract,Business Development,executive,Yes,Non-Uion,MA,36-45,White,,,Pomorsk State University,Career Fair
+166,Pharmacist,9/24/2023,on leave,full-time,Training,management,Yes,Non-Uion,NJ,66+,Pacific Islander,Female,"Fadel, Lind and Smith",Ecole Nationale d'Ingénieurs de Saint-Etienne,Former Employee
+167,Business Systems Development Analyst,2/6/2023,active,full-time,Services,staff,Yes,Non-Uion,MA,56-65,,Female,Hirthe-Weber,Technical University of Cracow,Conference
+168,Developer I,9/30/2023,on leave,part-time,Marketing,executive,No,Union,NY,26-35,Hispanic/Latino,Male,"Farrell, Kuhlman and Wunsch",University of Leeds,Referral
+169,Office Assistant I,12/26/2023,active,contract,Engineering,"",Yes,Non-Uion,CT,26-35,Not Specified,Genderfluid,Orn-Koch,Acharya Ranga Agricultural University,Referral
+170,Teacher,2/22/2023,active,full-time,Research and Development,executive,No,Non-Uion,PA,66+,"",Male,Fahey-Carroll,"Télé-université, Université du Québec",Social Media
+171,Design Engineer,5/3/2023,on leave,part-time,Legal,staff,Yes,Union,NJ,46-55,Not Specified,Agender,Reinger Group,University of Human Development (Kurdistan Region),Career Fair
+172,Marketing Assistant,6/13/2023,active,part-time,Marketing,management,Yes,Non-Uion,NJ,46-55,,,Bahringer LLC,"University of Medicine 1, Yangon",Job Board
+173,Financial Analyst,4/1/2023,on leave,part-time,Support,staff,No,Non-Uion,MA,56-65,Asian,,"Smith, Hackett and Kerluke",University of Gloucestershire,Referral
+174,Software Engineer III,6/6/2023,on leave,contract,Legal,management,Yes,Union,NJ,66+,White,Female,"Lynch, Kuhic and Marks",Isra University,Referral
+175,Media Manager III,9/10/2023,active,part-time,Services,management,No,Union,MA,26-35,Hispanic/Latino,,Schuster-Parker,Andrassy Gyula German Speaking University Budapest,Conference
+176,Actuary,10/27/2023,active,full-time,Legal,management,No,Non-Uion,NY,56-65,Native American,,Cronin-Effertz,Gifu University,Referral
+177,VP Product Management,6/12/2023,on leave,contract,Business Development,"",No,Union,NY,46-55,Not Specified,Agender,King-Schoen,Universidad Peruana de Ciencias Aplicadas,Staffing Agency
+178,Media Manager II,7/27/2023,active,part-time,Engineering,staff,Yes,Non-Uion,NJ,56-65,Hispanic/Latino,Female,"Fritsch, Trantow and Weimann",Fujian Medical University,Social Media
+179,Research Nurse,10/1/2023,active,contract,Training,executive,No,Non-Uion,MA,56-65,Asian,Male,"Stracke, Wyman and Simonis",Pädagogische Hochschule Karlsruhe,Career Fair
+180,Cost Accountant,7/25/2023,on leave,contract,Product Management,"",Yes,Union,NY,18-25,Hispanic/Latino,,Swift-Jacobs,Universidad Privada Franz Tamayo (UNIFRANZ),Job Board
+181,Automation Specialist IV,3/16/2023,on leave,part-time,Human Resources,management,Yes,Non-Uion,MA,66+,White,Female,"Schumm, Welch and Oberbrunner",Cape Coast Polytechnic ,Conference
+182,Geological Engineer,6/26/2023,on leave,part-time,Marketing,"",No,Union,NY,26-35,"",Female,,Harbin Medical University,Conference
+183,Compensation Analyst,12/6/2023,active,full-time,Training,"",No,Non-Uion,CT,66+,Hispanic/Latino,Female,"Wunsch, Howe and Batz",Colorado State University,Social Media
+184,Clinical Specialist,6/20/2023,active,full-time,Business Development,management,No,Union,MA,18-25,White,Male,Hudson LLC,Ferghana Politechnical Institute,Staffing Agency
+185,Administrative Assistant I,8/16/2023,on leave,contract,Marketing,staff,No,Non-Uion,NJ,66+,Not Specified,Female,Fisher-Marquardt,Yasar University,Conference
+186,Professor,1/3/2023,on leave,full-time,Engineering,"",No,Non-Uion,NJ,18-25,Black,Male,Schuster-Wunsch,Université de Montpellier II,Referral
+187,Senior Editor,4/21/2023,active,part-time,Research and Development,staff,Yes,Union,PA,66+,Hispanic/Latino,Female,Stiedemann-Emmerich,Universidad Tecnologica de Nezahualcoyotl,
+188,Graphic Designer,12/29/2023,active,part-time,Marketing,executive,No,Union,MA,46-55,"",Male,"Feil, Upton and Schroeder",Mansoura University,Career Fair
+189,Registered Nurse,8/19/2023,active,part-time,Training,management,No,Non-Uion,MA,66+,Hispanic/Latino,Male,"Berge, Boyle and Schoen",French Institute of Management,Conference
+190,Mechanical Systems Engineer,1/28/2023,active,full-time,Accounting,staff,No,Union,MA,18-25,Asian,Agender,"Sipes, Parisian and Bergnaum",Oriental University,Referral
+191,VP Marketing,5/21/2023,active,contract,Research and Development,staff,No,Non-Uion,NJ,56-65,Black,,Aufderhar and Sons,University of San Francisco,Conference
+192,Occupational Therapist,11/13/2023,on leave,full-time,Training,management,No,Non-Uion,NY,36-45,"",Male,,Northern University Bangladesh,Conference
+193,Geologist I,10/13/2023,active,contract,Marketing,"",No,Union,NJ,56-65,White,Female,,New Jersey Institute of Technology,Referral
+194,Staff Scientist,12/11/2023,on leave,part-time,Services,executive,Yes,Union,PA,36-45,Not Specified,Female,"Bayer, Ritchie and Marks",Universität Vienna,Social Media
+195,Quality Control Specialist,3/16/2023,active,part-time,Services,"",Yes,Non-Uion,NJ,26-35,"",Agender,"Koss, Senger and Kunze",Moscow Technical University of Informatics and Communication,Conference
+196,Actuary,12/5/2023,on leave,part-time,Support,staff,No,Non-Uion,CT,36-45,"",Female,"Watsica, Romaguera and Sanford",State University of Tetova,Career Fair
+197,Chief Design Engineer,5/28/2023,active,contract,Marketing,staff,Yes,Non-Uion,CT,46-55,Black,Male,Bauch-Doyle,Amirkabir University of Technology,Staffing Agency
+198,VP Sales,1/28/2023,active,full-time,Legal,staff,Yes,Non-Uion,MA,36-45,Not Specified,Female,,"London School of Economics and Political Science, University of London",Social Media
+199,Programmer III,4/29/2023,active,part-time,Marketing,staff,No,Union,NJ,36-45,,Male,Wuckert Group,Taganrog State Pedagogical Institute,Career Fair
+200,Account Coordinator,7/6/2023,active,full-time,Accounting,management,No,Union,MA,56-65,Asian,Female,"Robel, Kemmer and Wilderman",Universidade Tecnica de Lisboa,Former Employee
+201,Food Chemist,11/14/2023,active,full-time,Business Development,staff,No,Union,CT,56-65,Black,Male,Cole-Greenfelder,Full Sail University,Staffing Agency
+202,Assistant Professor,11/8/2023,active,part-time,Engineering,executive,Yes,Union,NJ,18-25,Pacific Islander,Male,Greenfelder-Hessel,Universidade Catolica Portuguesa,Former Employee
+203,Junior Executive,6/29/2023,active,full-time,Research and Development,"",No,Union,NJ,18-25,Hispanic/Latino,Female,Sauer and Sons,Gandhara Institute of Medical Sciences,Referral
+204,Software Consultant,12/28/2023,on leave,part-time,Business Development,staff,Yes,Non-Uion,MA,56-65,,Male,McLaughlin-Murphy,Buraydah College for Applied Medical Sciences,Career Fair
+205,Analog Circuit Design manager,12/12/2023,active,full-time,Support,management,No,Non-Uion,NY,26-35,Black,Bigender,"Dach, Rohan and Marvin",Pennsylvania State University Delaware County,Referral
+206,Help Desk Technician,5/28/2023,on leave,part-time,Human Resources,executive,No,Union,PA,26-35,Hispanic/Latino,Female,Lebsack Group,Universidad Empresarial Mateo Kuljis,Staffing Agency
+207,Technical Writer,9/25/2023,on leave,part-time,Training,management,No,Non-Uion,CT,56-65,,Male,,Tohoku University of Art and Design,Social Media
+208,Registered Nurse,9/27/2023,on leave,contract,Product Management,"",Yes,Union,NY,26-35,Pacific Islander,Female,Upton-Hilll,Calvary Bible College,Referral
+209,Human Resources Manager,9/14/2023,on leave,full-time,Accounting,management,Yes,Union,MA,18-25,Asian,Female,"Runte, Lowe and Waters",Universidad de Zaragoza,Staffing Agency
+210,General Manager,7/1/2023,active,part-time,Product Management,"",Yes,Union,CT,36-45,Black,,,University of Salford,Social Media
+211,Marketing Assistant,1/30/2023,on leave,part-time,Research and Development,management,No,Union,MA,18-25,,Male,"Cole, Yost and Hauck","Islamic Azad University, Yazd",Referral
+212,Analyst Programmer,5/23/2023,on leave,contract,Sales,"",Yes,Union,PA,26-35,Not Specified,Male,Berge-Spencer,Zhongshan University,Conference
+213,Software Test Engineer III,11/28/2023,on leave,full-time,Product Management,executive,Yes,Non-Uion,CT,18-25,Hispanic/Latino,Female,Koelpin Group,Kenyatta University,Job Board
+214,Environmental Tech,4/2/2023,active,full-time,Accounting,executive,Yes,Non-Uion,NY,46-55,Asian,Male,,University Of Hawaii - System,Career Fair
+215,Marketing Manager,10/21/2023,on leave,full-time,Research and Development,executive,No,Non-Uion,NJ,18-25,Not Specified,Female,Mohr-Tillman,Cumberland College,Career Fair
+216,Analyst Programmer,11/3/2023,active,part-time,Business Development,"",No,Non-Uion,PA,36-45,Not Specified,Female,Hodkiewicz-Kuhlman,Senzoku Gakuen College,Conference
+217,Human Resources Manager,5/26/2023,on leave,contract,Product Management,staff,Yes,Union,MA,46-55,Not Specified,,"Mohr, Durgan and Schmitt",Ufa State Petroleum Technological University,
+218,Business Systems Development Analyst,7/5/2023,on leave,part-time,Sales,"",No,Union,NY,66+,,Male,,Fachhochschule für Bank- und Finanzwirtschaft,
+219,Programmer Analyst I,4/30/2023,active,contract,Legal,executive,No,Union,MA,56-65,Black,Female,"Conn, Bruen and Jacobi",Pädagogische Hochschule Karlsruhe,Conference
+220,VP Product Management,7/29/2023,on leave,contract,Services,management,Yes,Union,NJ,66+,Native American,Female,Wuckert LLC,St. Petersburg State University of Civil Aviation,Career Fair
+221,Physical Therapy Assistant,2/8/2023,active,full-time,Research and Development,management,No,Non-Uion,PA,26-35,Native American,,"Durgan, Bode and Kirlin",Tohoku Bunka Gakuen University,Job Board
+222,Electrical Engineer,5/19/2023,on leave,part-time,Legal,staff,Yes,Non-Uion,PA,56-65,Hispanic/Latino,Female,Schmeler and Sons,Daugavpils University,
+223,VP Quality Control,6/23/2023,active,part-time,Marketing,staff,No,Non-Uion,NJ,66+,Black,,Franecki and Sons,The World Islamic Sciences & Education University,Conference
+224,Paralegal,5/17/2023,on leave,part-time,Services,"",Yes,Union,MA,18-25,Asian,Genderqueer,Flatley-Flatley,University of Otago,Former Employee
+225,Senior Editor,5/19/2023,active,part-time,Human Resources,executive,No,Union,NJ,66+,Asian,Male,Russel Group,Universidad Católica de Manizales,Conference
+226,Quality Control Specialist,9/27/2023,on leave,contract,Product Management,"",No,Union,CT,26-35,Pacific Islander,Male,"Tremblay, Kling and Larkin",Ulyanovsk State Agricultural Academy,Conference
+227,Analyst Programmer,12/11/2023,on leave,contract,Business Development,"",Yes,Union,NJ,46-55,Pacific Islander,,Ruecker-Leuschke,National College for Medical and Technical Studies,
+228,Quality Engineer,12/21/2023,on leave,contract,Human Resources,executive,No,Union,CT,56-65,Asian,Male,,Juniata College,Social Media
+229,Senior Developer,9/5/2023,on leave,contract,Support,executive,Yes,Union,MA,46-55,Black,Female,Rath Group,National Changhua University of Education,Referral
+230,Financial Advisor,10/26/2023,on leave,part-time,Sales,management,No,Non-Uion,MA,66+,Asian,Female,"Halvorson, Thiel and Fahey",Zetech College,Career Fair
+231,Paralegal,7/13/2023,active,full-time,Business Development,management,Yes,Non-Uion,NJ,56-65,Pacific Islander,Male,Balistreri-DuBuque,Nyack College,Career Fair
+232,Web Designer IV,3/22/2023,on leave,contract,Human Resources,management,Yes,Non-Uion,CT,36-45,Hispanic/Latino,Female,"Rogahn, Emmerich and Pfeffer",Fundación Universitaria del Area Andina. Sede Pereira,Social Media
+233,Product Engineer,5/2/2023,on leave,contract,Support,"",No,Union,MA,36-45,Black,Female,"Harvey, Hagenes and Dach",Western Michigan University,Referral
+234,Legal Assistant,6/1/2023,on leave,full-time,Services,staff,Yes,Non-Uion,NJ,26-35,Asian,Female,"Hahn, O'Reilly and Nikolaus",California College of Arts and Crafts,Referral
+235,Software Engineer I,8/31/2023,on leave,part-time,Engineering,"",Yes,Union,NY,46-55,White,Male,,Indiana University-Purdue University at Columbus,
+236,Staff Accountant II,3/27/2023,active,full-time,Engineering,executive,Yes,Union,NJ,18-25,Native American,Polygender,,Escuela de Administración de Negocios,Former Employee
+237,VP Sales,4/17/2023,on leave,full-time,Engineering,management,No,Non-Uion,PA,36-45,White,Genderqueer,"Watsica, Crist and Botsford",Gujarat Ayurved University,Job Board
+238,Biostatistician III,3/11/2023,on leave,full-time,Services,executive,No,Union,PA,46-55,,Male,"Fahey, Greenfelder and Green",Universidad Latinoamericana de Ciencia y Tecnología,Referral
+239,Administrative Assistant III,11/10/2023,active,full-time,Training,"",No,Union,PA,46-55,Black,Male,Ferry LLC,University of Canterbury,Staffing Agency
+240,Librarian,1/4/2023,active,full-time,Product Management,management,No,Union,CT,26-35,,Female,Trantow and Sons,Gondar University,Referral
+241,Professor,1/28/2023,active,full-time,Research and Development,management,Yes,Union,PA,36-45,,Male,Corwin Inc,Universidad Panamericana de San Salvador,Social Media
+242,Executive Secretary,7/4/2023,on leave,contract,Engineering,management,No,Non-Uion,CT,46-55,,Female,"Rogahn, Wyman and Brown",Naif Arab University for Security Sciences,Social Media
+243,Executive Secretary,7/24/2023,on leave,part-time,Marketing,management,Yes,Union,CT,66+,Hispanic/Latino,Male,Little Group,University of Greenwich,Conference
+244,Sales Associate,2/18/2023,active,contract,Business Development,staff,No,Union,PA,26-35,Black,Female,O'Reilly-Farrell,Oklahoma State University - Oklahoma City,Job Board
+245,Clinical Specialist,8/26/2023,active,full-time,Accounting,executive,Yes,Non-Uion,MA,56-65,Black,,,Universitas Islam Bandung,Career Fair
+246,Geological Engineer,11/19/2023,on leave,contract,Marketing,executive,Yes,Union,NJ,18-25,,Female,Bailey-Ward,Ecole Nationale Supérieure des Mines de Nancy,Conference
+247,Director of Sales,1/5/2023,active,full-time,Support,executive,Yes,Union,PA,66+,White,Genderqueer,"Kemmer, Leannon and McClure",Roanoke Bible College,Conference
+248,Compensation Analyst,1/14/2023,on leave,full-time,Engineering,staff,No,Non-Uion,MA,66+,Pacific Islander,Female,Cremin and Sons,Universidad Nacional del Callao,Former Employee
+249,VP Quality Control,7/1/2023,on leave,full-time,Human Resources,executive,Yes,Union,PA,66+,Hispanic/Latino,Female,Fritsch Inc,Tokai Gakuen University,Conference
+250,Recruiter,3/19/2023,on leave,contract,Marketing,staff,No,Non-Uion,PA,46-55,Asian,Female,Botsford-Morar,Zarka Private University,Career Fair
+251,Administrative Assistant I,10/18/2023,on leave,full-time,Marketing,staff,Yes,Non-Uion,NY,66+,Asian,Female,Mitchell-Watsica,Corporación Universitaria de Santander (UDES),Referral
+252,Senior Financial Analyst,4/30/2023,on leave,part-time,Research and Development,"",No,Non-Uion,PA,18-25,Black,Male,"Kihn, Johnston and Reilly",Military Technical College,
+253,Occupational Therapist,2/19/2023,on leave,full-time,Human Resources,staff,Yes,Union,CT,46-55,Not Specified,Male,Will-Yost,Royal Danish Academy of Music,Job Board
+254,Speech Pathologist,12/29/2023,active,contract,Business Development,staff,Yes,Non-Uion,NJ,56-65,Pacific Islander,Female,Brekke LLC,Kyoto Seika University,Conference
+255,Marketing Assistant,5/24/2023,on leave,part-time,Training,staff,Yes,Union,NJ,18-25,Not Specified,Female,,Chiba Keizai University,Social Media
+256,Administrative Officer,4/16/2023,active,part-time,Business Development,"",No,Non-Uion,NY,46-55,Not Specified,Male,"Satterfield, Schowalter and Littel",Vitebsk State Academy of Veterinary Medicine,Job Board
+257,Sales Representative,2/20/2023,on leave,full-time,Services,staff,No,Non-Uion,NJ,56-65,Not Specified,Male,,University College of Trollhättan/Uddevalla,Referral
+258,Sales Associate,7/14/2023,on leave,part-time,Research and Development,staff,No,Non-Uion,NY,56-65,White,Male,,Northeast University at Qinhuangdao Campus,Social Media
+259,Community Outreach Specialist,11/14/2023,on leave,contract,Accounting,executive,Yes,Non-Uion,CT,36-45,White,Polygender,"Nitzsche, Thiel and Hayes",Universitas Amir Hamzah,Conference
+260,Marketing Manager,4/15/2023,active,contract,Training,management,Yes,Union,NJ,56-65,"",Female,"Barton, Bahringer and Davis",College of Technology at Riyadh,Referral
+261,Safety Technician I,12/11/2023,on leave,part-time,Training,staff,Yes,Non-Uion,PA,18-25,"",Female,"Turcotte, Watsica and Cremin",Changchun University of Technology,Former Employee
+262,Environmental Specialist,12/1/2023,on leave,contract,Accounting,staff,Yes,Non-Uion,MA,46-55,White,Agender,Toy Inc,Université de Gabès,Former Employee
+263,Senior Sales Associate,11/19/2023,active,contract,Business Development,executive,No,Non-Uion,NJ,66+,Not Specified,Female,Watsica-Kuphal,Tibet University,Former Employee
+264,Account Coordinator,5/15/2023,active,full-time,Human Resources,management,No,Union,NJ,36-45,Hispanic/Latino,Female,VonRueden-Ernser,Athenaeum of Ohio,Social Media
+265,Operator,7/3/2023,active,full-time,Marketing,management,Yes,Union,PA,46-55,White,Non-binary,Morissette LLC,London College of Science & Technology,Staffing Agency
+266,Assistant Media Planner,8/24/2023,active,full-time,Business Development,staff,Yes,Union,NY,66+,Hispanic/Latino,Male,Wiza Inc,Ecole Nationale Supérieur de Géologie de Nancy,Job Board
+267,Technical Writer,10/10/2023,active,contract,Support,management,Yes,Union,MA,56-65,"",Male,Abbott Group,University of Sierra Leone,Social Media
+268,VP Accounting,8/15/2023,active,full-time,Engineering,"",No,Union,CT,56-65,,Female,Mills Group,University of Glasgow,Staffing Agency
+269,Dental Hygienist,11/17/2023,active,full-time,Engineering,management,No,Union,MA,18-25,,Female,,Universidad Popular Autonóma del Estado de Puebla,Job Board
+270,Nurse Practicioner,4/21/2023,active,part-time,Support,executive,No,Non-Uion,NJ,56-65,Not Specified,Female,,University of New Orleans,Staffing Agency
+271,Pharmacist,4/29/2023,active,contract,Training,management,No,Union,CT,56-65,"",Female,Marquardt-Ankunding,Anderson College,Social Media
+272,Information Systems Manager,12/12/2023,on leave,part-time,Research and Development,"",No,Non-Uion,NY,56-65,Black,Female,"Stamm, O'Kon and Cummings",King's College,Conference
+273,Editor,1/27/2023,active,full-time,Sales,executive,No,Union,NJ,26-35,Black,Male,"Ortiz, Ebert and Strosin",Universität Bielefeld,Social Media
+274,VP Accounting,8/25/2023,active,contract,Accounting,management,Yes,Non-Uion,MA,66+,Native American,Male,Weber and Sons,Ecole Supérieure d'Ingénieurs en Electronique et Electrotechnique,Referral
+275,Assistant Manager,10/20/2023,active,full-time,Accounting,staff,Yes,Union,MA,18-25,"",Female,"Cruickshank, Torphy and Goyette",College of Visual Arts,Social Media
+276,Administrative Officer,11/17/2023,active,full-time,Sales,executive,No,Non-Uion,MA,18-25,Native American,Male,Schowalter-Crist,Technical University of Cluj-Napoca,
+277,Web Designer I,7/12/2023,on leave,part-time,Business Development,management,Yes,Non-Uion,PA,36-45,,,"Mohr, Yundt and West",College of Osteopathic Medicine of the Pacific (Western University of Health Sciences),Social Media
+278,Structural Analysis Engineer,12/24/2023,on leave,part-time,Marketing,executive,Yes,Union,MA,26-35,Not Specified,Male,VonRueden-Emard,Obirin University,Job Board
+279,Computer Systems Analyst I,4/18/2023,active,full-time,Legal,"",Yes,Union,PA,66+,Asian,Male,Kilback Inc,Fakir Mohan University,Job Board
+280,VP Marketing,4/28/2023,on leave,part-time,Services,management,No,Non-Uion,PA,46-55,Native American,Female,"Armstrong, Miller and Nader",Southern Ural State University,Former Employee
+281,Mechanical Systems Engineer,4/1/2023,active,part-time,Research and Development,management,Yes,Non-Uion,CT,26-35,Pacific Islander,Male,,Beirut Arab University,Staffing Agency
+282,Computer Systems Analyst IV,1/4/2023,active,contract,Research and Development,staff,Yes,Union,NJ,18-25,White,Female,,Oklahoma Panhandle State University,Referral
+283,Geologist II,6/6/2023,active,contract,Engineering,staff,No,Non-Uion,MA,66+,,Female,"Mayer, Kassulke and Jones",Saxion Universities ,Conference
+284,Associate Professor,5/16/2023,on leave,full-time,Sales,management,No,Union,NJ,46-55,Black,Male,"Carroll, Harber and Bartell",Université Cheikh Anta Diop,Referral
+285,Analyst Programmer,10/3/2023,on leave,full-time,Business Development,management,No,Non-Uion,MA,66+,Not Specified,,Waelchi LLC,American University of Afghanistan,Conference
+286,Information Systems Manager,3/18/2023,on leave,part-time,Marketing,executive,Yes,Non-Uion,MA,56-65,Pacific Islander,Polygender,,Université Lumière de Bujumbura,Former Employee
+287,Dental Hygienist,12/22/2023,on leave,part-time,Legal,executive,Yes,Union,CT,66+,,Male,"Wunsch, Bayer and Yundt",Universitas Islam Sultan Agung,Social Media
+288,Desktop Support Technician,4/17/2023,on leave,full-time,Sales,staff,No,Non-Uion,NY,66+,Pacific Islander,Male,Reichert-Hettinger,Universidad Hispanoamericana,Job Board
+289,VP Sales,8/22/2023,on leave,part-time,Services,"",No,Non-Uion,MA,46-55,Pacific Islander,Female,,Regis University,Conference
+290,Sales Associate,11/29/2023,on leave,contract,Accounting,executive,Yes,Union,CT,26-35,Not Specified,,Lind-Gerlach,Central Ostrobothnia University of Applied Sciences,Career Fair
+291,Technical Writer,11/20/2023,on leave,full-time,Business Development,"",No,Union,NJ,36-45,"",,"Haag, Buckridge and Hegmann","Islamic Azad University, Sowmesara",Former Employee
+292,Quality Engineer,9/22/2023,on leave,part-time,Legal,staff,No,Union,MA,56-65,Not Specified,Female,Gusikowski Group,Seoul National University of Technology,Social Media
+293,Physical Therapy Assistant,12/1/2023,active,part-time,Sales,staff,Yes,Non-Uion,MA,56-65,Native American,Male,Marvin Group,Drew University,Staffing Agency
+294,Automation Specialist III,5/2/2023,active,part-time,Accounting,staff,No,Union,PA,46-55,Not Specified,Female,McKenzie-Gleason,"BGC Trust University, Bangladesh",
+295,Help Desk Operator,9/12/2023,on leave,part-time,Legal,staff,No,Non-Uion,MA,18-25,Pacific Islander,Female,Lindgren LLC,Universitas Muhammadiyah Magelang,Career Fair
+296,Quality Engineer,5/7/2023,active,contract,Legal,"",Yes,Union,NJ,36-45,Black,Female,"Borer, Murphy and VonRueden",Ecole Supérieure de Commerce de Bordeaux,
+297,Senior Sales Associate,6/3/2023,on leave,full-time,Product Management,"",No,Non-Uion,MA,46-55,Pacific Islander,Male,"Friesen, Heidenreich and Sawayn",Seigakuin University,Career Fair
+298,Clinical Specialist,2/2/2023,on leave,full-time,Engineering,executive,Yes,Non-Uion,NY,36-45,Asian,Male,"Rau, Mills and Keebler",Lithuania Christian College,Career Fair
+299,Executive Secretary,8/14/2023,active,full-time,Business Development,staff,No,Union,MA,66+,Hispanic/Latino,Female,"Heaney, Stracke and Heidenreich",Universidad Carlos III de Madrid,Former Employee
+300,Teacher,12/14/2023,on leave,full-time,Training,executive,Yes,Union,NJ,18-25,White,Female,Schulist LLC,Muhimbili University of Health and Allied Sciences (MUHAS),Staffing Agency
+301,Media Manager III,4/30/2023,active,full-time,Support,executive,No,Non-Uion,MA,26-35,,,Keeling and Sons,St. Bernard's Institute,Career Fair
+302,Help Desk Operator,10/1/2023,active,part-time,Support,executive,No,Non-Uion,NJ,66+,"",Male,"Cruickshank, Sawayn and Harris",Ecole Nationale Supérieure de Physique de Marseille,Job Board
+303,Database Administrator III,10/30/2023,on leave,full-time,Marketing,staff,No,Non-Uion,NJ,36-45,Pacific Islander,Female,Russel LLC,Corporación Universitaria de Santander (UDES),Conference
+304,Geological Engineer,9/9/2023,active,full-time,Support,"",No,Union,MA,46-55,,Male,,Academy of Fine Arts,Former Employee
+305,Structural Analysis Engineer,6/8/2023,on leave,part-time,Engineering,executive,No,Union,CT,66+,"",Female,Robel and Sons,Marlboro College,Job Board
+306,Librarian,5/28/2023,active,contract,Legal,executive,No,Non-Uion,NY,56-65,Black,Male,"Wiza, Fritsch and Lindgren",Ling Tung University,Job Board
+307,Mechanical Systems Engineer,2/2/2023,on leave,full-time,Sales,staff,Yes,Non-Uion,CT,36-45,,Female,"Bailey, Kuhic and Hagenes",Arak University,Career Fair
+308,Assistant Professor,12/1/2023,active,contract,Legal,management,Yes,Non-Uion,NJ,66+,Not Specified,Male,"Bartell, Bins and Heaney",Universidade do Grande Rio,Staffing Agency
+309,Staff Accountant IV,11/30/2023,active,contract,Support,management,Yes,Union,CT,36-45,Not Specified,Male,,Universiti Malaysia Sarawak,Referral
+310,Analyst Programmer,1/18/2023,active,part-time,Research and Development,management,Yes,Non-Uion,NJ,36-45,Pacific Islander,Male,Hamill-Hessel,Sookmyung Women's University,
+311,Sales Representative,1/18/2023,on leave,part-time,Business Development,executive,No,Union,NJ,56-65,Not Specified,Male,Huels Group,Mesa State College,Conference
+312,Senior Financial Analyst,7/12/2023,active,part-time,Research and Development,management,No,Non-Uion,NJ,36-45,Black,Male,"Gulgowski, Grant and Hane","Troy University, Dothan",Job Board
+313,Director of Sales,4/20/2023,on leave,part-time,Legal,executive,Yes,Non-Uion,NY,18-25,Native American,,Luettgen Group,Western State University College of Law - Orange County,Social Media
+314,Research Nurse,9/8/2023,active,contract,Accounting,staff,Yes,Non-Uion,CT,26-35,Pacific Islander,Male,,St. Bonaventure University,Career Fair
+315,Media Manager III,3/18/2023,active,contract,Legal,management,Yes,Union,CT,36-45,Asian,Male,Krajcik-Ortiz,Theologische Fakultät Trier,Staffing Agency
+316,Biostatistician II,2/4/2023,on leave,contract,Services,staff,No,Union,PA,26-35,Native American,Male,"Rath, Hilll and Grant",St. Elizabeth’s College of Health and Social Sciences in Bratislava,Career Fair
+317,Software Consultant,5/20/2023,on leave,part-time,Legal,executive,No,Union,NY,36-45,Not Specified,Male,Lemke-Stroman,Gunma University,Social Media
+318,Marketing Assistant,9/7/2023,active,contract,Sales,staff,Yes,Union,MA,26-35,Not Specified,Female,"Koelpin, Fadel and Schulist",Universidad Autónoma Latinoamericana,Referral
+319,Staff Accountant III,4/16/2023,on leave,part-time,Support,executive,Yes,Non-Uion,NJ,56-65,,Agender,"Bashirian, Smith and Schneider",Louisiana Tech University,Referral
+320,Tax Accountant,4/18/2023,active,contract,Business Development,staff,Yes,Non-Uion,NJ,46-55,Asian,Genderqueer,Lynch LLC,Limkokwing University College of Creative Technology,Job Board
+321,Accountant III,7/7/2023,on leave,contract,Engineering,management,No,Union,NY,26-35,White,Female,Beer and Sons,Nagoya Economics University,Conference
+322,Web Designer IV,10/13/2023,active,part-time,Legal,executive,No,Union,NY,26-35,Pacific Islander,Male,Auer and Sons,University of Chittagong,Career Fair
+323,Nurse,10/26/2023,active,part-time,Business Development,"",No,Union,MA,66+,Hispanic/Latino,Male,"Kerluke, Konopelski and Thiel",Integral University,Job Board
+324,Physical Therapy Assistant,5/5/2023,on leave,full-time,Sales,"",Yes,Union,CT,36-45,Pacific Islander,Female,Trantow-Barrows,University of Silesia,Referral
+325,Recruiter,10/3/2023,on leave,full-time,Product Management,executive,Yes,Non-Uion,NY,56-65,Native American,Male,"Thiel, Marvin and Stokes",Kyungnam University,Job Board
+326,Civil Engineer,9/5/2023,on leave,part-time,Research and Development,management,Yes,Union,NJ,36-45,,Polygender,Labadie Inc,Hanoi University of Science & Technology,
+327,Accounting Assistant IV,9/15/2023,on leave,part-time,Sales,staff,No,Union,NJ,56-65,"",Male,"Thiel, Bednar and Heaney",Universidad del Mar,
+328,Structural Analysis Engineer,2/5/2023,on leave,full-time,Legal,"",Yes,Non-Uion,NJ,46-55,White,Female,"Hartmann, Brown and Kris",Drexel University,Job Board
+329,Speech Pathologist,6/26/2023,active,full-time,Support,executive,Yes,Non-Uion,CT,46-55,"",Male,"Nader, Lang and Kozey",Universidad Nacional de General San Martín,Staffing Agency
+330,Information Systems Manager,6/27/2023,active,contract,Accounting,"",No,Non-Uion,PA,26-35,Not Specified,Male,Macejkovic Inc,Qom University of Medical Sciences,Referral
+331,Human Resources Manager,4/4/2023,active,full-time,Accounting,staff,No,Union,PA,56-65,Not Specified,,McLaughlin LLC,Kyoritsu Woman's University,Career Fair
+332,Software Engineer III,3/27/2023,active,contract,Accounting,"",No,Non-Uion,PA,46-55,Black,Female,,Mahsa University College for Health and Medical Science,Job Board
+333,Database Administrator II,11/15/2023,on leave,full-time,Services,executive,Yes,Union,NJ,46-55,,Male,Reilly-Goyette,"Fachhochschule Hildesheim/Holzminden/Göttingen, Hochschule für angewandte Wissenschaft und Kunst",Referral
+334,Help Desk Operator,9/13/2023,on leave,part-time,Engineering,executive,No,Union,NJ,46-55,Black,Female,"Berge, Rohan and Wehner",Hafencity Universität Hamburg,Staffing Agency
+335,Graphic Designer,10/10/2023,active,part-time,Services,management,No,Non-Uion,NJ,66+,"",Female,"Roberts, Schultz and O'Kon",University of Vaasa,Staffing Agency
+336,Compensation Analyst,10/7/2023,on leave,part-time,Engineering,staff,Yes,Non-Uion,CT,36-45,Hispanic/Latino,Genderfluid,Ferry Inc,National-Louis University,
+337,Automation Specialist I,4/30/2023,active,full-time,Training,management,No,Union,NJ,36-45,Not Specified,Female,Turner-Cremin,Thames Valley University,Staffing Agency
+338,Media Manager IV,9/23/2023,on leave,part-time,Accounting,management,Yes,Union,NY,46-55,Hispanic/Latino,Female,Rowe-Crist,Universidad de Burgos,Referral
+339,Analog Circuit Design manager,6/26/2023,on leave,part-time,Support,management,No,Union,NY,56-65,Hispanic/Latino,Non-binary,"Bode, Bahringer and Klocko","Balti State University ""Alecu Russo""",Referral
+340,Web Developer III,12/28/2023,active,contract,Training,executive,No,Non-Uion,MA,46-55,Black,Male,"Cormier, Nader and Kuvalis",Guangzhou Normal University,Staffing Agency
+341,Speech Pathologist,8/2/2023,on leave,contract,Support,"",Yes,Union,MA,56-65,Pacific Islander,Male,"Durgan, Price and Sporer",Universitas Diponegoro,Former Employee
+342,Software Consultant,2/24/2023,active,contract,Marketing,"",No,Union,NJ,66+,Black,Male,,Naresuan University,Career Fair
+343,Operator,8/19/2023,active,contract,Human Resources,staff,No,Non-Uion,PA,66+,"",Female,Doyle-Schultz,Fachhochschule Erfurt,Job Board
+344,Account Representative IV,5/7/2023,active,part-time,Services,"",No,Union,PA,36-45,Not Specified,Female,,National University of Management,Social Media
+345,Product Engineer,1/21/2023,on leave,full-time,Training,executive,No,Non-Uion,MA,46-55,"",Female,Bosco and Sons,Volgograd State Technical University,Conference
+346,Junior Executive,6/18/2023,on leave,full-time,Business Development,executive,No,Non-Uion,PA,66+,Hispanic/Latino,Male,"Veum, Powlowski and Treutel",Islamic University of Technology,Social Media
+347,Nurse Practicioner,7/18/2023,on leave,part-time,Engineering,management,No,Non-Uion,MA,56-65,Asian,Male,Conn Group,Baptist Bible College of Missouri,Social Media
+348,Financial Analyst,10/25/2023,active,full-time,Human Resources,executive,Yes,Union,NY,26-35,"",Male,Welch-Gutkowski,National-Louis University,Former Employee
+349,VP Quality Control,9/22/2023,active,full-time,Business Development,executive,No,Non-Uion,MA,66+,Hispanic/Latino,Male,,National University of Science and Technology Bulawayo,Conference
+350,Senior Sales Associate,8/3/2023,active,full-time,Support,management,Yes,Union,CT,46-55,Native American,Female,"Lehner, Nitzsche and Hansen",Luzhou Medical College,
+351,Developer III,2/21/2023,on leave,contract,Support,executive,Yes,Union,NY,26-35,Black,,Steuber and Sons,Montserrat College of Art,Job Board
+352,Paralegal,2/23/2023,active,contract,Human Resources,"",Yes,Non-Uion,NJ,56-65,"",Agender,"Kovacek, Hayes and Rodriguez","Swiss Federal Institute of Technology, Zurich",Former Employee
+353,Recruiting Manager,2/21/2023,active,full-time,Training,management,No,Non-Uion,PA,46-55,Hispanic/Latino,Male,Wyman and Sons,Brussels Management School (ICHEC),Job Board
+354,VP Quality Control,4/7/2023,active,part-time,Accounting,"",No,Union,MA,18-25,Black,Polygender,,Universidad de Chile,Staffing Agency
+355,Community Outreach Specialist,12/27/2023,on leave,part-time,Services,executive,Yes,Non-Uion,CT,66+,White,Male,O'Conner Inc,Stratford College London,Referral
+356,Recruiter,9/11/2023,on leave,part-time,Marketing,staff,Yes,Union,NJ,56-65,White,Female,Sanford LLC,New York Law School,Job Board
+357,Community Outreach Specialist,11/21/2023,on leave,contract,Accounting,"",No,Union,NY,18-25,Black,Male,"Kunze, Farrell and Swift",Institut Catholique de Toulouse,Referral
+358,Professor,8/18/2023,active,full-time,Legal,management,No,Non-Uion,PA,66+,Not Specified,Male,"Russel, Farrell and Sawayn",Universidad Tecnológica del Centro,Referral
+359,Electrical Engineer,9/10/2023,on leave,contract,Accounting,executive,Yes,Union,NY,56-65,Native American,Female,Mohr Inc,Hosei University,Staffing Agency
+360,Clinical Specialist,8/15/2023,on leave,contract,Business Development,management,No,Non-Uion,NJ,18-25,,Male,Terry and Sons,Osaka Electro-Communication University,Former Employee
+361,Registered Nurse,7/17/2023,active,contract,Human Resources,staff,Yes,Non-Uion,PA,56-65,Native American,,Yost-Schaefer,Universidade do Vale do Itajaí,Conference
+362,Assistant Professor,1/22/2023,active,part-time,Business Development,executive,Yes,Non-Uion,MA,36-45,Native American,,,Instituto Tecnológico de Costa Rica,Career Fair
+363,Engineer I,4/25/2023,on leave,contract,Research and Development,"",No,Non-Uion,CT,46-55,Hispanic/Latino,Male,Dickinson-Tromp,Ohio State University - Newark,Former Employee
+364,Technical Writer,2/22/2023,on leave,full-time,Services,executive,Yes,Union,NJ,26-35,Black,Male,"Kautzer, Ebert and Mann",Novosibirsk State Technical University,Referral
+365,Civil Engineer,1/17/2023,active,contract,Business Development,executive,No,Non-Uion,NJ,56-65,Asian,Non-binary,"Gorczany, Medhurst and Denesik",Yerevan Haibusak University,Staffing Agency
+366,Marketing Manager,10/11/2023,active,part-time,Legal,staff,No,Union,NY,66+,Black,Female,Collins-Powlowski,Université Amar Telidji,Conference
+367,Chief Design Engineer,1/29/2023,active,part-time,Support,executive,Yes,Union,NJ,56-65,Not Specified,Male,"Reichert, Johnson and Buckridge",Iniciativa Universidad del Atlantico,Social Media
+368,Chief Design Engineer,4/19/2023,active,full-time,Training,executive,No,Non-Uion,NJ,18-25,Hispanic/Latino,Female,,Asa University Bangladesh,Former Employee
+369,Tax Accountant,2/11/2023,active,contract,Support,executive,Yes,Non-Uion,MA,26-35,Asian,Male,Feil LLC,Tumaini University - Iringa University College,Former Employee
+370,Editor,1/30/2023,on leave,part-time,Services,executive,No,Non-Uion,PA,18-25,Asian,Male,Wilkinson Group,Facultés Universitaires Catholiques de Mons,Job Board
+371,Mechanical Systems Engineer,6/26/2023,on leave,part-time,Marketing,staff,No,Union,NJ,26-35,Black,,Strosin-Runolfsson,Sibelius Academy,Job Board
+372,Nurse Practicioner,3/22/2023,on leave,contract,Product Management,executive,No,Union,MA,26-35,Not Specified,Female,,International Culture University ,
+373,Quality Engineer,2/4/2023,active,full-time,Product Management,staff,Yes,Union,NY,66+,Pacific Islander,Male,Wilderman LLC,Technological Education Institute of Kozani,Conference
+374,Programmer Analyst IV,2/22/2023,active,contract,Marketing,management,No,Non-Uion,MA,36-45,Not Specified,Female,"Spencer, Gerhold and Gorczany","University of Halifax, Birmingham Campus",Job Board
+375,VP Quality Control,10/16/2023,active,full-time,Business Development,"",No,Non-Uion,NJ,56-65,Native American,Female,,University of Huddersfield,Social Media
+376,Account Coordinator,6/14/2023,active,full-time,Research and Development,executive,No,Union,NJ,18-25,Native American,Female,King Inc,Dowling College,
+377,Executive Secretary,10/23/2023,active,contract,Business Development,executive,No,Union,NJ,46-55,,,"Hyatt, Emard and Will",Beijing University of Agriculture,Referral
+378,Developer III,5/12/2023,on leave,full-time,Training,"",Yes,Union,NY,66+,Hispanic/Latino,Female,,Northwestern University In Qatar,Social Media
+379,Civil Engineer,5/21/2023,active,full-time,Product Management,executive,No,Non-Uion,MA,66+,,,Zulauf LLC,Iran University of Medical Sciences,Social Media
+380,Junior Executive,5/5/2023,active,full-time,Legal,staff,Yes,Non-Uion,PA,36-45,,Male,,Kaunas Medical Academy,Career Fair
+381,Electrical Engineer,9/29/2023,active,part-time,Sales,management,Yes,Non-Uion,PA,66+,Hispanic/Latino,Male,"Murazik, Kertzmann and O'Connell",Martin Methodist College,Conference
+382,Staff Accountant II,12/9/2023,active,full-time,Engineering,management,No,Non-Uion,CT,66+,"",Male,Bednar-Kautzer,Komar University of Science and Technology,Referral
+383,Computer Systems Analyst I,1/2/2023,active,part-time,Marketing,executive,Yes,Union,NY,26-35,White,Male,Sporer-Harris,"Universidad Iberoamericana, Campus León",Former Employee
+384,Analog Circuit Design manager,10/6/2023,active,contract,Product Management,executive,No,Non-Uion,MA,26-35,Hispanic/Latino,Male,"Gerlach, Johnston and Legros",Aga Khan University,Career Fair
+385,Marketing Manager,1/21/2023,on leave,part-time,Product Management,executive,Yes,Union,CT,56-65,"",Male,,Universidad Nacional de Piura,Career Fair
+386,Marketing Manager,6/8/2023,on leave,full-time,Accounting,management,No,Union,NJ,46-55,Not Specified,Male,"Klein, Thompson and Lindgren",Kunitachi College of Music,
+387,Internal Auditor,10/5/2023,on leave,contract,Engineering,"",Yes,Non-Uion,NJ,26-35,Not Specified,Female,,Dayalbagh Educational Institute,Conference
+388,Office Assistant II,4/26/2023,active,full-time,Product Management,staff,Yes,Union,CT,46-55,Pacific Islander,Male,"Kuhn, Howe and Hills",Chiba Keizai University,Social Media
+389,Environmental Tech,12/18/2023,on leave,contract,Marketing,executive,No,Non-Uion,PA,26-35,,,"Feest, Schamberger and Wisoky",Omsk State Medicical Academy,Conference
+390,Data Coordinator,4/11/2023,active,part-time,Marketing,management,Yes,Non-Uion,MA,46-55,Black,Female,"Williamson, Hilpert and Barton",National University of Samoa,Former Employee
+391,Business Systems Development Analyst,11/20/2023,active,contract,Marketing,staff,No,Non-Uion,NY,18-25,"",,"O'Reilly, Davis and McClure",Universidad del Salvador,Referral
+392,Nurse Practicioner,3/5/2023,on leave,part-time,Accounting,executive,Yes,Non-Uion,NJ,36-45,,Male,McCullough LLC,"California State University, Fresno",
+393,Chief Design Engineer,12/4/2023,active,contract,Support,management,Yes,Non-Uion,NY,18-25,,Male,"Fay, Murphy and Wilkinson",University Malaysia Pahang,Job Board
+394,Marketing Assistant,5/17/2023,on leave,part-time,Services,executive,Yes,Non-Uion,CT,56-65,"",Female,"Ryan, Crooks and Tillman",Vikrama Simhapuri University,Referral
+395,Automation Specialist II,8/26/2023,on leave,part-time,Business Development,"",Yes,Non-Uion,NJ,36-45,Native American,,Murazik-Reinger,King's College,Career Fair
+396,Quality Control Specialist,10/10/2023,on leave,part-time,Product Management,executive,No,Non-Uion,NJ,36-45,White,Male,Morissette Group,Ghulam Ishaq Khan Institute of Science & Technology,Referral
+397,Help Desk Technician,11/15/2023,on leave,contract,Training,management,Yes,Union,NY,66+,Hispanic/Latino,,Ruecker Group,Symbiosis International University,
+398,Research Associate,11/9/2023,on leave,contract,Business Development,staff,Yes,Non-Uion,MA,36-45,"",Male,"Littel, Shields and Mueller",Universidad Tecnológica Oteima,Staffing Agency
+399,Actuary,10/10/2023,active,part-time,Sales,staff,No,Union,MA,26-35,Black,Female,Quigley-Lebsack,Corporación Universitaria de la Costa (UNICOSTA),Social Media
+400,Senior Cost Accountant,10/4/2023,active,contract,Sales,staff,No,Union,NJ,66+,Black,Female,"Jacobson, Ward and Abernathy",Universidad Católica de Ávila,Social Media
+401,Geologist III,5/11/2023,on leave,contract,Marketing,"",No,Non-Uion,MA,46-55,Black,Male,Funk LLC,GC University,Job Board
+402,Media Manager II,3/29/2023,active,part-time,Support,"",No,Union,PA,56-65,Asian,Female,Wolff-Little,Hastings College,Conference
+403,Budget/Accounting Analyst IV,12/7/2023,on leave,contract,Product Management,"",No,Non-Uion,MA,66+,Black,Genderqueer,Kunde Group,Instituto Politecnico do Porto,Career Fair
+404,Community Outreach Specialist,12/13/2023,on leave,part-time,Legal,staff,Yes,Non-Uion,PA,26-35,Black,Male,Grant-Cummerata,Fitchburg State College,Former Employee
+405,Director of Sales,5/26/2023,active,contract,Business Development,management,No,Non-Uion,CT,46-55,,Female,"Stamm, Pollich and Mraz",Kalamazoo College,Staffing Agency
+406,GIS Technical Architect,2/23/2023,active,contract,Human Resources,staff,No,Non-Uion,PA,36-45,Black,Male,Waters-Ankunding,Catholic University of Taegu-Hyosung,Social Media
+407,VP Product Management,11/17/2023,on leave,contract,Legal,executive,Yes,Union,NJ,36-45,,Female,Hickle-Hackett,Prasetiya Mulya Business School,Social Media
+408,Structural Analysis Engineer,10/1/2023,on leave,contract,Research and Development,executive,Yes,Union,NJ,46-55,Not Specified,Female,"Orn, Adams and Beer",Harokopio University,Job Board
+409,Dental Hygienist,6/18/2023,active,part-time,Support,management,No,Non-Uion,PA,18-25,Black,Female,"Parker, Marquardt and Yundt",Gansu Agricultural University,Former Employee
+410,Web Developer IV,6/29/2023,on leave,contract,Accounting,"",Yes,Union,PA,18-25,,Male,Heller-Hettinger,Université Thierno Amadou Diallo,Referral
+411,Marketing Manager,1/12/2023,active,full-time,Business Development,executive,Yes,Union,NJ,26-35,Native American,Female,,Ho Chi Minh City University of Natural Sciences,Former Employee
+412,Programmer II,5/13/2023,on leave,part-time,Services,staff,Yes,Non-Uion,MA,36-45,Not Specified,Male,,HWP - Hamburger Universität für Wirtschaft und Politik,Job Board
+413,Help Desk Operator,7/6/2023,on leave,full-time,Services,management,Yes,Union,PA,46-55,Black,Male,,Dongduk Women's University,Staffing Agency
+414,Operator,3/24/2023,active,part-time,Product Management,executive,Yes,Union,NJ,36-45,Not Specified,Male,Sporer-Ruecker,Agnes Scott College,Social Media
+415,Payment Adjustment Coordinator,2/18/2023,on leave,full-time,Research and Development,executive,Yes,Non-Uion,NY,18-25,Hispanic/Latino,Male,"Braun, Glover and Walker",Marymount College New York,Former Employee
+416,Operator,6/7/2023,active,part-time,Marketing,"",Yes,Non-Uion,PA,26-35,Native American,,,Tsinghua University,Job Board
+417,Developer IV,10/19/2023,active,full-time,Training,executive,No,Union,CT,26-35,Pacific Islander,Female,,Instituto Tecnológico Metropolitano,
+418,Structural Analysis Engineer,12/26/2023,active,full-time,Research and Development,management,No,Union,NJ,36-45,Asian,Female,,Izhevsk State Technical University,Career Fair
+419,Sales Representative,3/15/2023,active,contract,Engineering,management,Yes,Non-Uion,PA,56-65,"",,,Elisabeth University of Music,Staffing Agency
+420,Civil Engineer,2/4/2023,on leave,full-time,Engineering,management,No,Union,CT,26-35,Hispanic/Latino,Male,Tillman-Sporer,Wayland Baptist University,Conference
+421,Director of Sales,10/22/2023,active,part-time,Support,management,Yes,Non-Uion,MA,56-65,,Male,Block Inc,Jeonju University,
+422,Web Developer III,2/8/2023,on leave,contract,Sales,"",Yes,Non-Uion,NY,56-65,Black,Male,Yost-Koepp,Universidad de Extremadura,Former Employee
+423,Teacher,10/15/2023,on leave,part-time,Accounting,"",No,Union,PA,46-55,Asian,Female,"Glover, Pfeffer and Kuhic",Oulu Polytechnic,Social Media
+424,Structural Engineer,2/22/2023,on leave,part-time,Engineering,staff,Yes,Union,PA,36-45,Not Specified,Male,Schimmel-Hickle,"New York University, Abu Dhabi",Staffing Agency
+425,Dental Hygienist,9/3/2023,active,full-time,Engineering,executive,No,Union,MA,66+,Pacific Islander,Female,Stoltenberg-Ullrich,University of Indianapolis,Career Fair
+426,Staff Accountant II,1/25/2023,active,part-time,Product Management,staff,No,Non-Uion,CT,26-35,Native American,Male,,Universidade Federal de Roraima,Social Media
+427,Research Associate,9/25/2023,on leave,full-time,Training,management,Yes,Non-Uion,PA,66+,Pacific Islander,Male,Romaguera-Jacobs,Build Bright University,Staffing Agency
+428,Media Manager III,8/7/2023,active,full-time,Business Development,management,Yes,Non-Uion,MA,26-35,Hispanic/Latino,Female,,Xavier University of Louisiana,Former Employee
+429,Assistant Professor,12/4/2023,on leave,full-time,Marketing,staff,No,Non-Uion,CT,66+,"",Male,,Volgograd State University of Architecture and Civil Engineering (VolgGASU),Conference
+430,Biostatistician IV,9/3/2023,on leave,part-time,Engineering,management,No,Non-Uion,NJ,26-35,Hispanic/Latino,Non-binary,Borer-Conn,Riara University School of Business and Law,Former Employee
+431,Senior Quality Engineer,4/7/2023,on leave,full-time,Product Management,executive,No,Union,NJ,66+,Asian,Female,Monahan Group,Université d'Auvergne (Clermont-Ferrand I),Conference
+432,Cost Accountant,12/3/2023,on leave,contract,Product Management,executive,Yes,Union,CT,66+,Not Specified,,Rodriguez-Hand,Universidad Abierta Interactiva,Social Media
+433,Internal Auditor,10/7/2023,on leave,part-time,Legal,"",Yes,Union,NJ,26-35,"",,Kuvalis-Koss,George Wythe College,Staffing Agency
+434,Assistant Media Planner,7/19/2023,active,part-time,Marketing,executive,No,Non-Uion,NJ,26-35,Pacific Islander,Male,,University of Lagos,Conference
+435,Structural Engineer,4/5/2023,active,contract,Research and Development,management,Yes,Non-Uion,MA,66+,Black,Female,,Glendale University College of Law,Referral
+436,Marketing Assistant,8/10/2023,active,full-time,Research and Development,executive,Yes,Union,PA,26-35,"",Male,"Sporer, Hartmann and Feest",Seinan Gakuin University,Staffing Agency
+437,Design Engineer,9/25/2023,active,part-time,Research and Development,management,Yes,Non-Uion,PA,46-55,White,Male,,"Islamic Azad University, Garmsar",Job Board
+438,Help Desk Technician,1/8/2023,on leave,contract,Accounting,staff,Yes,Union,NJ,26-35,White,Male,Hyatt Inc,Fachhochschule Lippe,Staffing Agency
+439,Quality Control Specialist,4/9/2023,active,part-time,Legal,staff,Yes,Union,MA,66+,Hispanic/Latino,Female,"Berge, Lubowitz and Ruecker",Universidad Autónoma del Carmen,Former Employee
+440,Senior Developer,9/26/2023,active,part-time,Marketing,"",Yes,Non-Uion,CT,66+,Asian,Male,Ullrich-Kuphal,Air Force Institute of Technology,Conference
+441,Social Worker,12/13/2023,active,contract,Marketing,management,Yes,Non-Uion,NJ,18-25,Black,Male,White Group,Curtin University of Technology,Job Board
+442,Web Developer II,9/8/2023,on leave,contract,Research and Development,management,Yes,Non-Uion,NY,36-45,Native American,Female,,"University of Elbasan ""Aleksander Xhuvani""",Conference
+443,Marketing Assistant,3/2/2023,on leave,full-time,Business Development,staff,No,Union,NY,66+,"",Female,"Kutch, Brown and Runolfsson",Fachhochschule Schmalkalden,Conference
+444,Assistant Manager,3/21/2023,active,full-time,Engineering,executive,Yes,Non-Uion,NY,26-35,,Male,,Presbyterian College,Former Employee
+445,Database Administrator III,9/25/2023,active,contract,Engineering,"",No,Non-Uion,NY,46-55,,Male,Grimes Inc,Renmin University of China,Former Employee
+446,Assistant Media Planner,3/17/2023,active,part-time,Engineering,executive,Yes,Union,MA,18-25,,Male,,School of Finance and Banking,Career Fair
+447,Paralegal,10/25/2023,on leave,contract,Sales,staff,No,Union,PA,46-55,"",Male,"Douglas, Kemmer and Flatley",Thammasat University,Former Employee
+448,VP Quality Control,2/2/2023,active,contract,Business Development,management,Yes,Union,NY,66+,"",Male,Hane Inc,ENIC Telecom Lille 1,Career Fair
+449,Database Administrator IV,9/14/2023,on leave,part-time,Marketing,management,No,Non-Uion,NJ,46-55,Hispanic/Latino,Genderfluid,Trantow Group,Université de Fianarantsoa,
+450,Environmental Tech,4/11/2023,active,contract,Business Development,"",Yes,Union,CT,18-25,,Male,Emmerich-Harvey,Otsuma Women's University,
+451,Director of Sales,8/4/2023,active,part-time,Services,executive,No,Union,NY,26-35,"",Female,Kerluke-Gibson,ARYA Institute of Engineering & Technology,Job Board
+452,Programmer Analyst IV,7/19/2023,active,contract,Services,"",No,Union,CT,36-45,Hispanic/Latino,,,Al Hussein Bin Talal University,Former Employee
+453,Analyst Programmer,2/11/2023,active,contract,Engineering,staff,Yes,Non-Uion,NY,66+,Pacific Islander,,Howell Group,Madenat Alelem University College,Referral
+454,Help Desk Technician,2/4/2023,on leave,contract,Research and Development,executive,Yes,Union,CT,56-65,,Female,"Roob, Brown and Conroy",Universidade do Sagrado Coração,Career Fair
+455,VP Accounting,1/13/2023,on leave,contract,Services,management,Yes,Non-Uion,MA,26-35,Black,,Jaskolski-Kris,Villanova University,
+456,Physical Therapy Assistant,5/17/2023,active,full-time,Business Development,management,Yes,Union,MA,56-65,Asian,Female,"Botsford, Daniel and Effertz",State University of New York College at Geneseo,Staffing Agency
+457,Account Executive,5/2/2023,active,full-time,Human Resources,executive,No,Union,NJ,66+,,Female,,Instituto de Estudios Superiores de la Sierra,Career Fair
+458,Editor,5/25/2023,on leave,part-time,Human Resources,executive,No,Non-Uion,NJ,18-25,"",,,Universidad de Concepcion,Social Media
+459,Marketing Manager,1/5/2023,on leave,contract,Business Development,management,Yes,Union,PA,18-25,Asian,Male,Schneider Inc,Hamamatsu University School of Medicine,Referral
+460,Staff Scientist,12/18/2023,active,part-time,Support,"",No,Non-Uion,MA,66+,White,,Hilll-Wehner,Simon's Rock College,

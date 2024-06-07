@@ -1,0 +1,251 @@
+employee_id,Job Title,hire_date,employee_status,employee_type,Department,job_level,supervisor_status,union_affiliation,Location,age_group,Race/Ethnicity,Gender,promotion_date,last promotion date (if applicable),promotion_reason,last_performance_rating,2022_midyear_trending_rating,2022_midyear_promotion_nomination
+1,VP Marketing,7/5/1981,active,full-time,Business Development,staff,Yes,Non-Uion,MA,36-45,Black,Female,12/7/2023,,promotion within compensation band,3,3,consider for next cycle
+2,Safety Technician IV,12/11/2002,on leave,full-time,Support,executive,Yes,Non-Uion,CT,46-55,Native American,Male,8/20/2023,1/8/2020,promotion with new band,2,1,consider for next cycle
+3,Compensation Analyst,6/23/1983,active,full-time,Research and Development,executive,No,Union,PA,46-55,Pacific Islander,Female,6/30/2023,,promotion within compensation band,1,3,not applicable
+4,Nurse Practicioner,10/13/1999,active,full-time,Legal,"",Yes,Union,NJ,46-55,Native American,Female,10/4/2023,,promotion with new band,4,5,promote now
+5,Engineer IV,7/15/2018,active,contract,Legal,"",Yes,Union,PA,18-25,,Male,10/30/2023,,promotion with new band,4,1,consider for next cycle
+6,Sales Associate,1/24/2003,on leave,contract,Training,"",No,Non-Uion,NJ,66+,,Male,3/4/2023,9/9/2021,promotion with new band,4,,promote now
+7,Desktop Support Technician,12/2/1990,on leave,contract,Support,staff,No,Union,PA,26-35,"",,8/18/2023,,promotion within compensation band,5,5,promote now
+8,Paralegal,6/1/1997,active,full-time,Sales,"",Yes,Union,PA,36-45,Asian,Female,5/10/2023,6/27/2019,promotion within compensation band,2,3,promote now
+9,Nurse,3/20/2015,on leave,contract,Accounting,executive,No,Non-Uion,CT,56-65,"",Male,3/30/2023,,promotion with new band,5,2,consider for next cycle
+10,Chief Design Engineer,12/11/2022,on leave,full-time,Business Development,staff,Yes,Union,MA,18-25,Native American,Male,4/28/2023,3/17/2021,promotion with new band,2,1,consider for next cycle
+11,Web Designer IV,7/24/2014,active,part-time,Marketing,executive,Yes,Union,PA,36-45,Black,,7/17/2023,,promotion with new band,4,5,not applicable
+12,Quality Engineer,8/25/2015,on leave,contract,Marketing,executive,Yes,Union,NY,66+,White,Female,11/22/2023,,promotion within compensation band,2,1,not applicable
+13,Social Worker,8/6/2004,on leave,full-time,Training,executive,No,Non-Uion,NJ,56-65,"",Polygender,2/5/2023,7/19/2019,promotion within compensation band,2,4,promote now
+14,Financial Advisor,7/20/2010,on leave,part-time,Marketing,executive,No,Non-Uion,PA,36-45,,Male,10/15/2023,,promotion with new band,5,,not applicable
+15,Database Administrator III,1/22/1986,on leave,full-time,Training,executive,No,Union,MA,46-55,Not Specified,Female,4/23/2023,6/15/2021,promotion within compensation band,5,4,not applicable
+16,Nuclear Power Engineer,6/26/2004,on leave,full-time,Business Development,management,Yes,Union,PA,56-65,Asian,Male,12/15/2023,7/3/2020,promotion within compensation band,5,1,promote now
+17,Nurse,1/10/1996,on leave,part-time,Accounting,management,No,Non-Uion,PA,66+,Black,Female,8/5/2023,1/5/2020,promotion within compensation band,4,1,
+18,Help Desk Technician,4/4/2019,on leave,full-time,Training,staff,No,Union,PA,18-25,Black,Female,8/16/2023,11/14/2019,promotion within compensation band,1,,not applicable
+19,Administrative Officer,4/1/2004,on leave,contract,Product Management,executive,Yes,Union,CT,18-25,Pacific Islander,,2/9/2023,5/15/2022,promotion within compensation band,5,3,consider for next cycle
+20,General Manager,1/5/2003,on leave,part-time,Services,staff,No,Non-Uion,CT,18-25,Asian,Female,6/19/2023,2/19/2019,promotion within compensation band,,,not applicable
+21,Human Resources Manager,7/20/2007,on leave,full-time,Legal,management,Yes,Non-Uion,NY,36-45,,,7/26/2023,8/26/2019,promotion within compensation band,4,,consider for next cycle
+22,Senior Cost Accountant,12/14/2002,on leave,part-time,Engineering,executive,No,Non-Uion,NJ,26-35,Pacific Islander,Female,3/3/2023,,promotion within compensation band,3,,promote now
+23,Senior Financial Analyst,6/1/1986,active,full-time,Engineering,management,Yes,Union,NJ,66+,Not Specified,Genderqueer,6/24/2023,5/16/2019,promotion with new band,1,,consider for next cycle
+24,Sales Associate,11/2/2001,active,contract,Research and Development,executive,Yes,Non-Uion,NJ,66+,White,Male,8/14/2023,3/23/2019,promotion with new band,4,,not applicable
+25,Payment Adjustment Coordinator,5/11/1993,on leave,part-time,Training,management,Yes,Union,MA,18-25,Asian,Polygender,11/30/2023,,promotion with new band,,3,not applicable
+26,Actuary,5/4/1984,active,contract,Engineering,management,Yes,Non-Uion,CT,46-55,Native American,Female,9/10/2023,1/18/2019,promotion with new band,1,1,not applicable
+27,GIS Technical Architect,2/20/1989,active,part-time,Research and Development,staff,Yes,Union,NJ,46-55,Black,Male,4/3/2023,,promotion with new band,,4,consider for next cycle
+28,Product Engineer,1/5/2003,on leave,full-time,Research and Development,management,Yes,Non-Uion,CT,26-35,"",Male,5/14/2023,9/2/2022,promotion with new band,1,5,promote now
+29,Programmer I,8/6/2019,active,contract,Business Development,executive,Yes,Non-Uion,PA,18-25,Black,Male,7/3/2023,4/1/2022,promotion with new band,2,2,not applicable
+30,Biostatistician IV,2/25/2017,active,contract,Legal,management,Yes,Non-Uion,NJ,36-45,White,Female,10/14/2023,,promotion within compensation band,5,1,consider for next cycle
+31,Sales Associate,2/16/2009,active,full-time,Training,executive,No,Non-Uion,CT,36-45,"",Female,10/1/2023,,promotion with new band,2,1,not applicable
+32,Senior Cost Accountant,11/14/2005,active,part-time,Support,management,No,Union,MA,18-25,,Female,8/20/2023,,promotion within compensation band,2,4,not applicable
+33,Structural Analysis Engineer,6/24/2004,on leave,part-time,Training,staff,No,Non-Uion,PA,46-55,Black,Male,5/10/2023,7/13/2022,promotion within compensation band,3,2,promote now
+34,Web Designer II,5/13/1983,on leave,part-time,Training,staff,Yes,Non-Uion,NJ,36-45,Black,Agender,11/19/2023,7/2/2021,promotion with new band,3,4,not applicable
+35,Software Engineer I,9/25/1983,active,part-time,Research and Development,"",No,Non-Uion,CT,46-55,Asian,Male,12/24/2023,6/8/2020,promotion with new band,1,3,promote now
+36,Help Desk Operator,12/10/2000,active,contract,Sales,"",No,Non-Uion,MA,26-35,Asian,Male,11/26/2023,4/6/2021,promotion with new band,4,,promote now
+37,Professor,9/29/2017,on leave,full-time,Services,"",Yes,Non-Uion,NJ,36-45,Asian,Female,7/18/2023,2/20/2022,promotion within compensation band,5,3,consider for next cycle
+38,Senior Financial Analyst,11/29/2023,active,part-time,Business Development,management,Yes,Union,NY,36-45,Not Specified,Polygender,2/19/2023,,promotion with new band,4,2,not applicable
+39,Environmental Tech,8/14/2002,active,part-time,Product Management,staff,No,Non-Uion,NY,26-35,,Female,2/10/2023,4/14/2021,promotion within compensation band,3,4,not applicable
+40,Senior Quality Engineer,6/28/1986,active,part-time,Services,executive,Yes,Union,CT,66+,Asian,Female,1/23/2023,,promotion within compensation band,1,5,promote now
+41,Geologist I,10/26/1980,on leave,full-time,Human Resources,executive,Yes,Non-Uion,NJ,26-35,Native American,Male,12/4/2023,,promotion with new band,3,3,consider for next cycle
+42,Recruiting Manager,5/19/2006,on leave,full-time,Human Resources,"",Yes,Non-Uion,NJ,36-45,Asian,Female,9/30/2023,,promotion with new band,5,5,promote now
+43,Assistant Professor,10/14/1980,on leave,contract,Training,staff,Yes,Union,MA,18-25,,Male,12/2/2023,3/3/2020,promotion with new band,1,5,consider for next cycle
+44,Executive Secretary,6/8/2014,on leave,contract,Engineering,"",No,Union,CT,36-45,,Male,10/14/2023,,promotion within compensation band,2,1,consider for next cycle
+45,Automation Specialist III,1/4/2003,on leave,full-time,Training,staff,No,Union,NY,46-55,Black,Male,3/23/2023,,promotion within compensation band,2,,not applicable
+46,Administrative Assistant IV,2/2/1987,active,part-time,Engineering,"",Yes,Non-Uion,MA,66+,Not Specified,Male,5/5/2023,3/19/2020,promotion with new band,2,1,not applicable
+47,Financial Analyst,6/15/1991,active,part-time,Training,executive,Yes,Union,PA,56-65,,Male,12/29/2023,5/3/2020,promotion with new band,1,,promote now
+48,Legal Assistant,8/24/2008,on leave,part-time,Business Development,staff,Yes,Non-Uion,PA,56-65,Asian,Male,4/12/2023,,promotion with new band,2,3,promote now
+49,Systems Administrator I,4/23/2018,active,contract,Legal,executive,Yes,Union,MA,36-45,White,Male,8/25/2023,,promotion within compensation band,1,5,consider for next cycle
+50,Automation Specialist I,9/30/2007,on leave,full-time,Product Management,"",No,Non-Uion,NY,66+,"",Non-binary,1/28/2023,,promotion within compensation band,1,2,consider for next cycle
+51,Help Desk Technician,2/4/2021,on leave,part-time,Engineering,"",No,Union,MA,66+,Black,Male,9/13/2023,,promotion within compensation band,1,3,
+52,Engineer I,12/31/2017,active,full-time,Legal,management,No,Union,PA,36-45,"",Female,4/23/2023,12/25/2021,promotion within compensation band,5,3,promote now
+53,Account Representative IV,11/11/1996,on leave,part-time,Accounting,"",No,Non-Uion,MA,36-45,Not Specified,Female,4/7/2023,,promotion within compensation band,4,1,consider for next cycle
+54,Quality Engineer,10/26/1993,on leave,part-time,Support,management,No,Non-Uion,NJ,46-55,,,11/12/2023,,promotion with new band,3,4,not applicable
+55,Teacher,11/29/2020,on leave,full-time,Business Development,"",Yes,Union,NJ,46-55,Black,,7/1/2023,,promotion within compensation band,2,1,promote now
+56,Senior Editor,2/18/2002,active,full-time,Research and Development,management,No,Non-Uion,MA,26-35,"",Female,2/25/2023,3/2/2019,promotion with new band,1,1,promote now
+57,Environmental Tech,7/10/2017,on leave,full-time,Marketing,"",No,Union,CT,26-35,Pacific Islander,,3/20/2023,2/3/2019,promotion within compensation band,5,3,not applicable
+58,Recruiting Manager,1/27/1990,on leave,contract,Sales,staff,Yes,Union,CT,36-45,Pacific Islander,Male,1/13/2023,,promotion within compensation band,1,3,promote now
+59,Staff Accountant III,9/16/2008,active,contract,Human Resources,executive,Yes,Non-Uion,CT,26-35,"",Male,3/31/2023,9/12/2020,promotion with new band,3,5,
+60,Quality Engineer,2/4/2006,on leave,contract,Marketing,staff,No,Union,PA,26-35,Pacific Islander,,1/26/2023,2/4/2019,promotion within compensation band,2,3,promote now
+61,VP Sales,4/26/1994,on leave,full-time,Sales,staff,Yes,Non-Uion,MA,26-35,,Male,8/24/2023,,promotion with new band,2,4,not applicable
+62,Occupational Therapist,2/3/1992,on leave,full-time,Training,"",Yes,Non-Uion,NY,26-35,Black,Male,3/25/2023,3/21/2020,promotion within compensation band,2,2,
+63,Office Assistant III,4/8/1992,on leave,part-time,Services,executive,Yes,Union,NY,66+,Not Specified,Male,9/16/2023,10/31/2020,promotion within compensation band,3,4,consider for next cycle
+64,VP Quality Control,11/9/2020,on leave,full-time,Product Management,management,Yes,Non-Uion,NJ,46-55,,Female,9/26/2023,12/28/2020,promotion within compensation band,5,2,consider for next cycle
+65,Physical Therapy Assistant,10/12/2016,active,contract,Support,executive,No,Non-Uion,CT,26-35,Not Specified,,9/7/2023,7/13/2022,promotion within compensation band,2,5,consider for next cycle
+66,Clinical Specialist,12/4/1990,on leave,full-time,Support,management,No,Non-Uion,NY,56-65,Black,,6/6/2023,3/17/2020,promotion with new band,3,2,not applicable
+67,Web Developer II,11/16/1995,active,contract,Human Resources,staff,No,Non-Uion,NY,26-35,Asian,Male,1/1/2023,,promotion with new band,1,3,promote now
+68,Nurse Practicioner,9/1/2020,on leave,full-time,Product Management,management,No,Union,NY,26-35,Pacific Islander,Bigender,10/5/2023,8/29/2022,promotion within compensation band,4,,promote now
+69,Marketing Manager,3/24/2006,on leave,part-time,Services,"",Yes,Union,NY,36-45,Native American,,4/13/2023,,promotion with new band,4,1,promote now
+70,Associate Professor,6/28/2003,on leave,contract,Research and Development,executive,Yes,Non-Uion,MA,56-65,,Male,6/16/2023,3/2/2019,promotion within compensation band,,,consider for next cycle
+71,Project Manager,9/11/2005,on leave,part-time,Sales,"",No,Union,MA,66+,,,3/30/2023,5/31/2022,promotion with new band,,5,promote now
+72,Cost Accountant,9/11/2017,active,full-time,Research and Development,management,No,Non-Uion,CT,56-65,White,Male,9/11/2023,,promotion within compensation band,5,1,
+73,Human Resources Assistant III,11/8/1981,on leave,contract,Services,management,Yes,Union,NY,46-55,Native American,,8/23/2023,7/3/2019,promotion within compensation band,5,2,not applicable
+74,Executive Secretary,1/16/2007,active,contract,Sales,executive,No,Non-Uion,PA,56-65,White,Male,9/21/2023,6/25/2019,promotion within compensation band,,1,consider for next cycle
+75,General Manager,6/1/2000,on leave,part-time,Accounting,staff,Yes,Union,MA,36-45,Hispanic/Latino,Female,12/23/2023,,promotion with new band,3,3,not applicable
+76,General Manager,7/6/2011,on leave,full-time,Accounting,management,No,Union,MA,18-25,White,Male,3/12/2023,,promotion within compensation band,5,2,not applicable
+77,Internal Auditor,12/25/2002,on leave,part-time,Legal,management,No,Non-Uion,MA,56-65,Black,Male,5/17/2023,,promotion with new band,4,2,promote now
+78,Nurse,10/15/2018,active,contract,Business Development,staff,No,Non-Uion,NY,56-65,Pacific Islander,Female,6/29/2023,,promotion with new band,4,5,promote now
+79,General Manager,7/2/1980,on leave,part-time,Sales,management,No,Union,NY,26-35,Not Specified,,5/28/2023,5/2/2022,promotion within compensation band,1,,consider for next cycle
+80,Data Coordinator,8/4/1997,active,contract,Human Resources,staff,Yes,Non-Uion,NJ,66+,Native American,Male,7/10/2023,1/2/2021,promotion with new band,2,2,not applicable
+81,Research Assistant II,8/21/1996,on leave,full-time,Training,"",No,Non-Uion,CT,66+,Pacific Islander,Bigender,8/8/2023,,promotion with new band,3,,not applicable
+82,Account Executive,7/25/1982,on leave,part-time,Engineering,executive,Yes,Union,MA,26-35,,Female,5/18/2023,5/9/2021,promotion with new band,1,4,promote now
+83,Quality Control Specialist,12/15/1981,active,part-time,Research and Development,staff,Yes,Union,NJ,36-45,Asian,Female,2/3/2023,,promotion with new band,4,1,consider for next cycle
+84,Executive Secretary,5/11/2008,on leave,contract,Product Management,staff,Yes,Non-Uion,NJ,56-65,,Male,11/6/2023,,promotion within compensation band,4,2,not applicable
+85,Sales Representative,11/14/1991,on leave,part-time,Support,staff,No,Non-Uion,MA,66+,Native American,Female,1/25/2023,1/14/2021,promotion with new band,,1,not applicable
+86,Registered Nurse,6/10/2010,active,contract,Product Management,"",Yes,Non-Uion,CT,18-25,Hispanic/Latino,Female,7/21/2023,2/24/2019,promotion with new band,1,2,promote now
+87,Human Resources Assistant III,5/18/2021,on leave,part-time,Accounting,executive,Yes,Union,MA,56-65,"",Male,3/11/2023,,promotion within compensation band,3,3,promote now
+88,Nurse Practicioner,7/3/1994,on leave,full-time,Business Development,executive,Yes,Union,NJ,46-55,Pacific Islander,Female,3/7/2023,5/18/2019,promotion within compensation band,2,5,promote now
+89,Help Desk Technician,9/15/1999,on leave,contract,Support,executive,No,Non-Uion,MA,26-35,"",Female,7/10/2023,11/26/2021,promotion with new band,5,3,promote now
+90,Programmer II,8/8/2009,active,full-time,Business Development,"",Yes,Non-Uion,MA,66+,White,,1/9/2023,5/16/2021,promotion with new band,3,2,not applicable
+91,Financial Advisor,5/19/2009,on leave,full-time,Human Resources,executive,No,Union,NY,18-25,Hispanic/Latino,,12/16/2023,4/24/2021,promotion with new band,3,3,not applicable
+92,Environmental Tech,11/24/2006,active,full-time,Legal,executive,Yes,Non-Uion,NJ,66+,,,3/12/2023,8/23/2019,promotion with new band,3,,promote now
+93,Staff Accountant IV,10/2/2016,active,contract,Sales,management,No,Non-Uion,PA,46-55,"",,3/17/2023,12/25/2020,promotion within compensation band,1,4,not applicable
+94,Librarian,3/20/1993,active,contract,Support,executive,No,Union,NY,18-25,,Male,11/14/2023,6/12/2021,promotion within compensation band,1,4,consider for next cycle
+95,Assistant Manager,4/5/2005,active,full-time,Sales,management,Yes,Non-Uion,NJ,56-65,,Female,6/28/2023,4/14/2020,promotion with new band,1,4,promote now
+96,Quality Engineer,5/12/2007,active,full-time,Product Management,executive,Yes,Non-Uion,PA,18-25,,Male,10/25/2023,1/23/2022,promotion with new band,3,2,consider for next cycle
+97,Data Coordinator,1/16/2005,on leave,full-time,Support,"",No,Non-Uion,NY,56-65,Pacific Islander,Female,8/1/2023,11/18/2019,promotion with new band,4,2,promote now
+98,VP Sales,3/14/2010,active,full-time,Legal,management,No,Union,PA,36-45,Asian,Agender,2/18/2023,,promotion with new band,5,,consider for next cycle
+99,Junior Executive,12/6/2008,on leave,part-time,Sales,management,No,Non-Uion,PA,36-45,Black,Female,2/1/2023,,promotion with new band,2,5,promote now
+100,Computer Systems Analyst II,4/23/1984,on leave,contract,Marketing,"",No,Union,NY,18-25,"",Male,6/15/2023,5/11/2019,promotion with new band,,4,consider for next cycle
+101,Legal Assistant,12/9/2001,active,full-time,Training,staff,Yes,Union,MA,56-65,"",Male,1/12/2023,,promotion within compensation band,4,4,promote now
+102,Compensation Analyst,1/11/2021,on leave,part-time,Sales,management,Yes,Non-Uion,CT,66+,Hispanic/Latino,Female,3/31/2023,,promotion within compensation band,3,3,promote now
+103,Paralegal,9/5/1985,active,contract,Services,executive,No,Non-Uion,PA,56-65,"",Female,6/24/2023,,promotion with new band,1,4,not applicable
+104,Librarian,11/24/2007,on leave,part-time,Product Management,staff,Yes,Non-Uion,PA,66+,White,Female,9/29/2023,7/9/2020,promotion with new band,2,2,consider for next cycle
+105,Legal Assistant,2/21/2007,active,contract,Marketing,management,No,Union,MA,46-55,Hispanic/Latino,,1/29/2023,,promotion with new band,,5,not applicable
+106,Biostatistician IV,1/31/1980,on leave,full-time,Marketing,staff,No,Union,MA,26-35,Not Specified,Male,9/21/2023,,promotion with new band,,2,not applicable
+107,Senior Editor,4/26/2012,on leave,part-time,Training,staff,No,Union,NJ,26-35,Hispanic/Latino,Male,3/17/2023,,promotion within compensation band,4,1,not applicable
+108,Recruiting Manager,3/5/1983,on leave,contract,Legal,management,Yes,Union,NY,18-25,Native American,Bigender,10/27/2023,9/20/2019,promotion with new band,4,2,not applicable
+109,Senior Developer,4/9/2017,on leave,part-time,Research and Development,staff,Yes,Non-Uion,PA,46-55,Native American,Female,11/15/2023,3/20/2020,promotion with new band,3,4,promote now
+110,Media Manager III,4/21/2001,on leave,part-time,Support,executive,No,Non-Uion,MA,66+,White,Female,2/26/2023,,promotion with new band,3,4,promote now
+111,Nuclear Power Engineer,11/28/2016,on leave,full-time,Human Resources,"",No,Non-Uion,CT,26-35,Hispanic/Latino,Female,10/2/2023,,promotion with new band,1,,promote now
+112,Nurse,7/23/2013,active,part-time,Accounting,"",Yes,Non-Uion,MA,56-65,Pacific Islander,Female,11/2/2023,4/7/2019,promotion with new band,4,3,consider for next cycle
+113,Data Coordinator,9/23/2011,on leave,part-time,Accounting,staff,Yes,Union,NY,18-25,Native American,Female,6/30/2023,4/4/2020,promotion with new band,4,4,consider for next cycle
+114,Developer IV,7/16/2017,active,contract,Marketing,executive,Yes,Non-Uion,MA,56-65,Native American,,1/27/2023,,promotion with new band,3,5,promote now
+115,Accountant III,6/13/1989,on leave,part-time,Sales,executive,Yes,Union,NJ,26-35,Asian,Female,9/5/2023,,promotion with new band,2,3,promote now
+116,Recruiter,7/9/2020,active,part-time,Human Resources,"",Yes,Non-Uion,MA,46-55,Not Specified,Male,6/4/2023,4/2/2021,promotion within compensation band,5,2,consider for next cycle
+117,Web Developer II,12/12/2016,on leave,full-time,Support,staff,No,Non-Uion,CT,56-65,Not Specified,Female,3/6/2023,,promotion within compensation band,5,5,promote now
+118,Senior Editor,7/21/2015,on leave,contract,Accounting,management,Yes,Union,PA,36-45,Pacific Islander,Male,8/25/2023,4/20/2019,promotion within compensation band,3,5,not applicable
+119,Account Representative I,12/16/1997,on leave,full-time,Sales,management,Yes,Union,CT,46-55,"",,7/4/2023,2/7/2022,promotion within compensation band,5,5,not applicable
+120,Pharmacist,6/2/2004,on leave,full-time,Product Management,executive,No,Non-Uion,PA,56-65,Asian,Female,7/27/2023,11/6/2019,promotion within compensation band,5,1,consider for next cycle
+121,Editor,9/21/1997,active,part-time,Marketing,staff,Yes,Union,PA,56-65,"",Female,7/11/2023,9/22/2021,promotion within compensation band,4,1,consider for next cycle
+122,Registered Nurse,11/9/1987,on leave,part-time,Legal,staff,No,Non-Uion,NJ,26-35,Black,Female,7/19/2023,9/2/2022,promotion within compensation band,2,5,
+123,Software Engineer I,11/26/1999,on leave,contract,Training,"",No,Union,MA,46-55,Black,Female,2/5/2023,9/9/2020,promotion within compensation band,5,,promote now
+124,Civil Engineer,7/31/1999,active,full-time,Research and Development,management,Yes,Union,PA,18-25,Hispanic/Latino,Female,5/11/2023,1/11/2020,promotion within compensation band,,1,not applicable
+125,Nuclear Power Engineer,7/7/1984,on leave,part-time,Sales,staff,No,Non-Uion,NY,36-45,Native American,Genderqueer,12/23/2023,,promotion within compensation band,5,4,promote now
+126,Dental Hygienist,4/22/2002,active,contract,Human Resources,management,Yes,Non-Uion,CT,36-45,"",Male,9/16/2023,,promotion with new band,2,4,not applicable
+127,Nurse Practicioner,2/7/1995,active,full-time,Services,executive,No,Non-Uion,PA,18-25,Native American,Female,1/10/2023,7/30/2022,promotion within compensation band,3,3,consider for next cycle
+128,Assistant Media Planner,3/21/1996,active,contract,Services,management,No,Non-Uion,CT,18-25,"",Female,7/11/2023,,promotion with new band,3,2,consider for next cycle
+129,Media Manager III,9/9/2017,on leave,contract,Legal,"",Yes,Non-Uion,CT,18-25,Pacific Islander,Male,10/9/2023,,promotion within compensation band,1,4,promote now
+130,Staff Scientist,10/4/2002,on leave,full-time,Research and Development,executive,No,Non-Uion,NJ,66+,,Male,7/8/2023,,promotion within compensation band,4,4,promote now
+131,Office Assistant IV,4/4/2000,on leave,contract,Marketing,management,Yes,Non-Uion,NY,56-65,White,Male,1/20/2023,,promotion with new band,2,1,promote now
+132,Marketing Manager,12/21/1983,active,part-time,Product Management,management,Yes,Union,NY,46-55,Native American,Male,12/28/2023,4/16/2022,promotion within compensation band,5,5,not applicable
+133,Account Coordinator,9/15/1988,on leave,part-time,Marketing,staff,Yes,Non-Uion,NJ,36-45,,Female,2/23/2023,,promotion with new band,4,1,not applicable
+134,Software Test Engineer I,6/30/2010,active,part-time,Research and Development,executive,Yes,Union,CT,36-45,,,2/6/2023,8/16/2019,promotion with new band,1,2,promote now
+135,Legal Assistant,3/31/1992,active,full-time,Product Management,management,Yes,Non-Uion,PA,66+,Asian,Male,9/18/2023,,promotion within compensation band,4,4,consider for next cycle
+136,Account Coordinator,4/22/2007,active,contract,Engineering,executive,No,Non-Uion,CT,46-55,,Male,8/21/2023,3/10/2021,promotion within compensation band,2,1,promote now
+137,Product Engineer,10/19/2021,on leave,full-time,Services,management,No,Non-Uion,MA,46-55,Not Specified,Female,6/14/2023,,promotion within compensation band,5,4,consider for next cycle
+138,Accounting Assistant IV,12/14/1991,on leave,part-time,Research and Development,"",No,Non-Uion,MA,18-25,Pacific Islander,Male,4/1/2023,6/12/2020,promotion within compensation band,1,4,consider for next cycle
+139,Product Engineer,5/27/1982,on leave,full-time,Marketing,management,Yes,Union,MA,36-45,"",Male,1/7/2023,,promotion within compensation band,5,2,promote now
+140,Research Associate,11/4/2017,active,contract,Research and Development,staff,Yes,Non-Uion,NJ,46-55,White,Female,5/25/2023,1/16/2022,promotion with new band,1,4,promote now
+141,Graphic Designer,8/2/1987,on leave,part-time,Marketing,"",Yes,Union,NY,26-35,White,Male,11/11/2023,,promotion with new band,1,2,not applicable
+142,Chief Design Engineer,12/14/2006,on leave,full-time,Support,"",Yes,Non-Uion,PA,18-25,Hispanic/Latino,Female,4/8/2023,,promotion with new band,4,3,promote now
+143,Assistant Manager,4/5/2001,on leave,contract,Engineering,staff,Yes,Union,PA,46-55,Native American,,7/8/2023,8/28/2019,promotion within compensation band,4,,not applicable
+144,Senior Quality Engineer,12/9/1987,on leave,part-time,Support,management,Yes,Union,PA,36-45,Hispanic/Latino,Female,7/20/2023,7/8/2022,promotion within compensation band,2,1,not applicable
+145,Electrical Engineer,5/27/2012,active,contract,Engineering,"",Yes,Union,MA,66+,Not Specified,Female,2/13/2023,4/13/2020,promotion with new band,4,4,consider for next cycle
+146,Food Chemist,2/14/1980,active,full-time,Legal,staff,No,Non-Uion,CT,26-35,Native American,,6/10/2023,7/1/2022,promotion with new band,1,,promote now
+147,Sales Associate,3/15/1980,on leave,full-time,Business Development,management,No,Union,PA,66+,Asian,Genderfluid,9/15/2023,11/8/2019,promotion with new band,,,promote now
+148,Staff Accountant II,4/26/2015,on leave,part-time,Product Management,"",No,Non-Uion,MA,18-25,White,Female,5/14/2023,,promotion with new band,5,1,promote now
+149,Research Assistant IV,11/5/1981,on leave,contract,Support,"",No,Non-Uion,MA,56-65,Hispanic/Latino,,7/31/2023,3/4/2020,promotion within compensation band,3,1,consider for next cycle
+150,Environmental Tech,6/23/1991,on leave,contract,Marketing,management,Yes,Union,CT,66+,"",Male,1/1/2023,9/14/2022,promotion within compensation band,4,1,not applicable
+151,Sales Associate,6/27/1998,active,part-time,Services,executive,Yes,Union,PA,56-65,Native American,Female,7/4/2023,5/25/2019,promotion within compensation band,3,3,promote now
+152,Civil Engineer,11/14/2014,on leave,contract,Sales,staff,Yes,Union,PA,56-65,White,Female,3/28/2023,,promotion within compensation band,5,4,not applicable
+153,General Manager,5/23/2008,on leave,part-time,Marketing,executive,No,Non-Uion,CT,18-25,Not Specified,Male,9/18/2023,4/21/2019,promotion with new band,3,1,promote now
+154,Analog Circuit Design manager,3/3/1992,on leave,contract,Accounting,staff,Yes,Non-Uion,PA,26-35,Not Specified,Male,6/12/2023,,promotion within compensation band,2,4,
+155,Senior Cost Accountant,3/28/1992,active,full-time,Marketing,executive,Yes,Union,MA,18-25,Native American,Male,6/4/2023,7/8/2022,promotion with new band,2,3,promote now
+156,Business Systems Development Analyst,4/1/1981,active,part-time,Accounting,management,Yes,Non-Uion,NJ,66+,Native American,Male,5/15/2023,1/5/2020,promotion within compensation band,5,4,not applicable
+157,Safety Technician II,1/9/1990,active,contract,Accounting,staff,No,Union,NY,26-35,Pacific Islander,Male,8/15/2023,4/27/2022,promotion within compensation band,,4,
+158,Cost Accountant,9/14/2017,active,part-time,Human Resources,executive,No,Non-Uion,NJ,26-35,Black,Male,11/26/2023,3/14/2019,promotion within compensation band,1,,consider for next cycle
+159,Senior Editor,8/23/1990,on leave,part-time,Business Development,executive,No,Non-Uion,MA,26-35,Hispanic/Latino,Female,12/10/2023,,promotion within compensation band,5,5,consider for next cycle
+160,Financial Analyst,10/9/1996,active,contract,Support,executive,No,Union,NJ,36-45,Asian,,8/20/2023,9/2/2022,promotion within compensation band,4,4,promote now
+161,Associate Professor,11/27/1998,active,full-time,Engineering,executive,Yes,Non-Uion,PA,46-55,Hispanic/Latino,Female,11/9/2023,2/21/2021,promotion within compensation band,3,5,consider for next cycle
+162,Structural Analysis Engineer,11/30/2014,on leave,full-time,Business Development,executive,No,Union,PA,26-35,Not Specified,Female,6/17/2023,,promotion within compensation band,3,1,consider for next cycle
+163,Sales Representative,9/13/2016,on leave,full-time,Services,management,No,Non-Uion,CT,56-65,Black,Female,10/30/2023,,promotion within compensation band,,5,consider for next cycle
+164,Health Coach IV,10/5/1995,active,part-time,Engineering,staff,Yes,Union,MA,66+,Not Specified,,12/16/2023,,promotion within compensation band,5,5,consider for next cycle
+165,Data Coordinator,7/11/2000,on leave,contract,Business Development,executive,No,Non-Uion,NY,56-65,Pacific Islander,Agender,6/4/2023,,promotion with new band,2,,not applicable
+166,Product Engineer,4/30/2000,active,part-time,Business Development,management,No,Union,NJ,46-55,Not Specified,Female,11/24/2023,8/18/2022,promotion with new band,5,,not applicable
+167,Programmer Analyst IV,8/22/2019,active,part-time,Business Development,management,Yes,Union,PA,18-25,Native American,Female,10/25/2023,,promotion within compensation band,5,,not applicable
+168,Executive Secretary,4/11/1985,active,full-time,Training,"",No,Union,CT,18-25,White,,8/23/2023,,promotion within compensation band,2,3,not applicable
+169,Chemical Engineer,12/23/1996,on leave,full-time,Training,staff,Yes,Non-Uion,NY,56-65,,,4/6/2023,,promotion within compensation band,4,1,not applicable
+170,Payment Adjustment Coordinator,3/25/2023,active,contract,Engineering,staff,Yes,Union,CT,36-45,Black,Male,12/17/2023,3/14/2019,promotion with new band,1,5,promote now
+171,Librarian,6/22/2014,on leave,full-time,Legal,executive,Yes,Union,MA,18-25,,Male,8/4/2023,5/1/2020,promotion within compensation band,2,4,not applicable
+172,Senior Editor,1/12/1989,on leave,part-time,Sales,management,Yes,Non-Uion,NJ,56-65,White,Male,8/5/2023,,promotion within compensation band,1,,not applicable
+173,Software Consultant,3/15/1980,active,part-time,Training,staff,Yes,Non-Uion,CT,56-65,Hispanic/Latino,Female,3/18/2023,8/2/2021,promotion within compensation band,1,2,consider for next cycle
+174,General Manager,5/12/2023,on leave,full-time,Engineering,"",No,Union,CT,26-35,Black,Male,7/17/2023,,promotion with new band,1,1,consider for next cycle
+175,Budget/Accounting Analyst II,7/24/1989,on leave,part-time,Engineering,executive,No,Union,CT,26-35,Hispanic/Latino,Female,4/25/2023,6/3/2021,promotion with new band,,5,promote now
+176,Administrative Assistant II,7/25/1987,on leave,full-time,Training,staff,Yes,Non-Uion,MA,66+,Native American,Male,5/15/2023,6/18/2021,promotion within compensation band,4,3,
+177,Help Desk Technician,1/12/2018,active,full-time,Product Management,"",No,Non-Uion,CT,36-45,"",Genderqueer,6/21/2023,,promotion with new band,5,3,not applicable
+178,Editor,4/30/2004,active,part-time,Sales,management,No,Union,NJ,56-65,Black,Male,1/15/2023,3/30/2021,promotion with new band,2,2,consider for next cycle
+179,Data Coordinator,12/10/1987,on leave,part-time,Support,"",Yes,Non-Uion,NY,56-65,Pacific Islander,,7/2/2023,,promotion with new band,4,4,consider for next cycle
+180,Research Nurse,7/4/2020,active,full-time,Product Management,staff,Yes,Non-Uion,NJ,46-55,Black,Female,2/20/2023,,promotion with new band,1,4,promote now
+181,GIS Technical Architect,12/6/1982,on leave,full-time,Legal,staff,No,Union,PA,18-25,Black,Genderfluid,11/7/2023,9/19/2022,promotion within compensation band,4,2,consider for next cycle
+182,VP Quality Control,1/19/1990,on leave,full-time,Support,management,Yes,Union,MA,46-55,Asian,,9/3/2023,8/10/2020,promotion with new band,1,2,promote now
+183,Associate Professor,3/2/2007,active,full-time,Support,staff,Yes,Union,CT,56-65,Hispanic/Latino,Female,5/16/2023,,promotion with new band,2,5,promote now
+184,Senior Quality Engineer,3/19/1987,active,contract,Training,executive,No,Union,NY,26-35,Not Specified,Female,2/8/2023,6/1/2021,promotion with new band,,1,promote now
+185,Systems Administrator I,9/17/1982,on leave,contract,Research and Development,management,Yes,Union,PA,36-45,Not Specified,Female,10/7/2023,4/19/2019,promotion within compensation band,,5,not applicable
+186,Director of Sales,6/30/2023,on leave,full-time,Human Resources,staff,Yes,Union,NJ,26-35,Native American,Male,2/21/2023,5/31/2019,promotion within compensation band,2,3,not applicable
+187,Budget/Accounting Analyst IV,5/6/2011,on leave,contract,Legal,management,No,Non-Uion,NY,18-25,White,Male,9/1/2023,,promotion within compensation band,4,2,consider for next cycle
+188,Recruiting Manager,1/3/2001,active,contract,Human Resources,management,No,Non-Uion,NJ,66+,Native American,Male,7/10/2023,8/9/2021,promotion within compensation band,4,4,not applicable
+189,Operator,1/2/1989,active,contract,Training,staff,Yes,Union,NY,56-65,Asian,Male,3/13/2023,,promotion with new band,2,,promote now
+190,Database Administrator II,12/13/2000,active,part-time,Accounting,management,No,Union,CT,66+,Not Specified,Non-binary,6/12/2023,,promotion with new band,,,not applicable
+191,Professor,5/1/2005,on leave,full-time,Services,management,No,Union,NJ,18-25,,Male,9/17/2023,11/7/2021,promotion within compensation band,,4,not applicable
+192,Graphic Designer,1/11/2018,on leave,full-time,Services,"",Yes,Non-Uion,MA,18-25,Black,,8/2/2023,6/14/2021,promotion with new band,4,,promote now
+193,Product Engineer,4/27/1994,active,part-time,Marketing,executive,No,Non-Uion,NJ,18-25,Black,Female,10/15/2023,12/24/2019,promotion within compensation band,2,2,not applicable
+194,Research Associate,10/5/1980,on leave,full-time,Engineering,management,Yes,Union,PA,18-25,Pacific Islander,Male,3/20/2023,,promotion with new band,3,5,promote now
+195,Business Systems Development Analyst,10/5/1984,active,part-time,Marketing,staff,No,Non-Uion,NJ,26-35,,Male,9/15/2023,10/5/2019,promotion with new band,3,2,promote now
+196,Automation Specialist III,5/13/2000,active,part-time,Services,management,No,Non-Uion,MA,66+,"",Female,11/10/2023,6/4/2022,promotion with new band,1,4,consider for next cycle
+197,Legal Assistant,11/11/1999,active,contract,Accounting,staff,No,Non-Uion,MA,36-45,Hispanic/Latino,Female,6/16/2023,,promotion with new band,2,3,promote now
+198,Technical Writer,6/19/2011,on leave,full-time,Legal,"",No,Union,NJ,36-45,White,Female,5/4/2023,,promotion within compensation band,2,,not applicable
+199,Programmer I,4/1/2004,active,part-time,Marketing,"",Yes,Non-Uion,MA,18-25,Pacific Islander,Female,11/10/2023,,promotion within compensation band,2,,not applicable
+200,Environmental Specialist,6/9/2019,on leave,part-time,Training,management,Yes,Union,PA,46-55,Native American,Female,12/24/2023,,promotion with new band,1,2,
+201,Account Executive,10/2/1993,active,part-time,Legal,executive,No,Union,MA,46-55,,Female,4/27/2023,,promotion with new band,4,3,
+202,Senior Developer,12/20/2012,on leave,part-time,Business Development,executive,No,Non-Uion,CT,36-45,Pacific Islander,Male,3/5/2023,,promotion within compensation band,2,,not applicable
+203,Associate Professor,9/27/1985,on leave,full-time,Sales,executive,No,Union,MA,66+,Asian,,11/28/2023,5/18/2021,promotion within compensation band,2,2,promote now
+204,Structural Engineer,6/1/1992,on leave,part-time,Product Management,management,No,Non-Uion,MA,56-65,Pacific Islander,,8/30/2023,4/15/2020,promotion with new band,2,1,promote now
+205,Computer Systems Analyst III,3/4/2017,on leave,part-time,Training,staff,Yes,Non-Uion,PA,26-35,Asian,Female,2/12/2023,1/31/2019,promotion within compensation band,2,,promote now
+206,Tax Accountant,5/6/2009,on leave,part-time,Research and Development,"",No,Union,PA,36-45,,Female,12/11/2023,,promotion with new band,5,3,promote now
+207,Web Developer III,11/16/1990,active,full-time,Research and Development,staff,Yes,Union,PA,18-25,White,Male,8/3/2023,,promotion with new band,5,4,
+208,Senior Cost Accountant,10/22/1982,active,part-time,Human Resources,executive,Yes,Union,NY,18-25,Asian,Female,7/5/2023,,promotion within compensation band,2,4,consider for next cycle
+209,VP Sales,1/9/1994,active,contract,Research and Development,"",No,Union,PA,46-55,,Female,4/23/2023,,promotion within compensation band,4,4,promote now
+210,Office Assistant III,8/17/1986,active,part-time,Support,management,Yes,Union,NY,26-35,Pacific Islander,Female,9/1/2023,2/3/2020,promotion with new band,1,4,consider for next cycle
+211,Environmental Tech,8/17/2008,on leave,contract,Sales,executive,Yes,Union,MA,18-25,Hispanic/Latino,Male,8/25/2023,4/3/2022,promotion with new band,5,,not applicable
+212,Web Designer II,7/9/2008,on leave,part-time,Sales,executive,Yes,Non-Uion,CT,66+,"",Agender,1/15/2023,8/22/2020,promotion within compensation band,5,3,promote now
+213,Marketing Manager,12/30/1985,active,full-time,Sales,management,No,Non-Uion,MA,56-65,Asian,Male,1/13/2023,4/30/2022,promotion within compensation band,4,5,not applicable
+214,VP Sales,9/30/2002,active,part-time,Engineering,staff,No,Non-Uion,MA,26-35,"",Female,6/10/2023,,promotion with new band,,1,consider for next cycle
+215,Social Worker,10/19/2001,on leave,part-time,Sales,"",Yes,Union,MA,36-45,Pacific Islander,Female,3/2/2023,,promotion within compensation band,2,5,not applicable
+216,Computer Systems Analyst II,10/17/2003,active,contract,Business Development,"",Yes,Non-Uion,CT,46-55,,Female,5/22/2023,,promotion with new band,5,4,consider for next cycle
+217,Recruiting Manager,10/6/2014,on leave,part-time,Human Resources,staff,No,Union,NY,26-35,Black,Female,8/1/2023,5/2/2022,promotion within compensation band,1,1,promote now
+218,Internal Auditor,5/23/2017,on leave,part-time,Support,staff,No,Union,CT,46-55,,Male,9/28/2023,5/7/2021,promotion with new band,1,1,not applicable
+219,Administrative Officer,10/4/2017,on leave,contract,Product Management,"",Yes,Non-Uion,NJ,18-25,Pacific Islander,Female,8/20/2023,7/10/2021,promotion within compensation band,3,,not applicable
+220,Senior Quality Engineer,6/1/2011,on leave,part-time,Research and Development,management,No,Union,NJ,36-45,Hispanic/Latino,Female,4/12/2023,,promotion with new band,3,,not applicable
+221,Nurse,8/13/1993,active,contract,Marketing,staff,No,Union,MA,26-35,White,Female,7/12/2023,8/1/2019,promotion within compensation band,5,4,not applicable
+222,Biostatistician I,1/29/1980,active,part-time,Business Development,management,Yes,Non-Uion,NJ,18-25,Native American,Agender,9/23/2023,9/14/2019,promotion with new band,1,4,promote now
+223,Programmer Analyst II,7/29/1994,on leave,part-time,Human Resources,"",Yes,Non-Uion,CT,18-25,Pacific Islander,Agender,12/18/2023,4/5/2022,promotion with new band,1,,
+224,Executive Secretary,12/31/2014,on leave,full-time,Services,staff,Yes,Union,NJ,66+,"",Male,11/9/2023,,promotion with new band,2,5,promote now
+225,Pharmacist,11/30/1982,on leave,contract,Training,"",No,Union,CT,36-45,Native American,Female,8/31/2023,,promotion with new band,5,1,promote now
+226,Recruiter,5/14/1992,on leave,contract,Accounting,staff,Yes,Union,PA,36-45,Not Specified,Male,6/24/2023,5/16/2020,promotion with new band,4,,consider for next cycle
+227,Health Coach IV,10/11/2011,on leave,full-time,Business Development,executive,No,Non-Uion,CT,36-45,Native American,Agender,7/23/2023,,promotion with new band,1,5,promote now
+228,Environmental Tech,10/23/1983,active,full-time,Business Development,"",Yes,Union,PA,46-55,Native American,Female,8/25/2023,9/11/2019,promotion within compensation band,5,1,promote now
+229,Software Engineer IV,1/4/1998,active,part-time,Legal,staff,No,Non-Uion,NY,18-25,Not Specified,Male,5/17/2023,,promotion with new band,2,2,promote now
+230,Physical Therapy Assistant,4/27/2012,active,full-time,Human Resources,executive,Yes,Union,NJ,46-55,Black,Male,5/26/2023,,promotion within compensation band,3,3,consider for next cycle
+231,GIS Technical Architect,7/18/1981,active,part-time,Accounting,staff,No,Non-Uion,PA,18-25,White,Female,8/22/2023,,promotion within compensation band,1,4,not applicable
+232,Internal Auditor,7/29/2022,active,contract,Accounting,staff,No,Non-Uion,NJ,26-35,,Female,4/13/2023,,promotion within compensation band,4,4,promote now
+233,Payment Adjustment Coordinator,11/12/2002,on leave,contract,Training,executive,No,Non-Uion,CT,46-55,Native American,Female,10/20/2023,,promotion within compensation band,4,5,
+234,Biostatistician IV,6/16/1991,active,contract,Legal,"",Yes,Non-Uion,MA,18-25,Native American,Female,2/15/2023,,promotion with new band,3,5,consider for next cycle
+235,Business Systems Development Analyst,11/2/1990,on leave,part-time,Business Development,"",Yes,Union,NY,36-45,Asian,,11/20/2023,3/5/2019,promotion within compensation band,2,4,consider for next cycle
+236,Operator,10/29/1992,active,part-time,Services,staff,No,Non-Uion,CT,56-65,"",Male,1/10/2023,,promotion with new band,3,2,consider for next cycle
+237,Paralegal,12/24/2010,active,full-time,Support,executive,Yes,Non-Uion,PA,66+,"",,12/16/2023,,promotion within compensation band,2,2,consider for next cycle
+238,Information Systems Manager,6/3/1997,on leave,full-time,Marketing,management,Yes,Union,MA,56-65,"",Male,12/9/2023,,promotion with new band,2,4,consider for next cycle
+239,Environmental Tech,10/27/1999,on leave,full-time,Legal,staff,No,Non-Uion,CT,46-55,Not Specified,Male,12/27/2023,10/4/2022,promotion with new band,1,,not applicable
+240,Administrative Officer,7/7/1987,active,full-time,Engineering,executive,No,Non-Uion,NJ,36-45,Asian,Female,3/31/2023,6/5/2020,promotion with new band,3,4,promote now
+241,VP Sales,11/6/1991,active,full-time,Marketing,executive,No,Non-Uion,NY,56-65,White,Polygender,11/3/2023,7/24/2019,promotion with new band,1,5,promote now
+242,Payment Adjustment Coordinator,2/19/2011,on leave,part-time,Business Development,staff,No,Union,NJ,18-25,Not Specified,,9/1/2023,,promotion with new band,1,2,consider for next cycle
+243,Librarian,8/23/1991,active,full-time,Support,staff,Yes,Union,PA,46-55,Black,,4/28/2023,8/26/2022,promotion with new band,5,3,promote now
+244,Account Coordinator,4/30/2010,active,full-time,Support,"",No,Non-Uion,NY,26-35,Asian,Female,1/6/2023,,promotion with new band,4,5,promote now
+245,Office Assistant IV,12/30/2023,active,part-time,Sales,management,Yes,Union,CT,46-55,White,Male,12/20/2023,,promotion with new band,4,2,consider for next cycle
+246,Geologist II,5/21/1998,active,full-time,Product Management,management,Yes,Non-Uion,NY,46-55,"",Bigender,11/20/2023,,promotion with new band,1,1,promote now
+247,VP Product Management,1/10/2010,active,contract,Legal,staff,No,Non-Uion,NY,66+,Not Specified,Female,11/9/2023,,promotion with new band,4,4,promote now
+248,Sales Associate,3/19/2012,active,part-time,Research and Development,management,No,Non-Uion,NY,66+,,Male,6/27/2023,9/17/2020,promotion within compensation band,2,4,
+249,Help Desk Technician,3/21/1989,on leave,contract,Product Management,"",Yes,Union,PA,56-65,"",Male,5/28/2023,4/20/2021,promotion with new band,4,3,consider for next cycle
+250,Compensation Analyst,10/15/2015,on leave,contract,Human Resources,staff,No,Union,NJ,66+,Pacific Islander,Male,3/12/2023,4/1/2019,promotion with new band,5,2,not applicable
